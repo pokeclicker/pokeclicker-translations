@@ -1,0 +1,30 @@
+name: Test
+
+on:
+  push:
+    branches: [ "develop" ]
+  pull_request:
+    branches: [ "develop" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.x
+        cache: 'npm'
+    - run: npm ci
+    - run: npm run i18n-sync
+    - name: Get changed files
+      id: get_changed
+      run: |
+        CHANGED_FILES=$(git status ./locales -s)
+        echo "$CHANGED_FILES"
+        echo "::set-output name=files::$CHANGED_FILES"
+    - name: Assert nothing changed
+      run: if [ -z "${{ steps.get_changed.outputs.files }}" ]; then exit 0; else exit 1; fi
