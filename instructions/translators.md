@@ -23,5 +23,5 @@ This file contains details for people who want to help translate the game.
 ## Other Notes
 Any content which is an empty string ("") will fallback to the english translation string. If you need your language to actually return nothing for this key, you can use the unqouted value `null`
 
-You can reference another translation key within your content like this `$t(other_key)`, or even a key from another file like `$t(file.key)`
+You can reference another translation key within your content like this `[[other_key]]`
 There are other features of the translation system you can read about [here](https://www.i18next.com/translation-function/interpolation)
