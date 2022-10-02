@@ -12,3 +12,5 @@ After adding your english text, run these commands to update the other language 
 npm ci
 npm run i18n-sync
 ```
+
+For testing the translations in pokeclicker, you can set the `TRANSLATIONS_URL` variable in your pokeclicker config.js file to `https://raw.githubusercontent.com/pokeclicker/pokeclicker-translations/develop` if they have been merged here, or the equivalent for your own repo and branch otherwise.
