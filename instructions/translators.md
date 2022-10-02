@@ -19,3 +19,6 @@ This file contains details for people who want to help translate the game.
 1. On your repo, switch to the branch you made for your pull request
 2. Make any additional changes you want, but this time commit them directly to that branch instead of making a new one
 3. After commiting, your Pull Request should automatically pick up your new changes
+
+## Other Notes
+Any content which is an empty string ("") will fallback to the english translation string. If you need your language to actually return nothing for this key, you can use the unqouted value `null`
