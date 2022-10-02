@@ -1,0 +1,23 @@
+{
+  "name": "pokeclicker-translations",
+  "version": "0.0.1",
+  "description": "Translation files for pokeclicker",
+  "main": "index.js",
+  "scripts": {
+    "i18n-sync": "i18next-locales-sync -c ./config/localesSync.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokeclicker/pokeclicker-translations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokeclicker/pokeclicker-translations/issues"
+  },
+  "homepage": "https://github.com/pokeclicker/pokeclicker-translations#readme",
+  "devDependencies": {
+    "i18next-locales-sync": "^2.0.1"
+  }
+}
