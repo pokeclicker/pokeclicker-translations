@@ -11,4 +11,7 @@ There is a [test.yml](.github/workflows/test.yml) workflow run on PRs just to ch
 
 ## TODO
 Add a CODEOWNERS file to automatically request reviews from certain people if a file was changed for a language they manage
+
 Look into using [translation check](https://github.com/locize/translation-check) for a better view of what needs translating
+
+Add a workflow to auto-label PRs with the languages changed
