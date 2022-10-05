@@ -26,5 +26,6 @@ jobs:
         CHANGED_FILES=$(git status ./locales -s)
         echo "$CHANGED_FILES"
         echo "::set-output name=files::$CHANGED_FILES"
+        git diff
     - name: Assert nothing changed
       run: if [ -z "${{ steps.get_changed.outputs.files }}" ]; then exit 0; else exit 1; fi
