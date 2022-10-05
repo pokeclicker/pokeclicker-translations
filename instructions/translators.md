@@ -53,3 +53,6 @@ Note that these are also referencing the translation for the base pokemon name a
 }
 ```
 and the Mega Venusaur and Mega Blastoise keys are still properly translated as "Méga Florizarre" and "Méga Tortank"
+
+
+If you think a translation key is missing (eg, a new pokemon has been added to the game but you can't find it in pokemon.json), please [create an issue](https://github.com/pokeclicker/pokeclicker-translations/issues/new/choose) listing anything missing and someone will make sure it gets added to all language files.
