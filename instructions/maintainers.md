@@ -10,7 +10,7 @@ Add the language code into the [i18n-locales-sync config](/config/localesSync.co
 ```cmd
 npm run i18n-sync
 ```
-(does this need us to create a folder or any files first? Please update this if anything else is required)
+A folder will be created for the language, and a copy of the english language files will be created with empty strings on all keys
 
 ## Pull Requests
 There is a [test.yml](.github/workflows/test.yml) workflow run on PRs just to check the json is valid and no new keys were added/removed without updating all language files
