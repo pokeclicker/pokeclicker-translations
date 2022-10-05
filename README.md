@@ -6,4 +6,4 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
 
 - ### [For Translators](instructions/translators.md)
 - ### [For Developers](instructions/developers.md)
-- ### [For Maintainers](instructions/maintainer.md)
+- ### [For Maintainers](instructions/maintainers.md)
