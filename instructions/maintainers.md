@@ -5,6 +5,13 @@ This file contains instructions for the maintainer of this repo, for updating th
 ## Updating Github Pages
 No build process currently required, just merge `develop` into `main` and pokeclicker will start getting the latest translations
 
+## Adding a New Language
+Add the language code into the [i18n-locales-sync config](/config/localesSync.config.js) `secondaryLanguages` array, then run
+```cmd
+npm run i18n-sync
+```
+A folder will be created for the language, and a copy of the english language files will be created with empty strings on all keys
+
 ## Pull Requests
 There is a [test.yml](.github/workflows/test.yml) workflow run on PRs just to check the json is valid and no new keys were added/removed without updating all language files
 
