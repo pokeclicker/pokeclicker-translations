@@ -42,15 +42,15 @@
         "ribbon": ""
       },
       "flavor": {
-        "vanilla": "",
-        "lemon": "",
-        "mint": "",
-        "matcha": "",
-        "rubycream": "",
-        "caramel": "",
-        "rainbow": "",
-        "rubyswirl": "",
-        "salted": ""
+        "vanilla": "crema de vainilla",
+        "lemon": "crema de limón",
+        "mint": "crema de menta",
+        "matcha": "crema de té",
+        "rubycream": "crema rosa",
+        "caramel": "mezcla caramelo",
+        "rainbow": "tres sabores",
+        "rubyswirl": "mezcla rosa",
+        "salted": "crema salada"
       }
     }
   },
