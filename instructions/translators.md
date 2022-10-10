@@ -24,13 +24,14 @@ Next click the branch selector and type in a name for your new branch. An option
 5. Make your changes in the web editor
 6. Check what you have changed on the preview tab
 7. Below the editor, add a short description of what you have changed, make sure the option "Commit directly to the `your-branch-name` branch" option is selected, and click "Commit changes"
-8. Confirm that the changes are being compared to repo `pokeclicker/pokeclicker-translations` branch `develop`, and then click "Create Pull Request"
-9. Add any additional comments you want, and then click "Create Pull Request"
-10. Someone will review your changes and either accept them or request you make some changes
+8. Repeat steps 2-6 as many times as needed, then click the "Code" tab above the files. There should be a box telling you your branch has had recent changes and gives you a button to "Compare & pull request". Click the button if you are ready to submit your edits.
+9. Confirm that the changes are being compared to repo `pokeclicker/pokeclicker-translations` branch `develop`, and then click "Create Pull Request"
+10. Add any additional comments you want, and then click "Create Pull Request"
+11. Someone will review your changes and either accept them or request you make some changes
 
 ## Updating a pull request with new changes
 1. On your repo, switch to the branch you made for your pull request
-2. Make any additional changes you want, but this time commit them directly to that branch instead of making a new one
+2. Make any additional changes you want and commit them directly to the branch
 3. After commiting, your Pull Request should automatically pick up your new changes
 
 ## Other Notes
