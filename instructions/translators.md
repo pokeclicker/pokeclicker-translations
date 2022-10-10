@@ -5,16 +5,28 @@ This file contains details for people who want to help translate the game.
 1. You will need a github account for editing the files here, if you do not already have one you can [sign up here](https://github.com/signup)
 1. Log into your account and create a fork of this repo [click here](https://github.com/pokeclicker/pokeclicker-translations/fork)
 
+## Creating a new branch for changes
+First, make sure you are on your develop branch (use branch selector in top left), and it is up date by using the "sync fork" button
+
+![Sync Fork](https://user-images.githubusercontent.com/4183969/194877677-f2e1a83b-558e-4f5a-873b-3a9d32576ad7.png)
+
+Click the Update Fork button, and if it asks about conflicting changes, you should discard your conflicting changes
+
+Next click the branch selector and type in a name for your new branch. An option will appear to create a branch with this name and switch you onto it
+
+<img src=https://user-images.githubusercontent.com/4183969/194878383-f223a997-48a3-42e9-89c2-87ef2cb795be.png height="300px" alt="Create new branch"/>
+
+
 ## Making Changes
-1. Make sure you are on the develop branch of your fork, and it is up to date (There is a "sync fork" button you can use to easily update it)
-1. Find the file with the content you want to translate. Translation files are inside the `/locales/{lang}/` folders
-2. Click the edit button at the top right of the file
-3. Make your changes in the web editor
-4. Check what you have changed on the preview tab
-5. Below the editor, add a short description of what you have changed, select the "Create a new branch" option, and then click the "Propose Changes" button
-6. Confirm that the changes are being compared to repo `pokeclicker/pokeclicker-translations` branch `develop`, and then click "Create Pull Request"
-7. Add any additional comments you want, and then click "Create Pull Request"
-8. Someone will review your changes and either accept them or request you make some changes
+1. [Create a new branch](#creating-a-new-branch-for-changes)
+3. Find the file with the content you want to translate. Translation files are inside the `/locales/{lang}/` folders
+4. Click the edit button at the top right of the file
+5. Make your changes in the web editor
+6. Check what you have changed on the preview tab
+7. Below the editor, add a short description of what you have changed, make sure the option "Commit directly to the `your-branch-name` branch" option is selected, and click "Commit changes"
+8. Confirm that the changes are being compared to repo `pokeclicker/pokeclicker-translations` branch `develop`, and then click "Create Pull Request"
+9. Add any additional comments you want, and then click "Create Pull Request"
+10. Someone will review your changes and either accept them or request you make some changes
 
 ## Updating a pull request with new changes
 1. On your repo, switch to the branch you made for your pull request
