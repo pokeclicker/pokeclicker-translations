@@ -19,15 +19,15 @@ Next click the branch selector and type in a name for your new branch. An option
 
 ## Making Changes
 1. [Create a new branch](#creating-a-new-branch-for-changes)
-3. Find the file with the content you want to translate. Translation files are inside the `/locales/{lang}/` folders
-4. Click the edit button at the top right of the file
-5. Make your changes in the web editor
-6. Check what you have changed on the preview tab
-7. Below the editor, add a short description of what you have changed, make sure the option "Commit directly to the `your-branch-name` branch" option is selected, and click "Commit changes"
-8. Repeat steps 2-6 as many times as needed, then click the "Code" tab above the files. There should be a box telling you your branch has had recent changes and gives you a button to "Compare & pull request". Click the button if you are ready to submit your edits.
-9. Confirm that the changes are being compared to repo `pokeclicker/pokeclicker-translations` branch `develop`, and then click "Create Pull Request"
-10. Add any additional comments you want, and then click "Create Pull Request"
-11. Someone will review your changes and either accept them or request you make some changes
+2. Find the file with the content you want to translate. Translation files are inside the `/locales/{lang}/` folders
+3. Click the edit button at the top right of the file
+4. Make your changes in the web editor
+5. Check what you have changed on the preview tab
+6. Below the editor, add a short description of what you have changed, make sure the option "Commit directly to the `your-branch-name` branch" option is selected, and click "Commit changes"
+7. Repeat steps 2-6 as many times as needed, then click the "Code" tab above the files. There should be a box telling you your branch has had recent changes and gives you a button to "Compare & pull request". Click the button if you are ready to submit your edits.
+8. Confirm that the changes are being compared to repo `pokeclicker/pokeclicker-translations` branch `develop`, and then click "Create Pull Request"
+9. Add any additional comments you want, and then click "Create Pull Request"
+10. Someone will review your changes and either accept them or request you make some changes
 
 ## Updating a pull request with new changes
 1. On your repo, switch to the branch you made for your pull request
