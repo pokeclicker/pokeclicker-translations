@@ -1,8 +1,10 @@
 {
   "earnedAchievement": "",
   "escapedShiny": "",
+  "escapedShinyDupe": "",
   "escapedWild": "",
   "encounterShiny": "",
+  "encounterShinyDupe": "",
   "encounterWild": "",
   "gainBattleFrontierReward": "",
   "gainBattleFrontierPoints": "",
@@ -25,7 +27,9 @@
   "enemyDrop": "",
   "roamer": "",
   "roamerShiny": "",
+  "roamerShinyDupe": "",
   "completedQuest": "",
   "completedQuestWithPoints": "",
-  "questLevelUp": ""
+  "questLevelUp": "",
+  "resistantToPokerus": ""
 }

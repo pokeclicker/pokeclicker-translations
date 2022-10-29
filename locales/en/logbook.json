@@ -1,8 +1,10 @@
 {
   "earnedAchievement": "Earned {{ name }}.",
   "escapedShiny": "The shiny {{ pokemon, pokemon }} escaped!",
+  "escapedShinyDupe": "[[escapedShiny]] (duplicate)",
   "escapedWild": "The wild {{ pokemon, pokemon }} escaped!",
   "encounterShiny": "[{{ location }}] You encountered a wild shiny {{ pokemon, pokemon }}.",
+  "encounterShinyDupe": "[[encounterShiny]] (duplicate)",
   "encounterWild": "[{{ location }}] You encountered a wild {{ pokemon, pokemon }}.",
   "gainBattleFrontierReward": "Received {{ reward }} for defeating stage {{ stage }} of the Battle Frontier!",
   "gainBattleFrontierPoints": "Cleared stage {{ stage }} of the Battle Frontier and received {{ points }} Battle Points.",
@@ -25,7 +27,9 @@
   "enemyDrop": "An enemy {{ pokemon, pokemon }} dropped one {{ item }}",
   "roamer": "[{{ location }}] You encountered a roaming {{ pokemon, pokemon }}!",
   "roamerShiny": "[{{ location }}] You encountered a shiny roaming {{ pokemon, pokemon }}!",
+  "roamerShinyDupe": "[[roamerShiny]] (duplicate)",
   "completedQuest": "Completed {{ quest }}.",
   "completedQuestWithPoints": "Completed {{ quest }} for {{ points }} Quest Points.",
-  "questLevelUp": "Quest level increased to level {{ level }}!"
+  "questLevelUp": "Quest level increased to level {{ level }}!",
+  "resistantToPokerus": "{{ pokemon, pokemon }} has become Resistant to Pokérus."
 }
