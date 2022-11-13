@@ -1,11 +1,13 @@
 {
   "earnedAchievement": "Succès {{ name }} obtenu.",
   "escapedShiny": "Le {{ pokemon, pokemon }} chromatique s'est échappé !",
+  "escapedShinyDupe": "[[escapedShiny]] (doublon)",
   "escapedWild": "Le {{ pokemon, pokemon }} sauvage s'est échappé !",
   "encounterShiny": "[{{ location }}] Un {{ pokemon, pokemon }} sauvage chromatique apparaît !",
+  "encounterShinyDupe": "[[encounterShiny]] (doublon)",
   "encounterWild": "[{{ location }}] Un {{ pokemon, pokemon }} sauvage apparaît !",
-  "gainBattleFrontierReward": "{{ reward }} obtenu pour avoir défait l'étage {{ stage }} de la Zone de Combat !",
-  "gainBattleFrontierPoints": "Étage {{ stage }} de la Zone de Combat défait, {{ points }} Points de Combat reçu.",
+  "gainBattleFrontierReward": "{{ reward }} obtenu pour avoir vaincu l'étage {{ stage }} de la Zone de Combat !",
+  "gainBattleFrontierPoints": "Étage {{ stage }} de la Zone de Combat vaincu, {{ points }} Points de Combat reçu.",
   "hatchedShiny": "Un {{ pokemon, pokemon }} chromatique a éclos !",
   "hatchedShinyDupe": "[[hatchedShiny]] (doublon)",
   "unableToPayHatcheryHelper": "Vous êtes à court de {{ currency }} pour payer l'Assistant de Pension {{ name }} !",
@@ -25,7 +27,9 @@
   "enemyDrop": "Le {{ pokemon, pokemon }} ennemi a lâché un {{ item }}",
   "roamer": "[{{ location }}] Vous rencontrez un {{ pokemon, pokemon }} voyageur !",
   "roamerShiny": "[{{ location }}] Vous rencontrez un {{ pokemon, pokemon }} voyageur chromatique !",
+  "roamerShinyDupe": "[{{ location }}] Vous rencontrez un {{ pokemon, pokemon }} voyageur chromatique ! (doublon)",
   "completedQuest": "Quête {{ quest }} complétée.",
   "completedQuestWithPoints": "Quête {{ quest }} complétée, {{ points }} Points de Quête obtenus.",
-  "questLevelUp": "Le niveau de Quête passe au niveau {{ level }} !"
+  "questLevelUp": "Le niveau de Quête passe au niveau {{ level }} !",
+  "resistantToPokerus": "Votre {{ pokemon, pokemon }} est devenu Résistant au Pokérus."
 }

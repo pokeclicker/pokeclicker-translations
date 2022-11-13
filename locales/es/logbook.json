@@ -1,8 +1,10 @@
 {
   "earnedAchievement": "Has obtenido {{ name }}.",
   "escapedShiny": "¡El {{ pokemon, pokemon }} variacolor ha huido!",
+  "escapedShinyDupe": "[[escapedShiny]] (duplicado)",
   "escapedWild": "¡El {{ pokemon, pokemon }} salvaje ha huido!",
   "encounterShiny": "[{{ location }}] ¡Un {{ pokemon, pokemon }} variacolor salvaje ha aparecido!",
+  "encounterShinyDupe": "[[encounterShiny]] (duplicado)",
   "encounterWild": "[{{ location }}] ¡Un {{ pokemon, pokemon }} salvaje ha aparecido!",
   "gainBattleFrontierReward": "Has recibido {{ reward }} por completar el piso {{ stage }} del frente de batalla. ",
   "gainBattleFrontierPoints": "Recibes {{ points }} puntos de batalla por completar el piso {{ stage }} del frente de batalla",
@@ -25,7 +27,9 @@
   "enemyDrop": "Un {{ pokemon, pokemon }} enemigo dejó caer un {{ item }}",
   "roamer": "[{{ location }}] ¡Has encontrado un {{ pokemon, pokemon }} errante!",
   "roamerShiny": "[{{ location }}] ¡Has encontrado un {{ pokemon, pokemon }} errante variacolor!",
+  "roamerShinyDupe": "[[roamerShiny]] (duplicado)",
   "completedQuest": "Has completado {{ quest }}",
   "completedQuestWithPoints": "Has completado {{ quest }} por {{ points }} puntos de misión.",
-  "questLevelUp": "El nivel de misión a aumentado al nivel {{ level }}! "
+  "questLevelUp": "El nivel de misión a aumentado al nivel {{ level }}! ",
+  "resistantToPokerus": "{{ pokemon, pokemon }} se ha vuelto resistente al Pokérus."
 }
