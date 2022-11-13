@@ -1,0 +1,17 @@
+name: Release to GH Pages
+on:
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.5.0
+
+      - name: Merge develop -> main
+        uses: devmasx/merge-branch@v1.4.0
+        with:
+          type: now
+          from_branch: develop
+          target_branch: main
+          github_token: ${{ github.token }}

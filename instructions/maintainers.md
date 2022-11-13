@@ -3,7 +3,7 @@
 This file contains instructions for the maintainer of this repo, for updating the published files etc
 
 ## Updating Github Pages
-No build process currently required, just merge `develop` into `main` and pokeclicker will start getting the latest translations
+No build process currently required, just trigger the [release workflow](https://github.com/pokeclicker/pokeclicker-translations/actions/workflows/release.yml)
 
 ## Adding a New Language
 Add the language code into the [i18n-locales-sync config](/config/localesSync.config.js) `secondaryLanguages` array, then run
