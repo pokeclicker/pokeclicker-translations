@@ -28,7 +28,7 @@
   "roamer": "[{{ location }}] You encountered a roaming {{ pokemon, pokemon }}!",
   "roamerShiny": "[{{ location }}] You encountered a shiny roaming {{ pokemon, pokemon }}!",
   "roamerShinyDupe": "[[roamerShiny]] (duplicate)",
-  "completedQuest": "Completed \"{{ quest }}\".",
+  "completedQuest": "Completed \"{{ quest }}\"",
   "completedQuestWithPoints": "Completed \"{{ quest }}\" for {{ points }} Quest Points.",
   "questLevelUp": "Quest level increased to level {{ level }}!",
   "resistantToPokerus": "{{ pokemon, pokemon }} has become Resistant to Pokérus."
