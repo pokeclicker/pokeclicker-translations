@@ -30,6 +30,6 @@
   "roamerShinyDupe": "[[roamerShiny]] (duplicado)",
   "completedQuest": "Has completado \"{{ quest }}\"",
   "completedQuestWithPoints": "Has completado \"{{ quest }}\" por {{ points }} puntos de misión.",
-  "questLevelUp": "¡El nivel de misión a aumentado al nivel {{ level }}! ",
+  "questLevelUp": "¡El nivel de misión a aumentado al nivel {{ level }}!",
   "resistantToPokerus": "{{ pokemon, pokemon }} se ha vuelto resistente al Pokérus."
 }
