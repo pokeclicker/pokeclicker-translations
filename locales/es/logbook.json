@@ -1,5 +1,5 @@
 {
-  "earnedAchievement": "Has obtenido {{ name }}.",
+  "earnedAchievement": "Has obtenido \"{{ name }}\".",
   "escapedShiny": "¡El {{ pokemon, pokemon }} variocolor ha huido!",
   "escapedShinyDupe": "[[escapedShiny]] (duplicado)",
   "escapedWild": "¡El {{ pokemon, pokemon }} salvaje ha huido!",
@@ -21,15 +21,15 @@
   "purchasedShinyDupe": "[[purchasedShiny]] (duplicado)",
   "evolvedShiny": "Tu {{ basePokemon, pokemon }} ha evolucionado en un {{ evolvedPokemon, pokemon }} variocolor",
   "evolvedShinyDupe": "[[evolvedShiny]] (duplicado)",
-  "captured": "Has capturado un {{ pokemon, pokemon }}",
+  "captured": "Has capturado un {{ pokemon, pokemon }}.",
   "capturedShiny": "Has capturado un {{ pokemon, pokemon }} variocolor!",
   "capturedShinyDupe": "[[capturedShiny]] (duplicado)",
-  "enemyDrop": "Un {{ pokemon, pokemon }} enemigo dejó caer un {{ item }}",
+  "enemyDrop": "Un {{ pokemon, pokemon }} enemigo dejó caer un {{ item }}.",
   "roamer": "[{{ location }}] ¡Has encontrado un {{ pokemon, pokemon }} errante!",
   "roamerShiny": "[{{ location }}] ¡Has encontrado un {{ pokemon, pokemon }} errante variocolor!",
   "roamerShinyDupe": "[[roamerShiny]] (duplicado)",
-  "completedQuest": "Has completado {{ quest }}",
-  "completedQuestWithPoints": "Has completado {{ quest }} por {{ points }} puntos de misión.",
+  "completedQuest": "Has completado \"{{ quest }}\"",
+  "completedQuestWithPoints": "Has completado \"{{ quest }}\" por {{ points }} puntos de misión.",
   "questLevelUp": "El nivel de misión a aumentado al nivel {{ level }}! ",
   "resistantToPokerus": "{{ pokemon, pokemon }} se ha vuelto resistente al Pokérus."
 }
