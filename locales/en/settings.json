@@ -12,6 +12,7 @@
   "showCurrencyGainedAnimation": "Show currency gained animation",
   "showCurrencyLostAnimation": "Show currency lost animation",
   "hideChallengeRelatedModules": "Hide challenge related modules",
+  "hideUndergroundItemsListModules": "Hide Underground Items listing module",
   "disableRightClickMenu": "Disable the right click menu",
   "backgroundImage": "Background image",
   "eggAnimation": "Egg Hatching Animation",

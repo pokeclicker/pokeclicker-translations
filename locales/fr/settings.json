@@ -12,6 +12,7 @@
   "showCurrencyGainedAnimation": "Montrer l'animation de gain de devise",
   "showCurrencyLostAnimation": "Montrer l'animation de perte de devise",
   "hideChallengeRelatedModules": "Masquer les modules liés à des Défis",
+  "hideUndergroundItemsListModules": "Masquer le module listant les objets du sous-terrain",
   "disableRightClickMenu": "Désactiver le menu clic droit",
   "backgroundImage": "Image en arrière-plan",
   "eggAnimation": "Animation d'éclosion d'Œuf",
