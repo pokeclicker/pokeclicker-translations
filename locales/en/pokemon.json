@@ -47,10 +47,10 @@
         "caramel": "Caramel",
         "rubyswirl": "Ruby Swirl",
         "matcha": "Matcha",
-        "salted": "Salted"
+        "salted": "Salted",
         "lemon": "Lemon",
         "mint": "Mint",
-        "rainbow": "Rainbow",
+        "rainbow": "Rainbow"
       }
     },
     "karp": {
@@ -78,8 +78,8 @@
       "stripes": "Stripes",
       "forehead": "Forehead",
       "mask": "Mask",
-      "raindrops": "Raindrops"
-      "saucy": "Saucy",
+      "raindrops": "Raindrops",
+      "saucy": "Saucy"
     }
   },
   "MissingNo.": "MissingNo",
