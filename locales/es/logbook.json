@@ -25,6 +25,7 @@
   "capturedShiny": "¡Has capturado un {{ pokemon, pokemon }} variocolor!",
   "capturedShinyDupe": "[[capturedShiny]] (duplicado)",
   "enemyDrop": "Un {{ pokemon, pokemon }} enemigo dejó caer un {{ item }}.",
+  "capturedShadow": "",
   "roamer": "[{{ location }}] ¡Has encontrado un {{ pokemon, pokemon }} errante!",
   "roamerShiny": "[{{ location }}] ¡Has encontrado un {{ pokemon, pokemon }} errante variocolor!",
   "roamerShinyDupe": "[[roamerShiny]] (duplicado)",

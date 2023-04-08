@@ -25,6 +25,7 @@
   "capturedShiny": "Вы поймали шайни {{ pokemon, pokemon }}!",
   "capturedShinyDupe": "[[capturedShiny]] (дупликат)",
   "enemyDrop": "Вражеский{{ pokemon, pokemon }} выронил {{ item }}.",
+  "capturedShadow": "",
   "roamer": "[{{ location }}] Вы встретили бродящего {{ pokemon, pokemon }}!",
   "roamerShiny": "[{{ location }}]  Вы встретили шайни бродящего {{ pokemon, pokemon }}!",
   "roamerShinyDupe": "[[roamerShiny]] (дупликат)",
