@@ -25,7 +25,7 @@
   "capturedShiny": "你捕捉到了闪光 {{ pokemon, pokemon }}!",
   "capturedShinyDupe": "[[capturedShiny]] (重复)",
   "enemyDrop": "敌方 {{ pokemon, pokemon }} 掉落了一个 {{ item }}.",
-  "capturedShadow": "",
+  "capturedShadow": "你捕捉到了暗影 {{ pokemon, pokemon }}!",
   "roamer": "[{{ location }}] 你遇到了一只漫游 {{ pokemon, pokemon }}!",
   "roamerShiny": "[{{ location }}] 你遇到了一只闪光漫游 {{ pokemon, pokemon }}!",
   "roamerShinyDupe": "[[roamerShiny]] (重复)",
