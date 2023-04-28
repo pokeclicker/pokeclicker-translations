@@ -175,5 +175,18 @@
   "discord-rp.timer": "显示当前会话游戏时间（最多24小时）",
   "discord-rp.timer-reset": "地区更改时重置计时器",
   "discord-rp.large-image": "Discord 大图片",
-  "discord-rp.small-image": "Discord 小图片"
+  "discord-rp.small-image": "Discord 小图片",
+  "logBook": {
+    "NEW": "",
+    "SHINY": "",
+    "CAUGHT": "",
+    "ESCAPED": "",
+    "ROAMER": "",
+    "ACHIEVE": "",
+    "QUEST": "",
+    "FOUND": "",
+    "FRONTIER": "",
+    "WANDER": "",
+    "OTHER": ""
+  }
 }

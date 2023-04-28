@@ -175,5 +175,18 @@
   "discord-rp.timer": "Show current session play time (max 24 hours)",
   "discord-rp.timer-reset": "Reset timer on area change",
   "discord-rp.large-image": "Discord main image",
-  "discord-rp.small-image": "Discord small image"
+  "discord-rp.small-image": "Discord small image",
+  "logBook": {
+    "NEW": "[[logbook:type.NEW]]",
+    "SHINY": "[[logbook:type.SHINY]]",
+    "CAUGHT": "[[logbook:type.CAUGHT]]",
+    "ESCAPED": "[[logbook:type.ESCAPED]]",
+    "ROAMER": "[[logbook:type.ROAMER]]",
+    "ACHIEVE": "[[logbook:type.ACHIEVE]]",
+    "QUEST": "[[logbook:type.QUEST]]",
+    "FOUND": "[[logbook:type.FOUND]]",
+    "FRONTIER": "[[logbook:type.FRONTIER]]",
+    "WANDER": "[[logbook:type.WANDER]]",
+    "OTHER": "[[logbook:type.OTHER]]"
+  }
 }

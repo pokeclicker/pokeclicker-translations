@@ -175,5 +175,18 @@
   "discord-rp.timer": "",
   "discord-rp.timer-reset": "",
   "discord-rp.large-image": "",
-  "discord-rp.small-image": ""
+  "discord-rp.small-image": "",
+  "logBook": {
+    "NEW": "",
+    "SHINY": "",
+    "CAUGHT": "",
+    "ESCAPED": "",
+    "ROAMER": "",
+    "ACHIEVE": "",
+    "QUEST": "",
+    "FOUND": "",
+    "FRONTIER": "",
+    "WANDER": "",
+    "OTHER": ""
+  }
 }
