@@ -143,6 +143,7 @@
   "hotkey.oakItems": "Objetos de Oak",
   "hotkey.underground": "Subsuelo",
   "hotkey.pokeballSelection": "Selección de Pokeballs",
+  "hotkey.dailyQuests": "",
   "hotkey.farm.toggleShovel": "Pala",
   "hotkey.farm.togglePlotSafeLock": "Seguro de parcela",
   "hotkey.underground.hammer": "Martillo",
@@ -175,5 +176,18 @@
   "discord-rp.timer": "Mostrar duración de la sesión actual (máx. 24 horas)",
   "discord-rp.timer-reset": "Reiniciar temporizador al cambiar de área",
   "discord-rp.large-image": "",
-  "discord-rp.small-image": ""
+  "discord-rp.small-image": "",
+  "logBook": {
+    "NEW": "",
+    "SHINY": "",
+    "CAUGHT": "",
+    "ESCAPED": "",
+    "ROAMER": "",
+    "ACHIEVE": "",
+    "QUEST": "",
+    "FOUND": "",
+    "FRONTIER": "",
+    "WANDER": "",
+    "OTHER": ""
+  }
 }

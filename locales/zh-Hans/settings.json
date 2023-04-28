@@ -143,6 +143,7 @@
   "hotkey.oakItems": "高级道具",
   "hotkey.underground": "地下矿场",
   "hotkey.pokeballSelection": "选择精灵球",
+  "hotkey.dailyQuests": "",
   "hotkey.farm.toggleShovel": "切换到铲子",
   "hotkey.farm.togglePlotSafeLock": "切换农场地块锁定",
   "hotkey.underground.hammer": "切换到锤子",
@@ -175,5 +176,18 @@
   "discord-rp.timer": "显示当前会话游戏时间（最多24小时）",
   "discord-rp.timer-reset": "地区更改时重置计时器",
   "discord-rp.large-image": "Discord 大图片",
-  "discord-rp.small-image": "Discord 小图片"
+  "discord-rp.small-image": "Discord 小图片",
+  "logBook": {
+    "NEW": "",
+    "SHINY": "",
+    "CAUGHT": "",
+    "ESCAPED": "",
+    "ROAMER": "",
+    "ACHIEVE": "",
+    "QUEST": "",
+    "FOUND": "",
+    "FRONTIER": "",
+    "WANDER": "",
+    "OTHER": ""
+  }
 }

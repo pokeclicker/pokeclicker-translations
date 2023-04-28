@@ -132,7 +132,6 @@
   "breedingRegionalAttackDebuffSetting": "breedingRegionalAttackDebuffSetting",
   "achievementSort": "Sort",
   "achievementSortDirection": "reverse",
-
   "achievementsPage": "achievementsPage",
   "achievementsStatus": "achievementsStatus",
   "achievementsType": "achievementsType",
@@ -144,6 +143,7 @@
   "hotkey.oakItems": "Вещи Оака",
   "hotkey.underground": "Шахта",
   "hotkey.pokeballSelection": "Выбор Поке Шара",
+  "hotkey.dailyQuests": "",
   "hotkey.farm.toggleShovel": "Включить Лопату",
   "hotkey.farm.togglePlotSafeLock": "Включить Блокировку Грядки",
   "hotkey.underground.hammer": "Переключиться на Молот",
@@ -176,5 +176,18 @@
   "discord-rp.timer": "",
   "discord-rp.timer-reset": "",
   "discord-rp.large-image": "",
-  "discord-rp.small-image": ""
+  "discord-rp.small-image": "",
+  "logBook": {
+    "NEW": "",
+    "SHINY": "",
+    "CAUGHT": "",
+    "ESCAPED": "",
+    "ROAMER": "",
+    "ACHIEVE": "",
+    "QUEST": "",
+    "FOUND": "",
+    "FRONTIER": "",
+    "WANDER": "",
+    "OTHER": ""
+  }
 }
