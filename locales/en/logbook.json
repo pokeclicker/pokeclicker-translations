@@ -1,4 +1,17 @@
 {
+  "type": {
+    "NEW": "NEW",
+    "SHINY": "SHINY",
+    "CAUGHT": "CAUGHT",
+    "ESCAPED": "ESCAPED",
+    "ROAMER": "ROAMER",
+    "ACHIEVE": "ACHIEVE",
+    "QUEST": "QUEST",
+    "FOUND": "FOUND",
+    "FRONTIER": "FRONTIER",
+    "WANDER": "WANDER",
+    "OTHER": "OTHER"
+  },
   "earnedAchievement": "Earned \"{{ name }}\".",
   "escapedShiny": "The shiny {{ pokemon, pokemon }} escaped!",
   "escapedShinyDupe": "[[escapedShiny]] (duplicate)",

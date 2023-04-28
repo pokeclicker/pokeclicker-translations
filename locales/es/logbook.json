@@ -1,4 +1,17 @@
 {
+  "type": {
+    "NEW": "",
+    "SHINY": "",
+    "CAUGHT": "",
+    "ESCAPED": "",
+    "ROAMER": "",
+    "ACHIEVE": "",
+    "QUEST": "",
+    "FOUND": "",
+    "FRONTIER": "",
+    "WANDER": "",
+    "OTHER": ""
+  },
   "earnedAchievement": "Has obtenido \"{{ name }}\".",
   "escapedShiny": "¡El {{ pokemon, pokemon }} variocolor ha huido!",
   "escapedShinyDupe": "[[escapedShiny]] (duplicado)",

@@ -1,4 +1,17 @@
 {
+  "type": {
+    "NEW": "",
+    "SHINY": "",
+    "CAUGHT": "",
+    "ESCAPED": "",
+    "ROAMER": "",
+    "ACHIEVE": "",
+    "QUEST": "",
+    "FOUND": "",
+    "FRONTIER": "",
+    "WANDER": "",
+    "OTHER": ""
+  },
   "earnedAchievement": "„{{ name }}“ freigeschaltet.",
   "escapedShiny": "Das schillerndes  {{ pokemon, pokemon }} ist geflohen!",
   "escapedShinyDupe": "[[escapedShiny]] (Duplikat)",

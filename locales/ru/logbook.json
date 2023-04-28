@@ -1,4 +1,17 @@
 {
+  "type": {
+    "NEW": "",
+    "SHINY": "",
+    "CAUGHT": "",
+    "ESCAPED": "",
+    "ROAMER": "",
+    "ACHIEVE": "",
+    "QUEST": "",
+    "FOUND": "",
+    "FRONTIER": "",
+    "WANDER": "",
+    "OTHER": ""
+  },
   "earnedAchievement": "Получили \"{{ name }}\".",
   "escapedShiny": "Шайни {{ pokemon, pokemon }} убежал!",
   "escapedShinyDupe": "[[escapedShiny]] (дупликат)",

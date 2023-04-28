@@ -1,4 +1,17 @@
 {
+  "type": {
+    "NEW": "",
+    "SHINY": "",
+    "CAUGHT": "",
+    "ESCAPED": "",
+    "ROAMER": "",
+    "ACHIEVE": "",
+    "QUEST": "",
+    "FOUND": "",
+    "FRONTIER": "",
+    "WANDER": "",
+    "OTHER": ""
+  },
   "earnedAchievement": "获得成就\"{{ name }}\".",
   "escapedShiny": "闪光 {{ pokemon, pokemon }} 挣脱了!",
   "escapedShinyDupe": "[[escapedShiny]] (重复)",
