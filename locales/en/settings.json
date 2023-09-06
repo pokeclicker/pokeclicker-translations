@@ -180,6 +180,7 @@
   "logBook": {
     "NEW": "[[logbook:type.NEW]]",
     "SHINY": "[[logbook:type.SHINY]]",
+    "SHINY_DUPLICATE": "[[logbook:type.SHINY_DUPLICATE]]",
     "CAUGHT": "[[logbook:type.CAUGHT]]",
     "ESCAPED": "[[logbook:type.ESCAPED]]",
     "ROAMER": "[[logbook:type.ROAMER]]",

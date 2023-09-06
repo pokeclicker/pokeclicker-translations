@@ -2,6 +2,7 @@
   "type": {
     "NEW": "",
     "SHINY": "",
+    "SHINY_DUPLICATE": "",
     "CAUGHT": "",
     "ESCAPED": "",
     "ROAMER": "",
