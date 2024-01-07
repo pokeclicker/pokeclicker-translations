@@ -162,6 +162,7 @@
   "hotkey.town.accessContent": "Acceder al contenido de la ciudad",
   "hotkey.changeRoutes": "Cambiar de ruta",
   "hotkey.forceSave": "Forzar guardado",
+  "hotkey.downloadSave": "",
   "hotkey.shop.selectItem": "Seleccionar objeto",
   "hotkey.shop.buy": "Comprar objeto",
   "hotkey.shop.max": "Seleccionar cantidad máxima",
