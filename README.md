@@ -121,6 +121,13 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/milotic">
+            <img src="https://avatars.githubusercontent.com/u/1099848?v=4" width="100;" alt="milotic"/>
+            <br />
+            <sub><b>milotic</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/morcousw">
             <img src="https://avatars.githubusercontent.com/u/819898?v=4" width="100;" alt="morcousw"/>
             <br />
