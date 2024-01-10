@@ -49,25 +49,25 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/DreamNya">
+            <img src="https://avatars.githubusercontent.com/u/34838824?v=4" width="100;" alt="DreamNya"/>
+            <br />
+            <sub><b>DreamNya</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/RealPendragon">
             <img src="https://avatars.githubusercontent.com/u/26049815?v=4" width="100;" alt="RealPendragon"/>
             <br />
             <sub><b>RealPendragon</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vicjusmar">
             <img src="https://avatars.githubusercontent.com/u/130184508?v=4" width="100;" alt="vicjusmar"/>
             <br />
             <sub><b>vicjusmar</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/DreamNya">
-            <img src="https://avatars.githubusercontent.com/u/34838824?v=4" width="100;" alt="DreamNya"/>
-            <br />
-            <sub><b>DreamNya</b></sub>
         </a>
     </td>
     <td align="center">
@@ -85,20 +85,27 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/milotic">
+            <img src="https://avatars.githubusercontent.com/u/1099848?v=4" width="100;" alt="milotic"/>
+            <br />
+            <sub><b>milotic</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ChloeThiel">
             <img src="https://avatars.githubusercontent.com/u/58678616?v=4" width="100;" alt="ChloeThiel"/>
             <br />
             <sub><b>ChloeThiel</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Dolvem">
             <img src="https://avatars.githubusercontent.com/u/26521559?v=4" width="100;" alt="Dolvem"/>
             <br />
             <sub><b>Dolvem</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ildoc">
             <img src="https://avatars.githubusercontent.com/u/1956565?v=4" width="100;" alt="ildoc"/>
