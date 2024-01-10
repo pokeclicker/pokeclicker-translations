@@ -3,7 +3,7 @@
     "NEW": "NUEVO",
     "SHINY": "VARIOCOLOR",
     "CAUGHT": "CAPTURADO",
-    "ESCAPED": "HUIDO",
+    "ESCAPED": "HUYÓ",
     "ROAMER": "ERRANTE",
     "ACHIEVE": "OBTENIDO",
     "QUEST": "MISIÓN",
@@ -44,6 +44,6 @@
   "roamerShinyDupe": "[[roamerShiny]] (duplicado)",
   "completedQuest": "Has completado \"{{ quest }}\"",
   "completedQuestWithPoints": "Has completado \"{{ quest }}\" por {{ points }} Puntos de Misión.",
-  "questLevelUp": "¡El nivel de misión ha aumentado al nivel {{ level }}!",
+  "questLevelUp": "¡El nivel de misiones ha aumentado al nivel {{ level }}!",
   "resistantToPokerus": "{{ pokemon, pokemon }} se ha vuelto Resistente al Pokérus."
 }
