@@ -85,20 +85,27 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/milotic">
+            <img src="https://avatars.githubusercontent.com/u/1099848?v=4" width="100;" alt="milotic"/>
+            <br />
+            <sub><b>milotic</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ChloeThiel">
             <img src="https://avatars.githubusercontent.com/u/58678616?v=4" width="100;" alt="ChloeThiel"/>
             <br />
             <sub><b>ChloeThiel</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Dolvem">
             <img src="https://avatars.githubusercontent.com/u/26521559?v=4" width="100;" alt="Dolvem"/>
             <br />
             <sub><b>Dolvem</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ildoc">
             <img src="https://avatars.githubusercontent.com/u/1956565?v=4" width="100;" alt="ildoc"/>
@@ -118,13 +125,6 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
             <img src="https://avatars.githubusercontent.com/u/2527653?v=4" width="100;" alt="norduk"/>
             <br />
             <sub><b>norduk</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/milotic">
-            <img src="https://avatars.githubusercontent.com/u/1099848?v=4" width="100;" alt="milotic"/>
-            <br />
-            <sub><b>milotic</b></sub>
         </a>
     </td>
     <td align="center">
