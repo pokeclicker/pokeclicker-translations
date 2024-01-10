@@ -49,25 +49,25 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/DreamNya">
+            <img src="https://avatars.githubusercontent.com/u/34838824?v=4" width="100;" alt="DreamNya"/>
+            <br />
+            <sub><b>DreamNya</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/RealPendragon">
             <img src="https://avatars.githubusercontent.com/u/26049815?v=4" width="100;" alt="RealPendragon"/>
             <br />
             <sub><b>RealPendragon</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vicjusmar">
             <img src="https://avatars.githubusercontent.com/u/130184508?v=4" width="100;" alt="vicjusmar"/>
             <br />
             <sub><b>vicjusmar</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/DreamNya">
-            <img src="https://avatars.githubusercontent.com/u/34838824?v=4" width="100;" alt="DreamNya"/>
-            <br />
-            <sub><b>DreamNya</b></sub>
         </a>
     </td>
     <td align="center">
