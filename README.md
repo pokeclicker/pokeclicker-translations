@@ -42,17 +42,17 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Oyne">
-            <img src="https://avatars.githubusercontent.com/u/91478447?v=4" width="100;" alt="Oyne"/>
-            <br />
-            <sub><b>Oyne</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/DreamNya">
             <img src="https://avatars.githubusercontent.com/u/34838824?v=4" width="100;" alt="DreamNya"/>
             <br />
             <sub><b>DreamNya</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Oyne">
+            <img src="https://avatars.githubusercontent.com/u/91478447?v=4" width="100;" alt="Oyne"/>
+            <br />
+            <sub><b>Oyne</b></sub>
         </a>
     </td></tr>
 <tr>
