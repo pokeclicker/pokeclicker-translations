@@ -124,7 +124,7 @@
   "pokedexRegionFilter": "Region",
   "pokedexType1Filter": "Type 1",
   "pokedexType2Filter": "Type 2",
-  "pokedexShinyFilter": "Caught Status",
+  "pokedexCaughtFilter": "Caught Status",
   "pokedexPokerusFilter": "Pokérus Status",
   "pokedexUniqueTransformationFilter": "Unique Transformations",
   "pokedexHeldItemFilter": "Rare Held Item",

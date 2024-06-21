@@ -124,7 +124,7 @@
   "pokedexRegionFilter": "",
   "pokedexType1Filter": "Typ 1",
   "pokedexType2Filter": "Typ 2",
-  "pokedexShinyFilter": "Gefangen Status",
+  "pokedexCaughtFilter": "Gefangen Status",
   "pokedexPokerusFilter": "",
   "pokedexUniqueTransformationFilter": "Einzigartige Transformationen",
   "pokedexHeldItemFilter": "Seltene Items zum tragen",

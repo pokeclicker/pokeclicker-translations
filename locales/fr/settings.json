@@ -20,7 +20,6 @@
   "hideQuestsOnFull": "Masquer le menu des quêtes lorsque les emplacements sont pleins",
   "farmDisplay": "Afficher le minuteur dans la Ferme",
   "farmBoostDisplay": "Afficher le boost dans la Ferme",
-  "sizeUnits": "Unités de taille",
   "sizeUnits": "Unité de mesure des Baies",
   "currencyMainDisplayReduced": "Raccourcir les montants des devises affichés à l'écran principal",
   "currencyMainDisplayExtended": "Afficher les Diamants, Points de Récolte et Points de Combat à l'écran",
@@ -125,7 +124,7 @@
   "pokedexRegionFilter": "Région",
   "pokedexType1Filter": "Type 1",
   "pokedexType2Filter": "Type 2",
-  "pokedexShinyFilter": "Attrapé/Chromatique",
+  "pokedexCaughtFilter": "Attrapé/Chromatique",
   "pokedexPokerusFilter": "Pokérus",
   "pokedexUniqueTransformationFilter": "Transformation unique",
   "pokedexHeldItemFilter": "Objets tenus",
@@ -180,7 +179,7 @@
   "discord-rp.timer-reset": "",
   "discord-rp.large-image": "",
   "discord-rp.small-image": "",
-"logBook": {
+  "logBook": {
     "NEW": "Nouveau",
     "SHINY": "Chromatique",
     "CAUGHT": "Capturé",
@@ -192,5 +191,5 @@
     "FRONTIER": "Frontière",
     "WANDER": "Errance",
     "OTHER": "Autre"
-}
+  }
 }

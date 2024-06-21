@@ -124,7 +124,7 @@
   "pokedexRegionFilter": "Región",
   "pokedexType1Filter": "Tipo 1",
   "pokedexType2Filter": "Tipo 2",
-  "pokedexShinyFilter": "Estado de captura",
+  "pokedexCaughtFilter": "Estado de captura",
   "pokedexPokerusFilter": "Pokérus",
   "pokedexUniqueTransformationFilter": "Formas únicas",
   "pokedexHeldItemFilter": "Objeto raro equipado",

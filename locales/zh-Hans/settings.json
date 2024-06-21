@@ -124,7 +124,7 @@
   "pokedexRegionFilter": "地区",
   "pokedexType1Filter": "属性 1",
   "pokedexType2Filter": "属性 2",
-  "pokedexShinyFilter": "捕捉状态",
+  "pokedexCaughtFilter": "捕捉状态",
   "pokedexPokerusFilter": "病毒状态",
   "pokedexUniqueTransformationFilter": "特殊筛选",
   "pokedexHeldItemFilter": "携带稀有道具的宝可梦",
