@@ -124,7 +124,7 @@
   "pokedexRegionFilter": "Регион",
   "pokedexType1Filter": "Тип 1",
   "pokedexType2Filter": "Тип 2",
-  "pokedexShinyFilter": "Статус Поимки",
+  "pokedexCaughtFilter": "Статус Поимки",
   "pokedexPokerusFilter": "Покерус",
   "pokedexUniqueTransformationFilter": "",
   "pokedexHeldItemFilter": "Редкий предмет",
