@@ -1,0 +1,105 @@
+{
+    "encounterType": {
+        "Dungeon": "Dungeon",
+        "DungeonBoss": "Dungeon Boss",
+        "Mimic": "Mimic",
+        "Roamer": "Roamer",
+        "Route": "Route",
+        "Trainer": "Trainer",
+        "UltraBeast": "Ultra Beast",
+        "Wanderer": "Wanderer"
+    },
+    "pokeball": {
+        "Beastball": {
+            "description": "Can only be used on Ultra Beasts",
+            "name": "Beastball"
+        },
+        "Diveball": {
+            "description": "Increased catch rate in water environments",
+            "name": "Diveball"
+        },
+        "Duskball": {
+            "description": "Increased catch rate at night time or in dungeons",
+            "name": "Duskball"
+        },
+        "Fastball": {
+            "description": "Reduced catch time",
+            "name": "Fastball"
+        },
+        "Greatball": {
+            "description": "+5% chance to catch",
+            "name": "Greatball"
+        },
+        "Lureball": {
+            "description": "Increased catch rate on fished Pokémon",
+            "name": "Lureball"
+        },
+        "Luxuryball": {
+            "description": "A Luxury Poké Ball, awards a random currency for catches",
+            "name": "Luxuryball"
+        },
+        "Masterball": {
+            "description": "100% chance to catch",
+            "name": "Masterball"
+        },
+        "Moonball": {
+            "description": "Increased catch rate by the light of the moon",
+            "name": "Moonball"
+        },
+        "Nestball": {
+            "description": "Increased catch rate on earlier routes",
+            "name": "Nestball"
+        },
+        "None": {
+            "description": "Do not catch",
+            "name": "None"
+        },
+        "Pokeball": {
+            "description": "A standard Poké Ball",
+            "name": "Pokeball"
+        },
+        "Quickball": {
+            "description": "Increased catch rate on routes with less Pokémon defeated",
+            "name": "Quickball"
+        },
+        "Repeatball": {
+            "description": "Increased catch rate for Pokémon captured more times, plus higher EV gains",
+            "name": "Repeatball"
+        },
+        "Timerball": {
+            "description": "Increased catch rate on routes with more Pokémon defeated",
+            "name": "Timerball"
+        },
+        "Ultraball": {
+            "description": "+10% chance to catch",
+            "name": "Ultraball"
+        }
+    },
+    "pokemonType": {
+        "Bug": "Bug",
+        "Dark": "Dark",
+        "Dragon": "Dragon",
+        "Electric": "Electric",
+        "Fairy": "Fairy",
+        "Fighting": "Fighting",
+        "Fire": "Fire",
+        "Flying": "Flying",
+        "Ghost": "Ghost",
+        "Grass": "Grass",
+        "Ground": "Ground",
+        "Ice": "Ice",
+        "None": "None",
+        "Normal": "Normal",
+        "Poison": "Poison",
+        "Psychic": "Psychic",
+        "Rock": "Rock",
+        "Steel": "Steel",
+        "Water": "Water"
+    },
+    "pokerus": {
+        "Contagious": "Contagious",
+        "Infected": "Infected",
+        "Resistant": "Resistant",
+        "Uninfected": "Uninfected"
+    }
+}

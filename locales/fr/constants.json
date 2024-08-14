@@ -1,0 +1,105 @@
+{
+    "encounterType": {
+        "Dungeon": "Donjon",
+        "DungeonBoss": "Boss de donjon",
+        "Mimic": "Mimique",
+        "Roamer": "Vagabond",
+        "Route": "Route",
+        "Trainer": "Dresseur",
+        "UltraBeast": "Ultra-Chimère",
+        "Wanderer": "Vadrouilleur"
+    },
+    "pokeball": {
+        "Beastball": {
+            "description": "Utilisable uniquement sur les [[encounterType.UltraBeast]]",
+            "name": "Ultra Ball"
+        },
+        "Diveball": {
+            "description": "Augmente le taux de capture dans les lieux aquatiques",
+            "name": "Scuba Ball"
+        },
+        "Duskball": {
+            "description": "Augmente le taux de capture la nuit ou dans les donjons",
+            "name": "Sombre Ball"
+        },
+        "Fastball": {
+            "description": "Réduit le temps de capture",
+            "name": "Speed Ball"
+        },
+        "Greatball": {
+            "description": "+5% de taux de capture",
+            "name": "Super Ball"
+        },
+        "Lureball": {
+            "description": "Augmente le taux de capture des Pokémon pêchés",
+            "name": "Appât Ball"
+        },
+        "Luxuryball": {
+            "description": "Poké Ball de luxe, octroie une monnaie aléatoire par capture",
+            "name": "Luxe Ball"
+        },
+        "Masterball": {
+            "description": "100% de chance de capturer",
+            "name": "Master Ball"
+        },
+        "Moonball": {
+            "description": "Augmente le taux de capture à la lumière de la Lune",
+            "name": "Lune Ball"
+        },
+        "Nestball": {
+            "description": "Augmente le taux de capture sur les routes de départ",
+            "name": "Faiblo Ball"
+        },
+        "None": {
+            "description": "Ne capture pas",
+            "name": "Aucune"
+        },
+        "Pokeball": {
+            "description": "Une Poké Ball standard",
+            "name": "Poké Ball"
+        },
+        "Quickball": {
+            "description": "Augmente le taux de capture sur les routes à faible nombre de Pokemon vaincus",
+            "name": "Rapide Ball"
+        },
+        "Repeatball": {
+            "description": "Augmente le taux de capture pour les Pokemon capturés de nombreuses fois, avec un meilleur gain d'EV",
+            "name": "Bis Ball"
+        },
+        "Timerball": {
+            "description": "Augmente le taux de capture sur les routes à fort nombre de Pokemon vaincus",
+            "name": "Chrono Ball"
+        },
+        "Ultraball": {
+            "description": "+10% de taux de capture",
+            "name": "Hyper Ball"
+        }
+    },
+    "pokemonType": {
+        "Bug": "Insecte",
+        "Dark": "Ténèbres",
+        "Dragon": "Dragon",
+        "Electric": "Électrik",
+        "Fairy": "Fée",
+        "Fighting": "Combat",
+        "Fire": "Feu",
+        "Flying": "Vol",
+        "Ghost": "Spectre",
+        "Grass": "Plante",
+        "Ground": "Sol",
+        "Ice": "Glace",
+        "None": "Aucun",
+        "Normal": "Normal",
+        "Poison": "Poison",
+        "Psychic": "Psy",
+        "Rock": "Roche",
+        "Steel": "Acier",
+        "Water": "Eau"
+    },
+    "pokerus": {
+        "Contagious": "Contagieux",
+        "Infected": "Infecté",
+        "Resistant": "Résistant",
+        "Uninfected": "Non infecté"
+    }
+}
