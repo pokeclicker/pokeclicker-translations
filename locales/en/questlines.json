@@ -6,6 +6,7 @@
         "step 2.1709200840": "Capture 1 Pokémon. When you defeat a Pokémon, a Poké Ball is thrown and you have a chance to capture it.",
         "step 3.1219228208": "Defeat 10 Pokémon on Route 2. Click Route 2 on the map to move there and begin fighting.",
         "step 4.61756390": "Go back to Pallet Town and say bye to mom.",
+        "step 5.1503948342": "Buy 10 Poké Balls.",
         "step 6.2081090144": "Talk to the Old Man in Viridian City to learn about catching.",
         "step 7.1163928124": "Use what you've learned to catch 5 Pidgey. Talk to the Old Man again if you need a reminder.",
         "step 8.423645430": "Buy the Dungeon Ticket from Viridian City Shop.",
@@ -101,12 +102,14 @@
         "step 8.482024379": "Find Suicune.",
         "step 9.1842954959": "Talk to Eusine in Fuchsia City.",
         "step 10.482024379": "Find Suicune.",
-        "step 11.1806697010": "Talk to Eusine in Bill's House."
+        "step 11.1806697010": "Talk to Eusine in Bill's House.",
+        "step 12.1230542232": "Capture Suicune."
     },
     "Whirl Guardian": {
         "displayName.1568689727": "Whirl Guardian",
         "description.1837762212": "The Kimono Girls of Ecruteak City need help.",
         "step 1.389709620": "Talk to Kimono Girl Zuki in Violet City.",
+        "step 2.899081379": "Hatch 25 Eggs.",
         "step 3.1055114235": "Talk to Kimono Girl Naoko in the Ilex Forest.",
         "step 4.850828738": "Clear Ilex Forest to lead Naoko to safety.",
         "step 5.329117151": "Talk to Kimono Girl Miki at the Ecruteak City Dance Theatre.",
@@ -166,6 +169,7 @@
     "Mystery of Deoxys": {
         "displayName.886697076": "Mystery of Deoxys",
         "description.895585288": "Discover the mystery of Deoxys.",
+        "step 1.377705511": "Defeat 50 Pokémon on Hoenn Route 129.",
         "step 2.1405343435": "Defeat 500 Psychic-type Pokémon.",
         "step 3.1177139236": "Capture or hatch 200 Psychic-type Pokémon.",
         "step 4.328569857": "Enter the Battle Frontier and defeat stage 100."
@@ -473,6 +477,7 @@
         "step 26.1169503761": "Talk to Wallace in Sootopolis City.",
         "step 27.1496839923": "Defeat Wallace in Sootopolis City.",
         "step 28.273979509": "Defeat Zinnia at the Sky Pillar.",
+        "step 29.978320975": "Capture or hatch Rayquaza.",
         "step 30.55051663": "Talk to Zinnia at the Sky Pillar.",
         "step 31.1197679201": "Mega Evolve Rayquaza.",
         "step 32.55051663": "Talk to Zinnia at the Sky Pillar.",
@@ -623,6 +628,7 @@
         "step 2.172755934": "Talk to Baraz in Kiloude City.",
         "step 3.1686440655": "Defeat 100 Psychic-type Pokémon.",
         "step 4.67486960": "That didn't work. Talk to Baraz in Kiloude City.",
+        "step 5.900070107": "Capture or hatch 100 Psychic-type Pokémon.",
         "step 6.452412131": "That didn't work either. Talk to Baraz in Kiloude City.",
         "step 7.1907538199": "Catch 100 Hoopa.",
         "step 8.1629630473": "This is ridiculous. Talk to Baraz in Kiloude City.",
@@ -857,6 +863,7 @@
         "step 1.1947950187": "Talk to Mustard at the Master Dojo.",
         "step 2.1692814172": "Mustard wants to test your ability at the Master Dojo. Defeat him.",
         "step 3.1947950187": "Talk to Mustard at the Master Dojo.",
+        "step 4.665439131": "Capture Galarian Slowpoke 6 times.",
         "step 5.1947950187": "Talk to Mustard at the Master Dojo.",
         "step 6.1953618948": "It seems Mustard still wants to talk to you? Talk to Mustard again at the Master Dojo.",
         "step 7.1272599518": "Talk to Klara and Avery in Warm-Up Tunnel.",
@@ -865,6 +872,7 @@
         "step 10.779913578": "Talk to Klara and Avery in the Master Dojo.",
         "step 11.508583418": "For the final trial, you must defeat both Klara and Avery on the Master Dojo Battle Court.",
         "step 12.1947950187": "Talk to Mustard at the Master Dojo.",
+        "step 13.491593825": "Capture Kubfu.",
         "step 14.1947950187": "Talk to Mustard at the Master Dojo.",
         "step 15.482774597": "Train Kubfu by defeating Dark and Water-type Pokémon.",
         "step 16.1947950187": "Talk to Mustard at the Master Dojo.",
