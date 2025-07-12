@@ -21,7 +21,7 @@
   "encounterWild": "[{{ location }}] Você encountrou um {{ pokemon, pokemon }} selvagem.",
   "gainBattleFrontierReward": "Recebeu {{ reward }} por derrotar o estágio {{ stage }} da Fronteira de Batalha!",
   "gainBattleFrontierPoints": "Derrotou o estágio {{ stage }} da Fronteira de Batalha e recebeu {{ points }} Pontos de Batalha.",
-  "hatchedShiny": "Você chocou um {{ pokemon, pokemon }} shiny!",
+  "hatchedShiny": "Você eclodiu um {{ pokemon, pokemon }} shiny!",
   "hatchedShinyDupe": "[[hatchedShiny]] (duplicata)",
   "unableToPayHatcheryHelper": "Você ficou sem {{ currency }} para pagar o Ajudante de Encubadora {{ name }}!",
   "unableToPayFarmHand": "Você ficou sem Pontos de Horta to pay Fazendeiro {{ name }}!",
