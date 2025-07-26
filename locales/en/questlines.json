@@ -376,16 +376,16 @@
   "Destiny Deoxys": {
     "displayName.0479409362": "Destiny [[pokemon::Deoxys]]",
     "description.0800220169": "Discover the mystery of the crashed meteor.",
-    "step 1.0829727757": "There seems to be a big fuzz about new foundings in the Giant Chasm. Try finding it.",
-    "step 2.1052706220": "You found a Green Pulsing Gemstone. Take a closer look.",
+    "step 1.0128526453": "There seems to be a big fuss about a new discovery in the Giant Chasm. Try finding it.",
+    "step 2.0867411937": "You found a pulsating Green Gemstone. Take a closer look.",
     "step 3.0827426691": "[[pokemon::Rayquaza]] and [[pokemon::Deoxys]] are rampaging in the area. Try to calm them down.",
     "step 4.1979653557": "Now that the situation has calmed down talk to the local scientists about the Green Gemstone.",
     "step 5.0407353830": "Check out the Battle Frontier while the scientist analyzes the gemstone.",
     "step 6.1479527457": "While you were in the Battle Frontier an army of [[pokemon::Deoxys]] attacked. Fight your way out!",
     "step 7.1141065792": "The scientist you met at Giant Chasm is looking for you at the Battle Frontier.",
-    "step 8.0596918756": "The generator isn\t working. Look around for scraps to repair it.",
+    "step 8.0646389080": "The generator isn't working. Look around for scraps to repair it.",
     "step 9.1477242352": "[[pokemon::Rayquaza]] attacks again. Calm it down for the last time.",
-    "step 10.0487610514": "[[pokemon::Rayquaza]] realized that the [[pokemon::Deoxys]] are no threat. Reunite the Purple and Green Gemed [[pokemon::Deoxys]]."
+    "step 10.0105236495": "[[pokemon::Rayquaza]] realized that the [[pokemon::Deoxys]] are no threat. Reunite the Purple and Green Gemmed [[pokemon::Deoxys]]."
   },
   "Swords of Justice": {
     "displayName.0581236512": "Swords of Justice",
