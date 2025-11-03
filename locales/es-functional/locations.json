@@ -1,0 +1,486 @@
+// ==UserScript==
+// @name         PokéClicker Localizaciones | Español
+// @namespace    http://tampermonkey.net/
+// @version      7.0
+// @description  Traduce TODAS las ciudades, rutas y mazmorras al español
+// @author       Natch
+// @match        *://*pokeclicker.com/*
+// @match        https://www.pokeclicker.com/
+// @grant        unsafeWindow
+// @run-at       document-idle
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    const traduccionesLugares = {
+        ...{
+            // KANTO
+            "Bill's House":"Casa de Bill", "Route 4 Pokémon Center":"Centro Pokémon ruta 4", "Client Island":"Isla del Cliente","Celadon City":"Ciudad Azulona",
+            "Indigo Plateau Kanto":"Meseta Añil de Kanto", "Lavender Town":"Pueblo Lavanda", "Pallet Town":"Pueblo Paleta", "Pewter City":"Ciudad Plateada",
+            "Safari Zone":"Zona Safari", "Saffron City":"Ciudad Azafrán", "Vermilion City":"Ciudad Carmín", "Viridian City":"Ciudad Verde", "Cinnabar Island": "Isla Canela",
+            "Fuchsia City": "Ciudad Fucsia", "Cerulean City": "Ciudad Celeste",
+
+            // SEVII ISLAND
+            "One Island":"Isla Prima", "Two Island":"Isla Secunda", "Three Island":"Isla Tera", "Four Island":"Isla Quarta","Five Island":"Isla Inta",
+            "Six Island":"Isla Exta", "Seven Island":"Isla Sétima", "Valencia Island":"Isla Valencia", "Pinkan Island":"Isla Rosada", "Pummelo Island":"Isla Pummelo",
+            "Mikan Island":"Isla Mikan", "Trovita Island":"Isla Trovita","Kumquat Island":"Isla Kumquat", "Professor Ivy's Lab":"Laboratorio de la Profesora Ivy",
+            "Valencia Pokémon Center":"Centro Pokémon de Valencia", "Rocket Warehouse":"Almacén Rocket",
+
+            // JOHTO
+            "New Bark Town":"Pueblo Primavera", "Cherrygrove City":"Ciudad Cerezo", "Violet City":"Ciudad Malva", "Azalea Town":"Pueblo Azalea",
+            "Goldenrod City":"Ciudad Trigal", "Ecruteak City":"Ciudad Iris", "Olivine City":"Ciudad Olivo", "Cianwood City":"Ciudad Orquídea",
+            "Mahogany Town":"Pueblo Caoba", "Blackthorn City":"Ciudad Endrino", "Indigo Plateau Johto":"Meseta Añil de Johto", "National Park":"Parque Nacional",
+
+            // HOENN
+            "Littleroot Town":"Villa Raíz", "Oldale Town":"Pueblo Escaso", "Petalburg City":"Ciudad Petalia", "Rustboro City":"Ciudad Férrica",
+            "Dewford Town":"Pueblo Azuliza", "Slateport City":"Ciudad Portual", "Mauville City":"Ciudad Malvalona", "Sea Mauville":"Malvamar",
+            "Verdanturf Town":"Pueblo Verdegal", "Fallarbor Town":"Pueblo Pardal", "Lavaridge Town":"Pueblo Lavacalda", "Fish Shop":"Pesca Pokémon",
+            "Fortree City":"Ciudad Arborada", "Wind Chime Shop":"Tienda Campana", "Lilycove City":"Ciudad Calagua", "Mossdeep City":"Ciudad Algaria",
+            "Mossdeep Space Center":"Centro Espacial de Algaria", "Pacifidlog Town":"Pueblo Oromar", "Sootopolis City":"Ciudad Arrecípolis",
+            "Ever Grande City":"Ciudad Colosalia", "Battle Frontier":"Frente Batalla","Pokémon League Hoenn":"Liga Pokémon de Hoenn", "Southern Island":"Isla Sur",
+            "Mt. Chimney":"Monte Cenizo",
+
+            // ORRE
+            "Outskirt Stand": "Puesto de Servicio en las afueras",
+            // SINNOH
+            "Twinleaf Town":"Pueblo Hojaverde", "Sandgem Town":"Pueblo Arena", "Jubilife City":"Ciudad Jubileo", "Oreburgh City":"Ciudad Pirita",
+            "Floaroma Town":"Pueblo Aromaflor", "Eterna City":"Ciudad Vetusta", "Hearthome City":"Ciudad Corazón", "Solaceon Town":"Pueblo Sosiego",
+            "Veilstone City":"Ciudad Rocavelo", "Pastoria City":"Ciudad Pradera", "Celestic Town":"Pueblo Caelestis", "Pal Park":"Parque Compi",
+            "Canalave City":"Ciudad Canal", "Great Marsh":"Gran Pantano", "Snowpoint City":"Ciudad Puntaneva", "Secret Berry Shop":"Tienda Secreta de Bayas",
+            "Sunyshore City":"Ciudad Marina", "Fight Area":"Área de Combate", "Survival Area":"Zona Sobrevivir", "Resort Area":"Zona Descanso",
+            "Pokémon League Sinnoh":"Liga Pokémon de Sinnoh",
+
+            // UNOVA
+            "Aspertia City":"Ciudad Engobe", "Floccesy Town":"Pueblo Ocre", "Virbank City":"Ciudad Hormigón", "Castelia City":"Ciudad Porcelana",
+            "Nimbasa City":"Ciudad Mayólica", "Driftveil City":"Ciudad Fayenza", "Mistralton City":"Ciudad Loza", "Lentimas Town":"Pueblo Chamota",
+            "Undella Town":"Pueblo Arenisca", "Lacunosa Town":"Pueblo Ladrillo", "Opelucid City":"Ciudad Caolín", "Humilau City":"Ciudad Marga",
+            "Icirrus City":"Ciudad Teja", "Nacrene City":"Ciudad Esmalte", "Striaton City":"Ciudad Gres", "Accumula Town":"Pueblo Terracota",
+            "Nuvema Town":"Pueblo Arcilla", "Anville Town":"Pueblo Biscuit", "Shopping Mall Nine":"Centro Comercial R9",
+            "Black and White Park":"Parque Blanco y Negro", "Pokémon League Unova":"Liga Pokémon de Unova",
+
+            //KALOS
+            "Vaniville Town":"Pueblo Boceto", "Aquacorde Town":"Pueblo Acuarela", "Santalune City":"Ciudad Novarte", "Lumiose City":"Ciudad Luminalia",
+            "Camphrier Town":"Pueblo Vánitas", "Parfum Palace":"Palacio Cénit", "Ambrette Town":"Pueblo Petroglifo", "Cyllage City":"Ciudad Relieve",
+            "Disguised Shop":"Tienda Disfrazada", "Geosenge Town":"Pueblo Crómlech", "Shalour City":"Ciudad Yantra", "Coumarine City":"Ciudad Témpera",
+            "Laverre City":"Ciudad Romantis", "Dendemille Town":"Pueblo Fresco", "Anistar City":"Ciudad Fluxus", "Couriway Town":"Pueblo Mosaico",
+            "Snowbelle City":"Ciudad Fractal", "Kiloude City":"Ciudad Batik", "Pokémon League Kalos":"Liga Pokémon de Kalos", "Friend Safari":"Safari Amistad",
+            "Poké Ball Factory":"Fábrica de Poké Balls",
+
+            //ALOLA
+            // Melemele Island
+            "Iki Town Outskirts":"Afueras del Pueblo Lilii", "Iki Town":"Pueblo Lilii", "Professor Kukui's Lab":"Laboratorio del Profesor Kukui",
+            "Hau'oli City":"Ciudad Hauoli", "Melemele Woods":"Bosque de Melemele", "Roadside Motel":"Motel de Carretera",
+            // Akala Island
+            "Heahea City":"Ciudad Kantai", "Paniola Town":"Pueblo Ohana", "Royal Avenue":"Avenida Real", "Konikoni City":"Ciudad Konikoni", "Aether Paradise":"Paraíso Æther",
+            // Ula'ula Island
+            "Malie City":"Ciudad Malie", "Tapu Village":"Aldea Tapu", "Aether House":"Casa Æther", "Pokémon League Alola":"Liga Pokémon Alola",
+            // Poni Island
+            "Seafolk Village":"Aldea Marina", "Exeggutor Island":"Isla Exeggutor", "Altar of the Sunne and Moone":"Altar del Sol y la Luna", "A Tree Maybe":"Un Árbol Tal Vez",
+            // Magikarp Jump (bonus)
+            "Hoppy Town":"Ciudad Saltarina", "Hoppy Town Fishing Pond":"Estanque de Pesca de Ciudad Saltarina", "Friend League":"Liga Amistad", "Quick League":"Liga Veloz",
+            "Heavy League":"Liga Peso", "Great League":"Superliga", "Fast League":"Liga Veloz", "Luxury League":"Liga Lujo", "Heal League":"Liga Sana",
+            "Ultra League":"Ultraliga", "Elite Four League":"Liga Alto Mando", "Master League":"Liga Master", "Magikarp's Eye":"Ojo de Magikarp",
+
+            // GALAR
+            // South Galar
+            "Postwick":"Pueblo Yarda", "Slumbering Weald":"Bosque Oniria", "Wedgehurst":"Pueblo Par", "Professor Magnolia's House":"Casa de la Profesora Magnolia",
+            "Motostoke":"Ciudad Pistón", "Turffield":"Pueblo Hoyuelo", "Hulbury":"Pueblo Amura",
+            // North Galar
+            "Stow-on-Side":"Pueblo Ladera", "Ballonlea":"Pueblo Plié", "Hammerlocke":"Ciudad Artejo", "Circhester":"Pueblo Auriga",
+            "Spikemuth":"Pueblo Crampón", "Wyndon":"Ciudad Puntera", "Wyndon Stadium":"Estadio de Puntera",
+            // Isle of Armor
+            "Armor Station":"Estación del Pase Armadura", "Master Dojo":"Dojo Maestro", "Master Dojo Battle Court":"Sala de Batalla del Dojo Maestro",
+            // Crown Tundra
+            "Crown Tundra Station":"Estación de tren de las Nieves de la Corona", "Freezington":"Villa Helada"
+        },
+        ...{
+            // Rutas Kanto
+            "Kanto Route 1":"Ruta 1", "Kanto Route 2":"Ruta 2", "Kanto Route 3":"Ruta 3", "Kanto Route 4":"Ruta 4", "Kanto Route 5":"Ruta 5",
+            "Kanto Route 6":"Ruta 6", "Kanto Route 7":"Ruta 7", "Kanto Route 8":"Ruta 8", "Kanto Route 9":"Ruta 9", "Kanto Route 10":"Ruta 10",
+            "Kanto Route 11":"Ruta 11", "Kanto Route 12":"Ruta 12", "Kanto Route 13":"Ruta 13", "Kanto Route 14":"Ruta 14", "Kanto Route 15":"Ruta 15",
+            "Kanto Route 16":"Ruta 16", "Kanto Route 17":"Ruta 17", "Kanto Route 18":"Ruta 18", "Kanto Route 19":"Ruta 19", "Kanto Route 20":"Ruta 20",
+            "Kanto Route 21":"Ruta 21", "Kanto Route 22":"Ruta 22", "Kanto Route 23":"Ruta 23", "Kanto Route 24":"Ruta 24", "Kanto Route 25":"Ruta 25",
+
+            // Rutas Sevii Island
+            "Treasure Beach":"Playa Tesoro", "Kindle Road":"Camino Candente", "Cape Brink":"Cabo Extremo", "Bond Bridge":"Puente Unión",
+            "Five Isle Meadow":"Pradera Isla Inta", "Memorial Pillar":"Pilar Conmemorativo", "Water Labyrinth":"Aquarinto", "Resort Gorgeous":"Lugar de Recreo",
+            "Water Path":"Vía Acuática", "Green Path":"Vía Verde", "Outcast Island":"Isla Aislada", "Ruin Valley":"Valle Ruinas", "Canyon Entrance":"Entrada al Cañón",
+            "Sevault Canyon":"Cañón Sótano", "Pinkan Forest":"Bosque Rosa", "Pinkan Plains":"Llanuras Rosa",
+
+            // Rutas Johto
+            "Johto Route 26":"Ruta 26", "Johto Route 27":"Ruta 27", "Johto Route 28":"Ruta 28", "Johto Route 29":"Ruta 29", "Johto Route 30":"Ruta 30",
+            "Johto Route 31":"Ruta 31", "Johto Route 32":"Ruta 32", "Johto Route 33":"Ruta 33", "Johto Route 34":"Ruta 34", "Johto Route 35":"Ruta 35",
+            "Johto Route 36":"Ruta 36", "Johto Route 37":"Ruta 37", "Johto Route 38":"Ruta 38", "Johto Route 39":"Ruta 39", "Johto Route 40":"Ruta 40",
+            "Johto Route 41":"Ruta 41", "Johto Route 42":"Ruta 42", "Johto Route 43":"Ruta 43", "Johto Route 44":"Ruta 44", "Johto Route 45":"Ruta 45",
+            "Johto Route 46":"Ruta 46", "Johto Route 47":"Ruta 47", "Johto Route 48":"Ruta 48",
+
+            // Rutas Hoenn
+            "Hoenn Route 101":"Ruta 101", "Hoenn Route 102":"Ruta 102", "Hoenn Route 103":"Ruta 103", "Hoenn Route 104":"Ruta 104", "Hoenn Route 105":"Ruta 105",
+            "Hoenn Route 106":"Ruta 106", "Hoenn Route 107":"Ruta 107", "Hoenn Route 108":"Ruta 108", "Hoenn Route 109":"Ruta 109", "Hoenn Route 110":"Ruta 110",
+            "Hoenn Route 111":"Ruta 111", "Hoenn Route 112":"Ruta 112", "Hoenn Route 113":"Ruta 113", "Hoenn Route 114":"Ruta 114", "Hoenn Route 115":"Ruta 115",
+            "Hoenn Route 116":"Ruta 116", "Hoenn Route 117":"Ruta 117", "Hoenn Route 118":"Ruta 118", "Hoenn Route 119":"Ruta 119", "Hoenn Route 120":"Ruta 120",
+            "Hoenn Route 121":"Ruta 121", "Hoenn Route 122":"Ruta 122", "Hoenn Route 123":"Ruta 123", "Hoenn Route 124":"Ruta 124", "Hoenn Route 125":"Ruta 125",
+            "Hoenn Route 126":"Ruta 126", "Hoenn Route 127":"Ruta 127", "Hoenn Route 128":"Ruta 128", "Hoenn Route 129":"Ruta 129", "Hoenn Route 130":"Ruta 130",
+            "Hoenn Route 131":"Ruta 131", "Hoenn Route 132":"Ruta 132", "Hoenn Route 133":"Ruta 133", "Hoenn Route 134":"Ruta 134",
+
+            // Rutas Orre
+            "Rock Poké Spot": "Poké espacio Roca,", "Oasis Poké Spot": "Poké espacio Remanso", "Cave Poké Spot": "Poké espacio Cueva",
+
+            // Rutas Sinnoh
+            "Sinnoh Route 201":"Ruta 201", "Sinnoh Route 202":"Ruta 202", "Sinnoh Route 203":"Ruta 203", "Sinnoh Route 204":"Ruta 204", "Sinnoh Route 205":"Ruta 205",
+            "Sinnoh Route 206":"Ruta 206", "Sinnoh Route 207":"Ruta 207", "Sinnoh Route 208":"Ruta 208", "Sinnoh Route 209":"Ruta 209", "Sinnoh Route 210":"Ruta 210",
+            "Sinnoh Route 211":"Ruta 211", "Sinnoh Route 212":"Ruta 212", "Sinnoh Route 213":"Ruta 213", "Sinnoh Route 214":"Ruta 214", "Sinnoh Route 215":"Ruta 215",
+            "Sinnoh Route 216":"Ruta 216", "Sinnoh Route 217":"Ruta 217", "Sinnoh Route 218":"Ruta 218", "Sinnoh Route 219":"Ruta 219", "Sinnoh Route 220":"Ruta 220",
+            "Sinnoh Route 221":"Ruta 221", "Sinnoh Route 222":"Ruta 222", "Sinnoh Route 223":"Ruta 223", "Sinnoh Route 224":"Ruta 224", "Sinnoh Route 225":"Ruta 225",
+            "Sinnoh Route 226":"Ruta 226", "Sinnoh Route 227":"Ruta 227", "Sinnoh Route 228":"Ruta 228", "Sinnoh Route 229":"Ruta 229", "Sinnoh Route 230":"Ruta 230",
+
+            // Rutas Unova
+            "Unova Route 1":"Ruta 1", "Unova Route 2":"Ruta 2", "Unova Route 3":"Ruta 3", "Unova Route 4":"Ruta 4", "Unova Route 5":"Ruta 5",
+            "Unova Route 6":"Ruta 6", "Unova Route 7":"Ruta 7", "Unova Route 8":"Ruta 8", "Unova Route 9":"Ruta 9", "Unova Route 11":"Ruta 11",
+            "Unova Route 12":"Ruta 12", "Unova Route 13":"Ruta 13", "Unova Route 14":"Ruta 14", "Unova Route 15":"Ruta 15", "Unova Route 16":"Ruta 16",
+            "Unova Route 17":"Ruta 17", "Unova Route 18":"Ruta 18", "Unova Route 19":"Ruta 19", "Unova Route 20":"Ruta 20", "Unova Route 21":"Ruta 21",
+            "Unova Route 22":"Ruta 22", "Unova Route 23":"Ruta 23", "Desert Resort":"Zona Desierto", "Undella Bay":"Bahía Arenisca",
+
+            // Rutas Kalos
+            "Kalos Route 1":"Ruta 1", "Kalos Route 2":"Ruta 2", "Kalos Route 3":"Ruta 3", "Kalos Route 4":"Ruta 4", "Kalos Route 5":"Ruta 5",
+            "Kalos Route 6":"Ruta 6", "Kalos Route 7":"Ruta 7", "Kalos Route 8":"Ruta 8", "Kalos Route 9":"Ruta 9", "Kalos Route 10":"Ruta 10",
+            "Kalos Route 11":"Ruta 11", "Kalos Route 12":"Ruta 12", "Kalos Route 13":"Ruta 13", "Kalos Route 14":"Ruta 14", "Kalos Route 15":"Ruta 15",
+            "Kalos Route 16":"Ruta 16", "Kalos Route 17":"Ruta 17", "Kalos Route 18":"Ruta 18", "Kalos Route 19":"Ruta 19", "Kalos Route 20":"Ruta 20",
+            "Kalos Route 21":"Ruta 21", "Kalos Route 22":"Ruta 22", "Azure Bay":"Bahía Azul",
+
+            //Rutas de Alola
+            // Melemele Island
+            "Alola Route 1":"Ruta Alola 1","Route 1 Hau'oli Outskirts":"Ruta 1 Afueras de Hauoli","Alola Route 2":"Ruta Alola 2",
+            "Alola Route 3":"Ruta Alola 3","Melemele Sea":"Mar de Melemele","Kala'e Bay":"Bahía Kalae",
+            // Akala Island
+            "Alola Route 4":"Ruta Alola 4","Alola Route 5":"Ruta Alola 5","Alola Route 6":"Ruta Alola 6",
+            "Alola Route 7":"Ruta Alola 7","Alola Route 8":"Ruta Alola 8","Alola Route 9":"Ruta Alola 9",
+            "Akala Outskirts":"Afueras de Akala",
+            // Ula'ula Island
+            "Alola Route 10":"Ruta Alola 10","Mount Hokulani":"Pico Hokulani","Alola Route 11":"Ruta Alola 11",
+            "Alola Route 12":"Ruta Alola 12","Alola Route 13":"Ruta Alola 13","Alola Route 14":"Ruta Alola 14",
+            "Alola Route 15":"Ruta Alola 15","Alola Route 16":"Ruta Alola 16","Alola Route 17":"Ruta Alola 17",
+            "Haina Desert":"Desierto Haina",
+            // Poni Island
+            "Poni Wilds":"Prado de Poni","Ancient Poni Path":"Antiguo Paso de Poni","Poni Breaker Coast":"Arrecife de Poni",
+            "Poni Grove":"Bosque de Poni","Poni Plains":"Llanura de Poni","Poni Coast":"Costa de Poni",
+            "Poni Gauntlet":"Pendiente de Poni",
+            // Magikarp Jump (bonus)
+            "Friend League Bridge":"Puente de la Liga Amistad","Quick League Bridge":"Puente de la Liga Veloz","Heavy League Bridge":"Puente de la Liga Peso",
+            "Great League Bridge":"Puente de la Superliga","Fast League Bridge":"Puente de la Liga Veloz","Luxury League Bridge":"Puente de la Liga Lujo",
+            "Heal League Bridge":"Puente de la Liga Sana","Ultra League Bridge":"Puente de la Ultraliga","Elite Four League Pier":"Muelle de la Liga Alto Mando",
+            "Master League Pier":"Muelle de la Liga Master",
+
+            // Rutas Galar
+            // South Galar
+            "Galar Route 1":"Ruta 1 de Galar","Galar Route 2":"Ruta 2 de Galar","Rolling Fields":"Pradera Radiante",
+            "Dappled Grove":"Arboleda Claroscuro","West Lake Axewell":"Lago Axew (oeste)","East Lake Axewell":"Lago Axew (Este)",
+            "Giant's Seat":"Silla del Gigante","South Lake Miloch":"Lago Milotic (Sur)","North Lake Miloch":"Lago Milotic (Norte)",
+            "Axew's Eye":"Ojo de Axew","Watchtower Ruins":"Antigua Atalaya","Galar Route 3":"Ruta 3 de Galar",
+            "Galar Route 4":"Ruta 4 de Galar","Galar Route 5":"Ruta 5 de Galar","Motostoke Outskirts":"Afueras de Ciudad Pistón",
+            "Motostoke Riverbank":"Ribera de Pistón","Bridge Field":"Valle Entrepuente","Stony Wilderness":"Llanura Pétrea",
+            "Giant's Mirror":"Espejo del Gigante","Giant's Cap":"Gorro del Gigante","Lake of Outrage":"Lago del Enfado",
+            "Hammerlocke Hills":"Cornisa de Artejo",
+            // North Galar
+            "Galar Route 6":"Ruta 6 de Galar","Galar Route 7":"Ruta 7 de Galar","Galar Route 8":"Ruta 8 de Galar",
+            "Steamdrift Way":"Senda Vaporosa","Galar Route 2 Lakeside":"Ruta 2 de Galar (Lago)","Galar Route 9":"Ruta 9 de Galar",
+            "Circhester Bay":"Bahía de Auriga","Outer Spikemuth":"Afueras de Ciudad Crampón","White Hill Station":"Estación Colinablanca",
+            "Galar Route 10":"Ruta 10 de Galar",
+            // Isle of Armor
+            "Fields of Honor":"Campos del Honor","Soothing Wetlands":"Prado Reverencia","Forest of Focus":"Bosque de Enfoque",
+            "Challenge Beach":"Playa Desafío","Loop Lagoon":"Bahía Circular","Training Lowlands":"Llano Entrenamiento",
+            "Potbottom Desert":"Cuenca Arenosa","Challenge Road":"Ruta Desafío","Workout Sea":"Mar Gimnástico",
+            "Stepping-Stone Sea":"Mar Andana","Insular Sea":"Mar Islejos","Honeycalm Sea":"Mar Meloso","Honeycalm Island":"Isla Calma Miel",
+            // Crown Tundra
+            "Slippery Slope":"Campo Deslizante","Frostpoint Field":"Campo Bajocero","Giant's Bed":"Lecho del Gigante",
+            "Old Cemetery":"Viejo Cementerio","Giant's Foot":"Suela del Gigante","Frigid Sea":"Mar Gélido",
+            "Three-Point Pass":"Encrucijada Tresvías","Ballimere Lake":"Lago Bolaguna","Snowslide Slope":"Desfiladero Nevado",
+            "Path to the Peak":"Senda Blancacima",
+        },
+        ...{
+            // Dungeons Kanto
+            "Viridian Forest":"Bosque Verde","Mt. Moon":"Monte Moon","Diglett's Cave":"Cueva Diglett",
+            "Rock Tunnel":"Túnel Roca","Rocket Game Corner":"Casino Rocket","Pokémon Tower":"Torre Pokémon",
+            "Silph Co.":"Silph S.A.","Power Plant":"Central de Energía","Seafoam Islands":"Islas Espuma",
+            "Pokémon Mansion":"Mansión Pokémon","Victory Road":"Calle Victoria","Cerulean Cave":"Cueva Celeste",
+            "New Island":"Isla Nueva",
+
+            // Dungeons Sevii Islands
+
+            "Dotted Hole":"Cueva Punteada","Berry Forest":"Bosque Baya","Ruby Path":"Senda Ígnea",
+            "Icefall Cave":"Cueva Glaciada","Sunburst Island":"Isla Sunburst","Lost Cave":"Cueva Perdida",
+            "Pattern Bush":"Bosquejo","Altering Cave":"Cueva Cambiante","Tanoby Ruins":"Ruinas Sete",
+            "Pinkan Mountain":"Montaña Rosa","Mt. Ember Summit":"Cima del Monte Ascuas", "Mt. Ember":"Monte Ascuas",
+
+            // Dungeons Johto
+            "Sprout Tower":"Torre Bellsprout","Ruins of Alph":"Ruinas Alfa","Union Cave":"Cueva Unión",
+            "Slowpoke Well":"Pozo Slowpoke","Ilex Forest":"Encinar","Burned Tower":"Torre Quemada",
+            "Olivine Lighthouse":"Faro de Olivo","Tin Tower":"Torre Latón","Whirl Islands":"Islas Remolino",
+            "Mt. Mortar":"Monte Mortero","Team Rocket's Hideout":"Guarida del Team Rocket","Radio Tower":"Torre Radio",
+            "Ice Path":"Ruta Helada","Dark Cave":"Cueva Oscura","Tohjo Falls":"Cascadas Tohjo",
+            "Victory Road Johto":"Calle Victoria de Johto","Mt. Silver":"Monte Plateado",
+
+            // Dungeons Hoenn
+            "Petalburg Woods":"Bosque Petalia","Rusturf Tunnel":"Túnel Fervergal","Granite Cave":"Cueva Granito",
+            "Meteor Falls":"Cascada Meteoro","New Mauville":"Malvalanova","Weather Institute":"Instituto Meteorológico",
+            "Mt. Pyre":"Monte Pírico","Aqua Hideout":"Guarida Aqua","Shoal Cave":"Cueva Cardumen",
+            "Cave of Origin":"Cueva Ancestral","Seafloor Cavern":"Caverna Abisal","Sky Pillar":"Pilar Celeste",
+            "Victory Road Hoenn":"Calle Victoria de Hoenn","Sealed Chamber":"Cámara Sellada","Near Space":"Espacio Raro",
+            "Fiery Path":"Senda Ígnea","Mt. Chimney Crater":"Cráter del Monte Cenizo","Jagged Pass":"Desfiladero","Magma Hideout":"Guarida Magma",
+
+            // Dungeons Orre
+            "Agate Village":"Villa Ágata","Relic Stone":"Pilar Legendario","Pokémon HQ Lab":"Laboratorio Pokémon HQ",
+            "Kaminko's Manor":"Mansión Kaminko","S. S. Libra":"S.S. Libra","Orre Colosseum":"Coliseo Aura",
+            "Snagem Hideout":"Guarida del Equipo Cepo","Pyrite Building":"Edificio Pirita","Pyrite Cave":"Cueva Pirita",
+            "Relic Cave":"Cueva Reliquia","Mt. Battle":"Monte Batalla","Cipher Lab":"Laboratorio Misterioso",
+            "Citadark Isle":"Isla Tempestad","Citadark Isle Dome":"Cúpula de la Isla Tempestad","Cipher Key Lair":"Fábrica Cífer",
+            "Phenac City Battles":"Zona de Batalla de Oasis", "Pyrite Colosseum":"Coliseo Pirita",
+            "Pyrite Town Battles":"Zona de Batalla de Pirita","Realgam Tower Battles":"Zona de Batalla Torre Colosal",
+            "Gateon Port Battles":"Zona de Batalla Puerto Ancla","Deep Colosseum":"Coliseo Minérea","The Under":"Básix",
+            "Realgam Colosseum":"Coliseo Colosal","Phenac Stadium":"Estadio Oasis","Under Colosseum":"Coliseo Básix",
+            "Realgam Tower":"Torre Colosal", "Phenac City":"Ciudad Oasis", "Pyrite Town":"Pueblo Pirita", "Gateon Port":"Puerto Ancla",
+
+            // Dungeons Sinnoh
+            "Oreburgh Gate":"Puerta Pirita","Valley Windworks":"Valle Eólico","Eterna Forest":"Bosque Vetusto",
+            "Old Chateau":"Vieja Mansión","Team Galactic Eterna Building":"Edificio Galaxia en Ciudad Vetusta",
+            "Wayward Cave":"Cueva Extravío","Solaceon Ruins":"Ruinas Sosiego","Iron Island":"Isla Hierro",
+            "Lake Valor":"Lago Valor","Lake Verity":"Lago Veraz","Lake Acuity":"Lago Agudeza",
+            "Team Galactic HQ":"Edificio Galaxia en Ciudad Rocavelo","Distortion World":"Mundo Distorsión",
+            "Victory Road Sinnoh":"Calle Victoria de Sinnoh","Sendoff Spring":"Fuente Despedida",
+            "Fullmoon Island":"Isla Lunallena","Newmoon Island":"Isla Lunanueva","Flower Paradise":"Paraíso Floral",
+            "Snowpoint Temple":"Templo Puntaneva","Stark Mountain":"Montaña Dura","Floccesy Ranch":"Rancho Ocre",
+            "Mt. Coronet South":"Monte Corona Zona Sur","Mt. Coronet North":"Monte Corona Zona Norte",
+            "Mt. Coronet":"Monte Corona","Spear Pillar":"Columnas Lanza","Hall of Origin":"Sala del Origen",
+
+            // Dungeons Unova
+            "Liberty Garden":"Isla Libertad","Castelia Sewers":"Cloacas de Ciudad Porcelana","Relic Passage":"Pasadizo Ancestral",
+            "Relic Castle":"Castillo Ancestral","Lostlorn Forest":"Bosque de los Perdidos","Chargestone Cave":"Cueva Electrorroca",
+            "Mistralton Cave":"Cueva Loza","Celestial Tower":"Torre de los Cielos","Reversal Mountain":"Montaña Reversia",
+            "Seaside Cave":"Gruta Marina","Plasma Frigate":"Fragata Plasma","Giant Chasm":"Brecha Gigante",
+            "Cave of Being":"Cueva Psique","Abundant Shrine":"Santuario Abundancia","Victory Road Unova":"Calle Victoria de Unova",
+            "Twist Mountain":"Montaña Tuerca","Dragonspiral Tower":"Torre Duodraco","Moor of Icirrus":"Pantano Tejas",
+            "Pledge Grove":"Arboleada Promesa","Pinwheel Forest":"Bosque Azulejo","Dreamyard":"Solar de los Sueños",
+            "P2 Laboratory":"Laboratorio P2","A Perfectly Ordinary Frigate":"Una Fragata Perfectamente Normal",
+            "A Totally Unsuspicious Frigate":"Una Fragata Totalmente Insospechable","Team Plasma Assault":"Asalto del Equipo Plasma",
+            "Plasma Frigate":"Fragata Plasma",
+
+            // Dungeons Kalos
+            "Santalune Forest":"Bosque de Novarte","Connecting Cave":"Gruta Tierraunidan",
+            "Glittering Cave":"Cueva Brillante","Reflection Cave":"Cueva de los Reflejos","Sea Spirit's Den":"Cueva Talasia",
+            "Kalos Power Plant":"Planta de Energía de Kalos","Lost Hotel":"Hotel Desolación","Frost Cavern":"Gruta Helada",
+            "Team Flare Secret HQ":"Sede Secreta del Team Flare","Terminus Cave":"Cueva Desenlace","Pokémon Village":"Villa Pokémon",
+            "Victory Road Kalos":"Calle Victoria de Kalos",
+
+            //Dungeons Alola
+            "Trainers' School":"Escuela de Entrenadores","Hau'oli Cemetery":"Cementerio de Hauoli","Verdant Cavern":"Cueva Sotobosque",
+            "Melemele Meadow":"Jardín de Melemele","Seaward Cave":"Gruta Unemar","Ten Carat Hill":"Colina Dequilate",
+            "Pikachu Valley":"Valle de los Pikachu","Paniola Ranch":"Rancho Ohana","Brooklet Hill":"Colina Saltagua",
+            "Wela Volcano Park":"Área Volcánica del Wela","Lush Jungle":"Jungla Umbría","Diglett's Tunnel":"Túnel Diglett",
+            "Memorial Hill":"Colina del Recuerdo","Malie Garden":"Jardín de Malie","Hokulani Observatory":"Observatorio Hokulani",
+            "Thrifty Megamart":"Supermercado Ultraganga","Ula'ula Meadow":"Jardínes de Ula'ula","Po Town":"Pueblo Po",
+            "Aether Foundation":"Fundación Æther","Exeggutor Island Hill":"Colina de la Isla Exeggutor","Vast Poni Canyon":"Cañón de Poni",
+            "Mina's Houseboat":"Casa Flotante de Mina","Mount Lanakila":"Monte Lanakila","Lake of the Sunne and Moone":"Lago del Sol y la Luna",
+            "Ruins of Conflict":"Ruinas del Conflicto","Ruins of Life":"Ruinas de la Vida","Ruins of Abundance":"Ruinas de la Cosecha",
+            "Ruins of Hope":"Ruinas de la Esperanza","Poni Meadow":"Jardines de Poni","Resolution Cave":"Gruta Desenlace",
+
+            // Dungeons Galar
+            // South Galar
+            "Slumbering Weald Shrine":"Santuario del Bosque Durmiente","Galar Mine":"Mina de Galar","Galar Mine No. 2":"Mina de Galar Nº 2",
+            "Dusty Bowl":"Cuenca Polvorienta",
+            // North Galar
+            "Glimwood Tangle":"Bosque Lumirinto","Rose Tower":"Torre Rose","Energy Plant":"Planta de Energía",
+            // Isle of Armor
+            "Courageous Cavern":"Cueva Tenacidad","Brawlers' Cave":"Cueva Contienda","Warm-Up Tunnel":"Gruta Calentamiento",
+            "Tower of Darkness":"Torre de las Sombras","Tower of Waters":"Torre de las Aguas",
+            // Crown Tundra
+            "Roaring-Sea Caves":"Grutas Sonamar","Rock Peak Ruins":"Ruinas Pico Roca","Iron Ruins":"Ruinas Hierro",
+            "Iceberg Ruins":"Ruinas Iceberg","Split-Decision Ruins":"Ruinas del Dilema","Lakeside Cave":"Gruta del Lago",
+            "Dyna Tree Hill":"Colina del Árbol Dyna","Tunnel to the Top":"Túnel Ascensión","Crown Shrine":"Templo Corona",
+            "Max Lair":"Supernido Dinamax"
+        }
+    };
+
+    const regiones = ["Kanto", "Johto", "Hoenn", "Sinnoh", "Unova", "Kalos", "Alola", "Galar"];
+
+    // --- Traductor general optimizado ---
+    function traducirTexto(texto) {
+        if (!texto) return texto;
+
+        // Claves ordenadas por longitud descendente para evitar conflictos
+        const clavesOrdenadas = Object.keys(traduccionesLugares).sort((a, b) => b.length - a.length);
+
+        for (const orig of clavesOrdenadas) {
+            const trad = traduccionesLugares[orig];
+            if (texto.includes(orig)) texto = texto.replaceAll(orig, trad);
+        }
+
+        return texto;
+    }
+
+    // --- Traducción de elementos DOM (eficiente) ---
+    function traducirElemento(el) {
+        if (!el) return;
+        if (el.nodeType === 3) {
+            const nuevoTexto = traducirTexto(el.nodeValue);
+            if (nuevoTexto !== el.nodeValue) el.nodeValue = nuevoTexto;
+        } else if (el.nodeType === 1) {
+            ["title", "value", "placeholder", "alt"].forEach(attr => {
+                const val = el.getAttribute(attr);
+                if (val) {
+                    const nuevoVal = traducirTexto(val);
+                    if (nuevoVal !== val) el.setAttribute(attr, nuevoVal);
+                }
+            });
+            el.childNodes.forEach(traducirElemento);
+        }
+    }
+
+    // --- Traducción específica para knockout y nombres internos ---
+    function traducirElementoKO(el) {
+        const texto = el.textContent.trim();
+        if (!texto) return;
+
+        if (traduccionesLugares[texto]) {
+            el.textContent = traduccionesLugares[texto];
+            return;
+        }
+
+        for (const region of regiones) {
+            const clave = `${region} ${texto}`;
+            if (traduccionesLugares[clave]) {
+                el.textContent = traduccionesLugares[clave];
+                return;
+            }
+        }
+    }
+
+    // --- Traducción de botones dinámicos dentro de list-group ---
+    function traducirBotonesDinamicos() {
+        document.querySelectorAll('.list-group .btn-group button').forEach(btn => {
+            const texto = btn.textContent.trim();
+            if (!texto) return;
+
+            // Traducción exacta o por región
+            if (traduccionesLugares[texto]) {
+                btn.textContent = traduccionesLugares[texto];
+            } else {
+                for (const region of regiones) {
+                    const clave = `${region} ${texto}`;
+                    if (traduccionesLugares[clave]) {
+                        btn.textContent = traduccionesLugares[clave];
+                        break;
+                    }
+                }
+            }
+
+            // Traducción de tooltip (title)
+            const title = btn.getAttribute('title');
+            if (title) {
+                if (traduccionesLugares[title]) {
+                    btn.setAttribute('title', traduccionesLugares[title]);
+                } else {
+                    for (const region of regiones) {
+                        const clave = `${region} ${title}`;
+                        if (traduccionesLugares[clave]) {
+                            btn.setAttribute('title', traduccionesLugares[clave]);
+                            break;
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    // --- Traducción global de DOM ---
+    function traducirTodoDOM() {
+        document.querySelectorAll(
+            'knockout[data-bind*="player.town.name"], knockout[data-bind*="Routes.getName"]'
+        ).forEach(traducirElementoKO);
+
+        traducirBotonesDinamicos();
+    }
+
+    // --- Observador único optimizado ---
+    const observer = new MutationObserver(mutations => {
+        for (const m of mutations) {
+            for (const node of m.addedNodes) {
+                if (node.nodeType === 1) {
+                    if (node.textContent.trim().length > 1 || node.tagName === "KNOCKOUT") {
+                        traducirElemento(node);
+                        traducirElementoKO(node);
+                        traducirBotonesDinamicos();
+                    }
+                } else if (node.nodeType === 3) {
+                    traducirElemento(node);
+                }
+            }
+        }
+    });
+
+    observer.observe(document.body, { childList: true, subtree: true });
+
+    // --- Interceptar objetos internos ---
+    function interceptarGame() {
+        const game = unsafeWindow.Game;
+        const Routes = unsafeWindow.Routes;
+        if (!game || !Routes) return setTimeout(interceptarGame, 1000);
+
+        const player = game.player;
+        if (player && player.town) {
+            const townKey = '_town';
+            if (!player[townKey]) player[townKey] = player.town;
+            Object.defineProperty(player, 'town', {
+                get() {
+                    const nombre = traduccionesLugares[this[townKey].name] || this[townKey].name;
+                    return { ...this[townKey], name: nombre };
+                },
+                set(value) { this[townKey] = value; },
+                configurable: true
+            });
+        }
+
+        const originalGetName = Routes.getName;
+        Routes.getName = function(route, region) {
+            const nombreOriginal = originalGetName(route, region);
+            if (!region) return traduccionesLugares[nombreOriginal] || nombreOriginal;
+            const regionCapital = region.charAt(0).toUpperCase() + region.slice(1);
+            const clave = `${regionCapital} ${nombreOriginal}`;
+            return traduccionesLugares[clave] || traduccionesLugares[nombreOriginal] || nombreOriginal;
+        };
+
+        console.log("[PokéClicker-ES] ✅ Interceptores internos activos (v7.4 extendida)");
+    }
+    interceptarGame();
+
+    // --- Tooltips dinámicos (menos frecuentes) ---
+    function traducirTooltips() {
+        document.querySelectorAll('[title]').forEach(el => {
+            const texto = el.getAttribute('title').trim();
+            if (traduccionesLugares[texto]) {
+                el.setAttribute('title', traduccionesLugares[texto]);
+            } else {
+                for (const region of regiones) {
+                    const clave = `${region} ${texto}`;
+                    if (traduccionesLugares[clave]) {
+                        el.setAttribute('title', traduccionesLugares[clave]);
+                        break;
+                    }
+                }
+            }
+        });
+    }
+
+    // --- Intervalo de traducción ---
+    setInterval(() => {
+        traducirTodoDOM();
+        traducirTooltips();
+    }, 2000);
+
+    // --- Traducción inicial ---
+    traducirElemento(document.body);
+    traducirTodoDOM();
+    traducirTooltips();
+
+    console.log("[PokéClicker-ES] 🌍 Traducción inicial completa (v7.4 extendida)");
+})();
