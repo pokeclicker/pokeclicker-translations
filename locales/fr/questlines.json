@@ -1,17 +1,17 @@
 {
   "Tutorial Quests": {
-    "displayName.0834273581": "",
-    "description.1206407043": "",
-    "step 1.0968595418": "",
-    "step 2.1709200840": "",
-    "step 3.1219228208": "",
-    "step 4.0061756390": "",
-    "step 5.1503948342": "",
-    "step 6.2081090144": "",
-    "step 7.1163928124": "",
-    "step 8.0423645430": "",
-    "step 9.0474373239": "",
-    "step 10.0811454536": ""
+    "displayName.0834273581": "Quête tutorielle",
+    "description.1206407043": "Une courte quête pour te mettre en route.",
+    "step 1.0968595418": "Bats le Pokémon. Click pour infliger des dégats !",
+    "step 2.1709200840": "Captures 1 Pokémon. Quand tu bats un Pokémon, une Poké Ball est lancée et tu as une chance de le capturer.",
+    "step 3.1219228208": "Bats 10 Pokémons sur la Route 2. Click sur la Route 2 sur la carte pour y aller et combattre.",
+    "step 4.0061756390": "Retournes à Bourg Palette (Pallet Town) et dis au revoir à Maman.",
+    "step 5.1503948342": "Achètes 10 Poké ball.",
+    "step 6.2081090144": "Parles au Vieil Homme à Jadielle (Viridian City) pour apprendre à capturer.",
+    "step 7.1163928124": "Utilise ce que tu as appris pour capturer 5 Roucools. Parles au Vieil Homme encore si tu as besoin d'un rappel",
+    "step 8.0423645430": "Achètes le Ticket de Donjon au magasin de Jadielle (Viridian City).",
+    "step 9.0474373239": "Rassembles 50 Jetons de Donjon en (re)capturant des Pokémons, puis vides le donjon Forêt de Jade (Viridian Forest).",
+    "step 10.0811454536": "Bats Pierre (Brocks) à Argenta (Pewter City). Click sur la ville sur la carte pour y aller, puis cilck sur le bouton Gym pour commencer le combat."
   },
   "Team Rocket": {
     "displayName.0741208585": "",
