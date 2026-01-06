@@ -8,19 +8,19 @@
     "step 4.0061756390": "Retournes à Bourg Palette (Pallet Town) et dis au revoir à Maman.",
     "step 5.1503948342": "Achètes 10 Poké ball.",
     "step 6.2081090144": "Parles au Vieil Homme à Jadielle (Viridian City) pour apprendre à capturer.",
-    "step 7.1163928124": "Utilise ce que tu as appris pour capturer 5 Roucools. Parles au Vieil Homme encore si tu as besoin d'un rappel",
+    "step 7.1163928124": "Utilises ce que tu as appris pour capturer 5 Roucools. Parles au Vieil Homme encore si tu as besoin d'un rappel",
     "step 8.0423645430": "Achètes le Ticket de Donjon au magasin de Jadielle (Viridian City).",
     "step 9.0474373239": "Rassembles 50 Jetons de Donjon en (re)capturant des Pokémons, puis vides le donjon Forêt de Jade (Viridian Forest).",
     "step 10.0811454536": "Bats Pierre (Brocks) à Argenta (Pewter City). Click sur la ville sur la carte pour y aller, puis cilck sur le bouton Gym pour commencer le combat."
   },
   "Team Rocket": {
-    "displayName.0741208585": "",
-    "description.1768624503": "",
-    "step 1.1963409303": "",
-    "step 2.1639352651": "",
-    "step 3.1377652403": "",
-    "step 4.0586315752": "",
-    "step 5.1767666076": ""
+    "displayName.0741208585": "Team Rocket",
+    "description.1768624503": "De vilains méchants sont en train de manigancer quelque chose de mal.",
+    "step 1.1963409303": "Des activités illégales sont en cours. Vides le Casino Rocket (Rocket Game Corner) à Céladopole (celadon City).",
+    "step 2.1639352651": "La Team Rocket a envahi Sylphe SARL. Vides Sylphe SARL (Silph Co.) à Safrania (Saffron City) pour trouver la Carte Clef",
+    "step 3.1377652403": "Blue te gêne. Bats le à Slyphe SARL (Silph Co.)",
+    "step 4.0586315752": "La Team Rocket envahi Sylphe SARL. Vides Sylphe SARL (Silph Co.) à Safrania (Saffron City) une fois de plus pour faire échouer leurs plans.",
+    "step 5.1767666076": "Si tu neutralises le chef de la Team Rocket une fois de plus, ils ne vont sûrement jamais revenir ! Vides l'arène de combat de Jadielle (Viridian City)."
   },
   "Bill's Grandpa Treasure Hunt": {
     "displayName.2143819412": "",
