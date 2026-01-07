@@ -8,7 +8,7 @@
     "step 4.0061756390": "Retournes à Bourg Palette (Pallet Town) et dis au revoir à Maman.",
     "step 5.1503948342": "Achète 10 Poké ball.",
     "step 6.2081090144": "Parle au Vieil Homme à Jadielle (Viridian City) pour apprendre à capturer.",
-    "step 7.1163928124": "Utilise ce que tu as appris pour capturer 5 Roucools. Parle au Vieil Homme encore si tu as besoin d'un rappel",
+    "step 7.1163928124": "Utilise ce que tu as appris pour capturer 5 [[pokemon:Pidgey]]. Parle au Vieil Homme encore si tu as besoin d'un rappel",
     "step 8.0423645430": "Achète le Ticket de Donjon au magasin de Jadielle (Viridian City).",
     "step 9.0474373239": "Rassemble 5 Jetons de Donjon en (re)capturant des Pokémons, puis vide le donjon Forêt de Jade (Viridian Forest).",
     "step 10.0811454536": "Bats Pierre (Brocks) à Argenta (Pewter City). Click sur la ville sur la carte pour y aller, puis cilck sur le bouton Gym pour commencer le combat."
@@ -57,10 +57,10 @@
     "step 7.0568827479": "Livre la météorite à Celio sur l'Ile Une (One Island)."
   },
   "Persons of Interest": {
-    "displayName.1001581071": "",
-    "description.0614532698": "",
-    "step 1.1308619894": "",
-    "step 2.1074433596": ""
+    "displayName.1001581071": "Personnes d'inrétêt",
+    "description.0614532698": "Certaines personnes veulent te parler.",
+    "step 1.1308619894": "Parle à l'Éleveur à l'Éleveur (Breeder) à Safrania (Saffron City).",
+    "step 2.1074433596": "Parle au Sientifique des Gemmes à Argenta (Pewter City)."
   },
   "The Sick Ampharos": {
     "displayName.0697046540": "",
