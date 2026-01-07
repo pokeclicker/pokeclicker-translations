@@ -1,17 +1,17 @@
 {
   "Tutorial Quests": {
     "displayName.0834273581": "",
-    "description.1206407043": "",
-    "step 1.0968595418": "",
-    "step 2.1709200840": "",
-    "step 3.1219228208": "",
-    "step 4.0061756390": "",
-    "step 5.1503948342": "",
-    "step 6.2081090144": "",
-    "step 7.1163928124": "",
-    "step 8.0423645430": "",
-    "step 9.0474373239": "",
-    "step 10.0811454536": ""
+    "description.1206407043": "Ein paar Quests um dir den Einstieg zu erleichtern.",
+    "step 1.0968595418": "Besiege das Pokémon. Klicke um Schaden zu verursachen!",
+    "step 2.1709200840": "Fange 1 Pokémon. Wenn du ein Pokémon besiegst, wird automatisch ein Pokéball geworfen und du hast eine Chance, das Pokémon zu fangen.",
+    "step 3.1219228208": "Besiege 10 Pokémon auf Route 2. Wähle Route 2 auf der Karte aus um dich dorthin zu bewegen und automatisch das Kämpfen anzufangen.",
+    "step 4.0061756390": "Gehe zurück nach Alabastia und verabschiede dich von deiner Mutter.",
+    "step 5.1503948342": "Kaufe 10 Pokébälle.",
+    "step 6.2081090144": "Sprich mit dem alten Mann in Vertania City um mehr über das Fangen zu lernen.",
+    "step 7.1163928124": "Wende das Gelernte an um 5 [[pokemon:Pidgey]] zu fangen. Sprich erneut mit dem alten Mann, falls du eine Auffrischung deiner Erinnerung benötigst.",
+    "step 8.0423645430": "Kaufe das Dungeon-Ticket vom Vertania City-Markt.",
+    "step 9.0474373239": "Sammle 50 Dungeon-Marken indem du Pokémon (erneut) fängst und bezwinge im Anschluss den Vertania Wald-Dungeon.",
+    "step 10.0811454536": "Besiege die Arena in Marmoria City. Wähle die Stadt auf der Karte aus um dich dorthin zu bewegen, dann klicke auf die Auswahl „Arena“ um den Kampf zu beginnen."
   },
   "Team Rocket": {
     "displayName.0741208585": "",
