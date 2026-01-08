@@ -3,9 +3,9 @@
     "displayName.0834273581": "Quête tutorielle",
     "description.1206407043": "Une courte quête pour te mettre en route.",
     "step 1.0968595418": "Bats le Pokémon. Click pour infliger des dégats !",
-    "step 2.1709200840": "Captures 1 Pokémon. Quand tu bats un Pokémon, une Poké Ball est lancée et tu as une chance de le capturer.",
+    "step 2.1709200840": "Capture 1 Pokémon. Quand tu bats un Pokémon, une Poké Ball est lancée et tu as une chance de le capturer.",
     "step 3.1219228208": "Bats 10 Pokémons sur la Route 2. Click sur la Route 2 sur la carte pour y aller et combattre.",
-    "step 4.0061756390": "Retournes à Bourg Palette (Pallet Town) et dis au revoir à Maman.",
+    "step 4.0061756390": "Retourne à Bourg Palette (Pallet Town) et dis au revoir à Maman.",
     "step 5.1503948342": "Achète 10 Poké ball.",
     "step 6.2081090144": "Parle au Vieil Homme à Jadielle (Viridian City) pour apprendre à capturer.",
     "step 7.1163928124": "Utilise ce que tu as appris pour capturer 5 [[pokemon:Pidgey]]. Parle au Vieil Homme encore si tu as besoin d'un rappel",
@@ -59,19 +59,19 @@
   "Persons of Interest": {
     "displayName.1001581071": "Personnes d'inrétêt",
     "description.0614532698": "Certaines personnes veulent te parler.",
-    "step 1.1308619894": "Parle à l'Éleveur à l'Éleveur (Breeder) à Safrania (Saffron City).",
+    "step 1.1308619894": "Parle à l'Éleveur (Breeder) à Safrania (Saffron City).",
     "step 2.1074433596": "Parle au Sientifique des Gemmes à Argenta (Pewter City)."
   },
   "The Sick Ampharos": {
-    "displayName.0697046540": "",
-    "description.1008078946": "",
-    "step 1.0964636946": "",
-    "step 2.0253531602": "",
-    "step 3.1707171554": "",
-    "step 4.1371245231": "",
-    "step 5.1707171554": "",
-    "step 6.0905126454": "",
-    "step 7.0253531602": ""
+    "displayName.0697046540": "Le [[pokemon::Ampharos]] Malade",
+    "description.1008078946": "Le [[pokemon::Ampharos]] de Jasmine semble Malade.",
+    "step 1.0964636946": "Vide le donjon Phare d'Oliville (Olivine Lighthouse) à Oliville (Olivine City).",
+    "step 2.0253531602": "Parle à Jasmine au Phare d'Oliville (Olivine Lighthouse).",
+    "step 3.1707171554": "Parle au Pharmacien Irisia (Cianwood City).",
+    "step 4.1371245231": "Le Parmacien dit qu'il a besoin de temps pour finir le médicament de [[pokemon::Ampharos]]. Vide l'arène d'Irisia (Cianwood City) (Chuck Gym).",
+    "step 5.1707171554": "Parle au Pharmacien Irisia (Cianwood City).",
+    "step 6.0905126454": "Donne à [[pokemon::Ampharos]] son médicament au Phare d'Oliville (Olivine Lighthouse).",
+    "step 7.0253531602": "Parle à Jasmine a Phare d'Oliville (Olivine Lighthouse)."
   },
   "Team Rocket Again": {
     "displayName.0601280471": "",
