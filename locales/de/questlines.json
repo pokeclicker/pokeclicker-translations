@@ -1,85 +1,85 @@
 {
   "Tutorial Quests": {
-    "displayName.0834273581": "",
-    "description.1206407043": "Ein paar Quests um dir den Einstieg zu erleichtern.",
-    "step 1.0968595418": "Besiege das Pokémon. Klicke um Schaden zu verursachen!",
+    "displayName.0834273581": "Tutorial-Quests",
+    "description.1206407043": "Ein paar Quests, um dir den Einstieg zu erleichtern.",
+    "step 1.0968595418": "Besiege das Pokémon. Klicke, um Schaden zu verursachen!",
     "step 2.1709200840": "Fange 1 Pokémon. Wenn du ein Pokémon besiegst, wird automatisch ein Pokéball geworfen und du hast eine Chance, das Pokémon zu fangen.",
-    "step 3.1219228208": "Besiege 10 Pokémon auf Route 2. Wähle Route 2 auf der Karte aus um dich dorthin zu bewegen und automatisch das Kämpfen anzufangen.",
+    "step 3.1219228208": "Besiege 10 Pokémon auf Route 2. Wähle Route 2 auf der Karte aus, um dich dorthin zu bewegen und automatisch zu kämpfen.",
     "step 4.0061756390": "Gehe zurück nach Alabastia und verabschiede dich von deiner Mutter.",
     "step 5.1503948342": "Kaufe 10 Pokébälle.",
-    "step 6.2081090144": "Sprich mit dem alten Mann in Vertania City um mehr über das Fangen zu lernen.",
-    "step 7.1163928124": "Wende das Gelernte an um 5 [[pokemon:Pidgey]] zu fangen. Sprich erneut mit dem alten Mann, falls du eine Auffrischung deiner Erinnerung benötigst.",
+    "step 6.2081090144": "Sprich mit dem alten Mann in Vertania City, um mehr über das Fangen zu lernen.",
+    "step 7.1163928124": "Wende das Gelernte an, um 5 [[pokemon:Pidgey]] zu fangen. Sprich erneut mit dem alten Mann, falls du eine Auffrischung deiner Erinnerung benötigst.",
     "step 8.0423645430": "Kaufe das Dungeon-Ticket vom Vertania City-Markt.",
-    "step 9.0474373239": "Sammle 50 Dungeon-Marken indem du Pokémon (erneut) fängst und bezwinge im Anschluss den Vertania Wald-Dungeon.",
-    "step 10.0811454536": "Besiege die Arena in Marmoria City. Wähle die Stadt auf der Karte aus um dich dorthin zu bewegen, dann klicke auf die Auswahl „Arena“ um den Kampf zu beginnen."
+    "step 9.0474373239": "Sammle 50 Dungeon-Marken, indem du Pokémon (erneut) fängst, und bezwinge im Anschluss den Vertania Wald-Dungeon.",
+    "step 10.0811454536": "Besiege die Arena in Marmoria City. Wähle die Stadt auf der Karte aus, um dich dorthin zu bewegen, dann klicke auf die Auswahl „Arena“ um den Kampf zu beginnen."
   },
   "Team Rocket": {
     "displayName.0741208585": "",
-    "description.1768624503": "",
-    "step 1.1963409303": "",
-    "step 2.1639352651": "",
-    "step 3.1377652403": "",
-    "step 4.0586315752": "",
-    "step 5.1767666076": ""
+    "description.1768624503": "Einige Bösewichte haben Schlechtes im Sinn.",
+    "step 1.1963409303": "Illegale Aktivitäten gesichtet. Säubere die Rocket Spielecke in Celadon City.",
+    "step 2.1639352651": "Team Rocket hat Silph Co. besetzt. Säubere Silph Co. in Saffron City, um eine Schlüsselkarte zu finden.",
+    "step 3.1377652403": "Blau stellt sich dir in den Weg. Besiege ihn bei Silph Co.",
+    "step 4.0586315752": "Team Rocket hat Silph Co. besetzt. Säubere Silph Co. in Saffron City erneut, um ihre Pläne zu durchkreuzen.",
+    "step 5.1767666076": "Wenn du den Anführer von Team Rocket noch einmal besiegst, werden sie garantiert nie wieder auftauchen! Beende die Arena in Viridian City."
   },
   "Bill's Grandpa Treasure Hunt": {
-    "displayName.2143819412": "",
-    "description.1545989310": "",
-    "step 1.0944745119": "",
-    "step 2.1095494877": "",
-    "step 3.2070079390": "",
-    "step 4.1155611340": "",
-    "step 5.2041197728": "",
-    "step 6.1258611199": "",
-    "step 7.0896581185": "",
-    "step 8.1603570166": "",
-    "step 9.1405390786": "",
-    "step 10.2111121563": "",
-    "step 11.0798225758": "",
-    "step 12.0123186284": "",
-    "step 13.0167923376": ""
-  },
+    "displayName.2143819412": "Schatzsuche von Bills Großvater",
+    "description.1545989310": "Folge den Hinweisen und bring Bills Großvater die Pokémon, die er sehen möchte.",
+    "step 1.0944745119": "Sprich mit Bills Großvater in Bills Haus.",
+    "step 2.1095494877": "Bills Großvater möchte, dass du ein Pokémon fängst, das rosa ist und wie ein Ballon aussieht.",
+    "step 3.2070079390": "Zeig Bills Großvater dein [[pokemon::Jigglypuff]].",
+    "step 4.1155611340": "Bills Großvater möchte, dass du ein Pokémon fängst, das rund und blau ist und Blätter auf dem Kopf hat.",
+    "step 5.2041197728": "Zeig Bills Großvater dein [[pokemon::Oddish]].",
+    "step 6.1258611199": "Bills Großvater möchte, dass du ein Pokémon fängst, das eine rote Kugel im Körper hat und sternförmig ist.",
+    "step 7.0896581185": "Zeig Bills Großvater dein [[pokemon::Staryu]].",
+    "step 8.1603570166": "Bills Großvater möchte, dass du ein Pokémon fängst, das sehr treu ist und angeblich gut brüllen kann.",
+    "step 9.1405390786": "Zeig Bills Großvater dein [[pokemon::Growlithe]].",
+    "step 10.2111121563": "Bills Großvater möchte, dass du ein Pokémon fängst, das einen gelben Körper und rote Wangen hat.",
+    "step 11.0798225758": "Zeig Bills Großvater dein [[pokemon::Pikachu]].",
+    "step 12.0123186284": "Bills Großvater möchte gerne ein Duell mit dir bestreiten!",
+    "step 13.0167923376": "Sprich ein letztes Mal mit Bills Großvater."
+}
   "Mining Expedition": {
-    "displayName.1822233903": "",
-    "description.0393231618": "",
-    "step 1.0147063903": "",
-    "step 2.0155178981": ""
-  },
+    "displayName.1822233903": "Untergrund-Expedition",
+    "description.0393231618": "Erkunde den Untergrund!",
+    "step 1.0147063903": "Kaufe das Erkunderset im Laden auf der Zinnoberinsel.",
+    "step 2.0155178981": "Sammle fünfmal alle vergrabenen Schätze in den Untergrund-Minen."
+}
   "Bill's Errand": {
-    "displayName.0558808161": "",
-    "description.0299812462": "",
-    "step 1.0966794650": "",
-    "step 2.0148854616": "",
-    "step 3.0858835684": "",
-    "step 4.1371391855": "",
-    "step 5.1587720809": "",
-    "step 6.0561336780": "",
-    "step 7.0568827479": ""
-  },
+    "displayName.0558808161": "Bills Auftrag",
+    "description.0299812462": "Bill hat dich gebeten, mit ihm zu den Sevii Eilanden zu reisen, um eine digitale Verbindung zum Festland von Kanto einzurichten.",
+    "step 1.0966794650": "Nutze den Button für subregionale Reisen über der Karte, um zu den Sevii Eilanden zu gelangen, und sprich mit Celio auf Eiland Eins.",
+    "step 2.0148854616": "Frage den Betreiber des Spielcasinos auf Eiland Zwei nach dem Meteoriten.",
+    "step 3.0858835684": "Eine Motorradgang hat Eiland Drei übernommen. Sie lassen dich nicht zum Beerenwald weiter. Besiege die Gangster.",
+    "step 4.1371391855": "Besiege den Anführer der Motorradgang.",
+    "step 5.1587720809": "Finde Lostelle. Säubere den Beerenwald auf.",
+    "step 6.0561336780": "Lostelle wurde gefunden. Kehre zum Betreiber des Spielcasinos auf Eiland Zwei zurück.",
+    "step 7.0568827479": "Bring den Meteoriten zu Celio auf der Eiland Eins."
+}
   "Persons of Interest": {
-    "displayName.1001581071": "",
-    "description.0614532698": "",
-    "step 1.1308619894": "",
-    "step 2.1074433596": ""
-  },
+    "displayName.1001581071": "Personen von Interesse",
+    "description.0614532698": "Einige Leute möchten mit dir sprechen.",
+    "step 1.1308619894": "Sprich mit dem Züchter in Saffron City.",
+    "step 2.1074433596": "Sprich mit dem Edelstein-Forscher in Pewter City."
+}
   "The Sick Ampharos": {
-    "displayName.0697046540": "",
-    "description.1008078946": "",
-    "step 1.0964636946": "",
-    "step 2.0253531602": "",
-    "step 3.1707171554": "",
-    "step 4.1371245231": "",
-    "step 5.1707171554": "",
-    "step 6.0905126454": "",
-    "step 7.0253531602": ""
-  },
+    "displayName.0697046540": "Das kranke [[pokemon::Ampharos]]",
+    "description.1008078946": "Jasmines [[pokemon::Ampharos]] scheint krank zu sein!",
+    "step 1.0964636946": "Säubere den Olivin-Leuchtturms in Olivin City.",
+    "step 2.0253531602": "Sprich mit Jasmine im Olivin-Leuchtturm.",
+    "step 3.1707171554": "Sprich mit dem Apotheker in Azuria City.",
+    "step 4.1371245231": "Der Apotheker sagte, er braucht etwas Zeit, um Amphys Medizin fertigzustellen. Besiege in der Zwischenzeit die Azuria City-Arena.",
+    "step 5.1707171554": "Sprich erneut mit dem Apotheker in Azuria City.",
+    "step 6.0905126454": "Gib Amphy die Medizin im Olivin-Leuchtturm.",
+    "step 7.0253531602": "Sprich mit Jasmine im Olivin-Leuchtturm."
+}
   "Team Rocket Again": {
-    "displayName.0601280471": "",
-    "description.1416170930": "",
-    "step 1.0657896310": "",
-    "step 2.1184797232": "",
-    "step 3.1832130684": ""
-  },
+    "displayName.0601280471": "Team Rocket wieder aktiv",
+    "description.1416170930": "Team Rocket treibt wieder Unfug!",
+    "step 1.0657896310": "Besiege das wütende rote [[pokemon::Gyarados]]!",
+    "step 2.1184797232": "Säubere das Team-Rocket-Versteck in Mahagoni City.",
+    "step 3.1832130684": "Säubere den Radioturms in Oliviana City."
+}
   "The Legendary Beasts": {
     "displayName.0797753944": "",
     "description.0888288810": "",
