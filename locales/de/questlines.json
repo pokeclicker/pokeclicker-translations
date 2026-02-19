@@ -957,130 +957,129 @@
     "step 11.0030680238": "Du hast nun endlich [[pokemon::Regieleki]] und [[pokemon::Regidrago]] gefangen. Erstatte Peony Bericht!"
 },
   "The Lair of Giants": {
-    "displayName.1266483868": "",
-    "description.1321075449": "",
-    "step 1.0886964379": "",
-    "step 2.0716192740": "",
-    "step 3.1564531093": "",
-    "step 4.1880934687": "",
-    "step 5.1963866387": "",
-    "step 6.0942798033": "",
-    "step 7.0078270321": "",
-    "step 8.1609872852": "",
-    "step 9.0109311314": "",
-    "step 10.2143519274": "",
-    "step 11.2029900559": "",
-    "step 12.0287604148": "",
-    "step 13.0676590862": "",
-    "step 14.0555171372": "",
-    "step 15.0344349519": "",
-    "step 16.0376878538": "",
-    "step 17.1033176530": "",
-    "step 18.1341201521": "",
-    "step 19.0579387724": "",
-    "step 20.1284456150": "",
-    "step 21.1146667272": "",
-    "step 22.0285551948": "",
-    "step 23.1067757749": "",
-    "step 24.1910533269": "",
-    "step 25.1541658507": "",
-    "step 26.1209417164": "",
-    "step 27.0877175821": "",
-    "step 28.1055468655": "",
-    "step 29.0929922682": "",
-    "step 30.0241095671": "",
-    "step 31.0070685396": "",
-    "step 32.1128675792": "",
-    "step 33.0164352809": "",
-    "step 34.1376207951": "",
-    "step 35.1713116808": "",
-    "step 36.1464041609": "",
-    "step 37.1567189734": "",
-    "step 38.1671932600": ""
-  },
-  "Incarnate Forces of Hisui": {
-    "displayName.0621192632": "",
-    "description.2003703383": "",
-    "step 1.1137563470": "",
-    "step 2.2015067621": "",
-    "step 3.0390334158": "",
-    "step 4.2057997088": "",
-    "step 5.1123705137": "",
-    "step 6.0390334158": ""
-  },
-  "Arceus: The Deified Pokémon": {
-    "displayName.0229241933": "",
-    "description.2102014186": ""
-  },
-  "Path of Legends": {
-    "displayName.0611644584": "",
-    "description.0774108013": "",
-    "step 1.0429587396": ""
-  },
-  "Victory Road": {
-    "displayName.1200551762": "",
-    "description.1747939131": "",
-    "step 1.1885090628": ""
-  },
-  "Starfall Street": {
-    "displayName.1154062666": "",
-    "description.0526577594": "",
-    "step 1.1885403553": ""
-  },
-  "The Way Home": {
-    "displayName.0366793375": "",
-    "description.0512294426": ""
-  },
-  "Egg Hunt": {
-    "displayName.0100956402": "",
-    "description.0084632481": "",
-    "step 1.2124827863": "",
-    "step 2.2040040156": "",
-    "step 3.0964391318": "",
-    "step 4.1241323459": ""
-  },
-  "How blu mouse?": {
-    "displayName.0156967551": "",
-    "description.0831657051": "",
-    "step 1.0955061687": ""
-  },
-  "Dr. Splash's Research Project": {
-    "displayName.0403605825": "",
-    "description.1557756802": "",
-    "step 1.0243386587": "",
-    "step 2.1256745505": "",
-    "step 3.1957729264": "",
-    "step 4.1267167977": "",
-    "step 5.0540992440": "",
-    "step 6.0773486264": "",
-    "step 7.0942481589": "",
-    "step 8.1128637253": "",
-    "step 9.1250667340": ""
-  },
-  "Let's Go, Meltan!": {
-    "displayName.1999674911": "",
-    "description.1036728096": "",
-    "step 1.0689613735": "",
-    "step 2.1567297272": "",
-    "step 3.0470759017": "",
-    "step 4.1786151990": "",
-    "step 5.0251904299": "",
-    "step 6.2005006708": "",
-    "step 7.0033049581": "",
-    "step 8.2071105870": "",
-    "step 9.0185805137": "",
-    "step 10.2034360765": "",
-    "step 11.1999674911": ""
-  },
-  "Defeat Rainbow Rocket": {
-    "displayName.1578465067": "",
-    "description.0170283597": "",
-    "step 1.0300593040": "",
-    "step 2.1200499959": "",
-    "step 3.0935364728": "",
-    "step 4.0014618661": "",
-    "step 5.1511446203": "",
-    "step 6.0589479312": "",
-    "step 7.1952827142": ""
-  }
+    "displayName.1266483868": "Die Höhle der Giganten",
+    "description.1321075449": "Erkunde die Max Lair und entdecke die Gigadynamax-Pokémon.",
+    "step 1.0886964379": "Peonys Tochter, Peonia, möchte in Freezington mit dir sprechen.",
+    "step 2.0716192740": "Räume die Max Lair, um einem Gigadynamax-Pokémon zu begegnen.",
+    "step 3.1564531093": "Berichte Peonia in der Max Lair.",
+    "step 4.1880934687": "Sammle 1 Wishing Piece.",
+    "step 5.1963866387": "Sammle 2 Wishing Pieces.",
+    "step 6.0942798033": "Sammle 4 Wishing Pieces.",
+    "step 7.0078270321": "Sammle 6 Wishing Pieces.",
+    "step 8.1609872852": "Sammle 9 Wishing Pieces.",
+    "step 9.0109311314": "Sammle 12 Wishing Pieces.",
+    "step 10.2143519274": "Sammle 16 Wishing Pieces.",
+    "step 11.2029900559": "Sammle 20 Wishing Pieces.",
+    "step 12.0287604148": "Sammle 25 Wishing Pieces.",
+    "step 13.0676590862": "Sammle 30 Wishing Pieces.",
+    "step 14.0555171372": "Sammle 36 Wishing Pieces.",
+    "step 15.0344349519": "Sammle 42 Wishing Pieces.",
+    "step 16.0376878538": "Sammle 49 Wishing Pieces.",
+    "step 17.1033176530": "Sammle 56 Wishing Pieces.",
+    "step 18.1341201521": "Sammle 64 Wishing Pieces.",
+    "step 19.0579387724": "Sammle 72 Wishing Pieces.",
+    "step 20.1284456150": "Sammle 81 Wishing Pieces.",
+    "step 21.1146667272": "Sammle 90 Wishing Pieces.",
+    "step 22.0285551948": "Sammle 100 Wishing Pieces.",
+    "step 23.1067757749": "Sammle 110 Wishing Pieces.",
+    "step 24.1910533269": "Sammle 121 Wishing Pieces.",
+    "step 25.1541658507": "Sammle 132 Wishing Pieces.",
+    "step 26.1209417164": "Sammle 144 Wishing Pieces.",
+    "step 27.0877175821": "Sammle 156 Wishing Pieces.",
+    "step 28.1055468655": "Sammle 169 Wishing Pieces.",
+    "step 29.0929922682": "Sammle 182 Wishing Pieces.",
+    "step 30.0241095671": "Sammle 196 Wishing Pieces.",
+    "step 31.0070685396": "Sammle 210 Wishing Pieces.",
+    "step 32.1128675792": "Sammle 225 Wishing Pieces.",
+    "step 33.0164352809": "Sammle 240 Wishing Pieces.",
+    "step 34.1376207951": "Du hast endlich genügend Wishing Pieces gesammelt, um jedes Gigadynamax-Pokémon in die Max Lair zu locken! Berichte Peonia in der Max Lair von deinem Erfolg.",
+    "step 35.1713116808": "In Hammerlocke scheint etwas vor sich zu gehen! Sprich mit Leon in der Energy Plant.",
+    "step 36.1464041609": "[[pokemon::Eternamax Eternatus]] ist erneut in der Energy Plant erschienen! Besiege es noch einmal.",
+    "step 37.1567189734": "Du hast [[pokemon::Eternamax Eternatus]] erneut besiegt. Sprich mit Leon in der Energy Plant.",
+    "step 38.1671932600": "Geh zurück zur Max Lair, um Peonia zu berichten, was passiert ist."
+},
+"Incarnate Forces of Hisui": {
+    "displayName.0621192632": "Die wiedergeborene Natur Hisuis",
+    "description.2003703383": "Cogita möchte, dass du die Kräfte der Natur fängst.",
+    "step 1.1137563470": "Sprich mit Cogita in Galaxy Hall.",
+    "step 2.2015067621": "[[pokemon::Tornadus]], [[pokemon::Thundurus]] und [[pokemon::Landorus]] wurden jeweils in den Alabaster Icelands, Cobalt Coastlands und Obsidian Fieldland gesichtet. Verfolge und fange sie.",
+    "step 3.0390334158": "Sprich mit Cogita im Ancient Retreat.",
+    "step 4.2057997088": "Verfolge [[pokemon::Enamorus]] in die Crimson Mirelands.",
+    "step 5.1123705137": "Fange [[pokemon::Enamorus]], das in Hisui umherstreift.",
+    "step 6.0390334158": "Sprich mit Cogita im Ancient Retreat."
+},
+"Arceus: The Deified Pokémon": {
+    "displayName.0229241933": "Arceus: Das göttliche Pokémon",
+    "description.2102014186": "Entdecke die Wahrheit über die Pokémon-Gottheit [[pokemon::Arceus]]."
+},
+"Path of Legends": {
+    "displayName.0611644584": "Pfad der Legenden",
+    "description.0774108013": "Hilf Arven bei der Suche nach der Herba Mystica.",
+    "step 1.0429587396": "Arven möchte dich und sich selbst testen. Besiege ihn am Poco Path Lighthouse."
+},
+"Victory Road": {
+    "displayName.1200551762": "Siegesstraße",
+    "description.1747939131": "Fordere die Arenen von Paldea heraus, um deine neue Rivalin Nemona zu treffen.",
+    "step 1.1885090628": "Endlich ist es Zeit, Nemona auf Augenhöhe zu begegnen! Besiege Champion Nemona in Mesagoza."
+},
+"Starfall Street": {
+    "displayName.1154062666": "Straße zum Sternenfall",
+    "description.0526577594": "Hilf Cassiopeia, Team Star aufzulösen.",
+    "step 1.1885403553": "Penny hat sich als Cassiopeia entpuppt. Besiege sie an der Naranjuva Academy."
+},
+"The Way Home": {
+    "displayName.0366793375": "Der Heimweg",
+    "description.0512294426": "Hilf [[pokemon::Koraidon]] und [[pokemon::Miraidon]], ihre Heimat in der geheimnisvollen Area Zero zu finden."
+},
+"Egg Hunt": {
+    "displayName.0100956402": "Eiersuche",
+    "description.0084632481": "Ein Korb voller seltsamer Eier wurde gesichtet. Versuche, ihn zu finden!",
+    "step 1.2124827863": "Seltsame Eier wurden in Kanto gesehen. Geh und suche sie! Vielleicht weiß Erika mehr?",
+    "step 2.2040040156": "Scheint doch nur ein Easter Egg gewesen zu sein... Aber keine Zeit, darüber nachzudenken. Ein weiterer Bericht kam gerade rein: Sichtungen seltsamer Eier in einem Wald in Johto!",
+    "step 3.0964391318": "Das sah aus wie ein [[pokemon::Togepi]]! Na ja, vielleicht doch nicht. Jedenfalls gibt es eine große Eiersuche im Wald südlich von Rustboro in Hoenn, vielleicht solltest du dort nachsehen?",
+    "step 4.1241323459": "Die Eier sind weggelaufen! Sprich mit dem Eierjäger in Petalburg Woods."
+},
+"How blu mouse?": {
+    "displayName.0156967551": "Eine blaue Maus?",
+    "description.0831657051": "Anscheinend könnte irgendwo ein seltsames blaues, mausartiges Pokémon unterwegs sein?",
+    "step 1.0955061687": "Fange Pikablu."
+},
+"Dr. Splash's Research Project": {
+    "displayName.0403605825": "Dr. Splashs Forschungsprojekt",
+    "description.1557756802": "Hilf Dr. Splash, das volle Potenzial deines [[pokemon::Magikarp]] freizuschalten.",
+    "step 1.0243386587": "Sprich mit Dr. Splash in Hoppy Town.",
+    "step 2.1256745505": "Sammle Beeren für Dr. Splash.",
+    "step 3.1957729264": "Berichte Dr. Splash von deiner Beerenforschung.",
+    "step 4.1267167977": "Sammle Materialien für Dr. Splash.",
+    "step 5.0540992440": "Bring die Trainingsmaterialien zurück zu Dr. Splash in Hoppy Town.",
+    "step 6.0773486264": "Fange Pokémon für Dr. Splashs Trainingsplatz.",
+    "step 7.0942481589": "Bring die gefangenen Pokémon zurück zu Dr. Splash in Hoppy Town.",
+    "step 8.1128637253": "Besiege 5.000 Pokémon.",
+    "step 9.1250667340": "Beende dein Forschungsprojekt, indem du mit Dr. Splash in Hoppy Town sprichst."
+},
+"Let's Go, Meltan!": {
+    "displayName.1999674911": "Los geht’s, [[pokemon::Meltan]]!",
+    "description.1036728096": "Ich brauche deine Hilfe, um mehr über das neu entdeckte Pokémon zu erfahren, das mich und andere Forscher in Aufruhr versetzt hat.",
+    "step 1.0689613735": "Schritt 1 von Los geht’s, [[pokemon::Meltan]]!",
+    "step 2.1567297272": "Schritt 2 von Los geht’s, [[pokemon::Meltan]]!",
+    "step 3.0470759017": "Schritt 3 von Los geht’s, [[pokemon::Meltan]]!",
+    "step 4.1786151990": "Schritt 4 von Los geht’s, [[pokemon::Meltan]]!",
+    "step 5.0251904299": "Schritt 5 von Los geht’s, [[pokemon::Meltan]]!",
+    "step 6.2005006708": "Schritt 6 von Los geht’s, [[pokemon::Meltan]]!",
+    "step 7.0033049581": "Schritt 7 von Los geht’s, [[pokemon::Meltan]]!",
+    "step 8.2071105870": "Schritt 8 von Los geht’s, [[pokemon::Meltan]]!",
+    "step 9.0185805137": "Schritt 9 von Los geht’s, [[pokemon::Meltan]]!",
+    "step 10.2034360765": "Schritt 10 von Los geht’s, [[pokemon::Meltan]]!",
+    "step 11.1999674911": "Los geht’s, [[pokemon::Meltan]]!"
+},
+"Defeat Rainbow Rocket": {
+    "displayName.1578465067": "Besiege Rainbow Rocket",
+    "description.0170283597": "Team Rainbow Rocket hat die [[pokemon::Meltan]]-Forschung gestohlen! Besiege sie, um sie zurückzubekommen!",
+    "step 1.0300593040": "Besiege die Rüpel, die die Übernahme der Aether Foundation bewachen.",
+    "step 2.1200499959": "Besiege Aether-Regionsleiter Faba.",
+    "step 3.0935364728": "Besiege Archie und Maxie.",
+    "step 4.0014618661": "Besiege Team Galactic-Anführer Cyrus.",
+    "step 5.1511446203": "Besiege Team Flare-Anführer Lysandre.",
+    "step 6.0589479312": "Besiege Team Plasma-Anführer Ghetsis.",
+    "step 7.1952827142": "Besiege Team Rainbow-Anführer Giovanni."
 }
