@@ -38,13 +38,13 @@
     "step 11.0798225758": "Zeig Bill's Grandpa dein [[pokemon::Pikachu]].",
     "step 12.0123186284": "Bill's Grandpa möchte gerne ein Duell mit dir bestreiten!",
     "step 13.0167923376": "Sprich ein letztes Mal mit Bill's Grandpa."
-}
+  },
   "Mining Expedition": {
     "displayName.1822233903": "Untergrund-Expedition",
     "description.0393231618": "Erkunde den Untergrund!",
     "step 1.0147063903": "Kaufe das Erkunderset im Laden auf der Cinnabar Island.",
     "step 2.0155178981": "Sammle fünfmal alle vergrabenen Schätze in den Untergrund-Minen."
-}
+  },
   "Bill's Errand": {
     "displayName.0558808161": "Bills Auftrag",
     "description.0299812462": "Bill hat dich gebeten, mit ihm zu den Sevii Islands zu reisen, um eine digitale Verbindung zum Festland von Kanto einzurichten.",
@@ -55,13 +55,13 @@
     "step 5.1587720809": "Finde Lostelle. Säubere den Berry Forest.",
     "step 6.0561336780": "Lostelle wurde gefunden. Kehre zum Betreiber des Spielcasinos auf Two Island zurück.",
     "step 7.0568827479": "Bring den Meteoriten zu Celio auf der One Island."
-}
+  },
   "Persons of Interest": {
     "displayName.1001581071": "Personen von Interesse",
     "description.0614532698": "Einige Leute möchten mit dir sprechen.",
     "step 1.1308619894": "Sprich mit dem Züchter in Saffron City.",
     "step 2.1074433596": "Sprich mit dem Edelstein-Forscher in Pewter City."
-}
+  },
   "The Sick Ampharos": {
     "displayName.0697046540": "Das kranke [[pokemon::Ampharos]]",
     "description.1008078946": "Jasmines [[pokemon::Ampharos]] scheint krank zu sein!",
@@ -72,14 +72,14 @@
     "step 5.1707171554": "Sprich erneut mit dem Apotheker in Cianwood City.",
     "step 6.0905126454": "Gib Amphy die Medizin im Olivin-Leuchtturm.",
     "step 7.0253531602": "Sprich mit Jasmine im Olivin-Leuchtturm."
-}
+  },
   "Team Rocket Again": {
     "displayName.0601280471": "Team Rocket wieder aktiv",
     "description.1416170930": "Team Rocket treibt wieder Unfug!",
     "step 1.0657896310": "Besiege das wütende Rede [[pokemon::Gyarados]]!",
     "step 2.1184797232": "Säubere das Team-Rocket-Versteck in Mahagony Town.",
     "step 3.1832130684": "Säubere den Radioturm in Goldenrod City."
-}
+  },
   "The Legendary Beasts": {
     "displayName.0797753944": "Die Legendären Bestien",
     "description.0888288810": "Untersuche die Legenden rund um den seltsamen Burned Tower in Ecruteak City.",
@@ -88,8 +88,8 @@
     "step 3.2104199980": "Besiege Silver.",
     "step 4.0028986666": "Sprich mit Pokéfan Derek in Ecruteak City.",
     "step 5.0738343967": "Fange die legendären Bestien."
-},
-"Eusine's Chase": {
+  },
+  "Eusine's Chase": {
     "displayName.1324826057": "Eusines Jagd",
     "description.0792427291": "Eusine sucht nach [[pokemon::Suicune]].",
     "step 1.0482024379": "Finde [[pokemon::Suicune]].",
@@ -104,8 +104,8 @@
     "step 10.0482024379": "Finde [[pokemon::Suicune]].",
     "step 11.1806697010": "Sprich mit Eusine in Bills Haus.",
     "step 12.1230542232": "Fange [[pokemon::Suicune]]."
-},
-"Whirl Guardian": {
+  },
+  "Whirl Guardian": {
     "displayName.1568689727": "Wirbelwächter",
     "description.1837762212": "Die Kimono-Mädchen von Ecruteak City brauchen Hilfe.",
     "step 1.0389709620": "Sprich mit Kimono-Mädchen Zuki in Violet City.",
@@ -119,15 +119,15 @@
     "step 9.1787588348": "Säubere den Radioturm, um alle Team-Rocket-Aktivitäten zu beenden.",
     "step 10.0182159430": "Triff die Kimono-Mädchen auf den Whirl Islands.",
     "step 11.0863494439": "Fange [[pokemon::Lugia]] auf den Whirl Islands."
-},
-"Rainbow Guardian": {
+  },
+  "Rainbow Guardian": {
     "displayName.1381681925": "Regenbogenwächter",
     "description.2045274478": "Die Kimono-Mädchen von Ecruteak City möchten erneut mit dir sprechen.",
     "step 1.1490981420": "Triff die Kimono-Mädchen im Ecruteak Tanztheater.",
     "step 2.0746603139": "Beweise den Kimono-Mädchen von Ecruteak City deine Fähigkeiten als Trainer.",
     "step 3.0461945008": "Fange [[pokemon::Ho-Oh]] im Tin Tower."
-},
-"Unfinished Business": {
+  },
+  "Unfinished Business": {
     "displayName.1627537973": "Unerledigte Geschäfte",
     "description.1165127308": "Ein Auftrag von Professor Oak.",
     "step 1.1986079826": "Sprich mit Professor Oak in Pallet Town.",
@@ -145,8 +145,8 @@
     "step 13.0622788299": "Untersuche erneut das Heiligtum im Ilex Forest.",
     "step 14.1193513983": "Spiele mit [[pokemon::Celebi]] im Ilex Forest.",
     "step 15.0877483470": "Sprich mit Professor Oak in Azalea Town."
-},
-"Land vs. Water": {
+  },
+  "Land vs. Water": {
     "displayName.0754596179": "Land vs. Wasser",
     "description.1495286274": "Setze den Plänen von Team Aqua und Team Magma ein Ende!",
     "step 1.2076072304": "Besiege Team Magma am Mt. Chimney Crater.",
@@ -154,8 +154,8 @@
     "step 3.1300427833": "Säubere das Versteck von Team Magma.",
     "step 4.0570722440": "Säubere das Versteck von Team Aqua.",
     "step 5.1729036597": "Der Anführer von Team Aqua, Archie, ist aus seinem Versteck entkommen. Finde ihn in der Unterwasserhöhle und setze dem ein für alle Mal ein Ende!"
-},
-"The Weather Trio": {
+  },
+  "The Weather Trio": {
     "displayName.1662263423": "Das Wetter-Trio",
     "description.0156841683": "Beende einen uralten Kampf.",
     "step 1.2055357902": "Untersuche die Aufregung in Sootopolis City.",
@@ -165,7 +165,7 @@
     "step 5.0558384862": "Kehre nach Sootopolis City zurück, um zu sehen, was [[pokemon::Rayquaza]] vorhat.",
     "step 6.1619532594": "Sprich mit Wallace in der Cave of Origin über die Folgen des Kampfes.",
     "step 7.0525622934": "Fange das Wetter-Trio."
-}
+  },
   "Mystery of Deoxys": {
     "displayName.0886697076": "Das Geheimnis von [[pokemon::Deoxys]]",
     "description.0895585288": "Lüfte das Geheimnis von [[pokemon::Deoxys]].",
@@ -173,8 +173,8 @@
     "step 2.1405343435": "Besiege 500 Pokémon vom Typ Psycho.",
     "step 3.1177139236": "Fange oder züchte 200 Pokémon vom Typ Psycho.",
     "step 4.0328569857": "Betritt die Battle Frontier und besiege Ebene 100."
-},
-"The Eon Duo": {
+  },
+  "The Eon Duo": {
     "displayName.1717855277": "Das Äon-Duo",
     "description.1305113103": "Spüre das schwer fassbare Äon-Duo auf.",
     "step 1.0886497539": "Sieh dir in Littleroot Town einen Nachrichtenbericht über ein mysteriöses Pokémon an.",
@@ -182,8 +182,8 @@
     "step 3.1257854447": "Gehe zur Pokémon-Liga von Hoenn und hole dir dein Äon-Ticket.",
     "step 4.1825468718": "Löse dein Äon-Ticket im Startmenü ein und untersuche die Südinsel.",
     "step 5.0453324800": "Fange das Äon-Duo."
-},
-"Celio's Errand": {
+  },
+  "Celio's Errand": {
     "displayName.0857073898": "Celios Auftrag",
     "description.1441283841": "Celio hat dich gebeten, ihm zu helfen, eine digitale Verbindung zwischen den Sevii Islands und Hoenn einzurichten.",
     "step 1.1681248697": "Sprich mit Celio auf One Island in den Sevii Islands.",
@@ -200,8 +200,8 @@
     "step 12.1650560149": "Besiege Team Rocket-Admin Archer im Rocket-Lagerhaus.",
     "step 13.1615985846": "Besiege den Wissenschaftler Gideon, um den Saphir zurückzuholen.",
     "step 14.1215643078": "Bring den Saphir zu Celio auf One Island."
-},
-"Team Rocket's Pinkan Theme Park": {
+  },
+  "Team Rocket's Pinkan Theme Park": {
     "displayName.2127024801": "Team Rockets Pinkan-Freizeitpark",
     "description.1766958488": "Hilf Team Rocket beim Bau eines Freizeitparks auf Pinkan Island?",
     "step 1.0771448609": "Sprich mit Team Rocket auf Pinkan Island, um ihre Pläne zu erfahren.",
@@ -211,8 +211,8 @@
     "step 5.1715612715": "Sprich mit Team Rocket auf Pinkan Island, um den Freizeitpark zu eröffnen!",
     "step 6.0378872660": "Besiege Jessie & James von Team Rocket auf Pinkan Island.",
     "step 7.0224406544": "Oh nein! Officer Jenny ist aufgetaucht – und sie ist nicht begeistert. Keine Zeit für Erklärungen, es ist Zeit zu kämpfen!"
-},
-"The Three Golems": {
+  },
+  "The Three Golems": {
     "displayName.0723688904": "Die drei Golems",
     "description.0036145889": "Lüfte die Geheimnisse der Sealed Chamber.",
     "step 1.0437816859": "Betritt die Sealed Chamber, um Hinweise zu finden.",
@@ -225,8 +225,8 @@
     "step 8.0893028607": "Untersuche die versteckte Botschaft am Ende des Labyrinths.",
     "step 9.0559288388": "Erkunde Hoenn und besiege Pokémon auf den angedeuteten Routen, um das Regi-Trio zu erwecken.",
     "step 10.0180948531": "Fange das Regi-Trio."
-},
-"Wish Maker": {
+  },
+  "Wish Maker": {
     "displayName.0935071627": "Wunscherfüller",
     "description.2077946476": "Nutze die Kraft des Millennium-Kometen und erfülle dir einen Wunsch!",
     "step 1.0320425594": "Nimm an der Eröffnungszeremonie des Millennium-Festivals nahe Lavaridge Town teil.",
@@ -239,8 +239,8 @@
     "step 8.1932153162": "Butler ist durch den Jagged Pass geflohen und hat [[pokemon::Jirachi]] an eine Maschine angeschlossen. Besiege ihn, um [[pokemon::Jirachi]] zu befreien.",
     "step 9.0022155786": "Butlers Versuch, [[pokemon::Groudon]] wiederzubeleben, ist schrecklich schiefgegangen. Besiege die entstandene Abscheulichkeit!",
     "step 10.1260637142": "[[pokemon::Jirachi]] streift nun durch Hoenn. Fange [[pokemon::Jirachi]]."
-},
-"A Meta Discovery": {
+  },
+  "A Meta Discovery": {
     "displayName.1802192660": "Eine Meta-Entdeckung",
     "description.1799092966": "Hilf Butler, seinen Wunsch verantwortungsvoll wahr werden zu lassen.",
     "step 1.0261442075": "Sprich mit Butler im Jagged Pass über seinen neuen Plan.",
@@ -248,145 +248,145 @@
     "step 3.1862264459": "Kalibriere die Maschine, indem du 5 [[pokemon::Groudon]] fängst oder ausbrütest.",
     "step 4.1708328045": "Bring die Materialien zum Mt. Chimney Crater und starte die Maschine.",
     "step 5.0360146674": "Butler hat [[pokemon::Meta Groudon]] wiederbelebt. Fange [[pokemon::Meta Groudon]]."
-},
+  },
   "Shadows in the Desert": {
-  "displayName.0298551922": "Crypto in der Wüste",
-  "description.1725155577": "Erkunde Orre und decke den Ursprung der Crypto-Pokémon auf.",
-  "step 1.0126291075": "Reise nach Orre und erkunde den Outskirt Stand.",
-  "step 2.0084287810": "Besiege Willie.",
-  "step 3.2121981968": "Besiege Folly, den zwielichtigen Kerl, in Phenac City.",
-  "step 4.0375270254": "Untersuche den Inhalt des mysteriösen Sacks.",
-  "step 5.0710294776": "Besiege 10 Trainer in Phenac City, die Crypto-Pokémon einsetzen.",
-  "step 6.0933491292": "Sprich mit dem Bürgermeister von Phenac City über die Verbrecher, gegen die du gekämpft hast.",
-  "step 7.1609121735": "Triff Rui erneut in Phenac City.",
-  "step 8.0399653736": "Besiege Trainer in Pyrite Town, um die Verbrecher aufzuspüren.",
-  "step 9.1155390916": "Sprich mit dem verzweifelten Bodybuilder Duking in Pyrite Town.",
-  "step 10.0223024200": "Besiege Trainer im Pyrite-Kolosseum, um die Verbrecher aufzuspüren.",
-  "step 11.0817751560": "Bisher keine Spur von Crypto-Pokémon. Besiege Trainer im Pyrite-Gebäude, um die Verbrecher aufzuspüren.",
-  "step 12.0981276457": "Verhöre Kopfgeldjäger Doken im Pyrite-Gebäude, um herauszufinden, wer [[pokemon::Plusle]] entführt hat – und wohin.",
-  "step 13.2054257567": "Finde Miror B. und rette Dukings [[pokemon::Plusle]] in der Pyrite Cave!",
-  "step 14.0508572733": "Befreie Dukings [[pokemon::Plusle]].",
-  "step 15.0705808953": "Besprich deinen nächsten Schritt mit Rui im Pyrite-Kolosseum.",
-  "step 16.2121096715": "Besiege die Team-Cipher-Rüpel, die Agate Village plündern.",
-  "step 17.0571654681": "Rui sorgt sich um ihren Großvater. Suche nach ihm, indem du die Relic-Höhle abschließt.",
-  "step 18.1790385598": "Erfahre von Großvater Eagun mehr über die Relic-Höhle.",
-  "step 19.0649613821": "Gerüchte sprechen von weiterer Team-Cipher-Aktivität am Mt. Battle. Geh der Sache nach!",
-  "step 20.1840363755": "Besprich deinen nächsten Schritt mit Rui am Mt. Battle.",
-  "step 21.0780480829": "Verfolge die TV-Übertragung aus \"The Under\" in Pyrite Town. Schließe The Under ab.",
-  "step 22.0159545105": "Durchsuche Venus’ Studio in The Under nach Hinweisen.",
-  "step 23.0242775263": "Folge dem geheimen Tunnel zum Cipher-Labor und schalte die Gegner aus.",
-  "step 24.0431859120": "Team Cipher hat den Realgam Tower übernommen! Kämpfe und vertreibe sie!",
-  "step 25.0023323161": "Vom Dach des Realgam Tower siehst du Bürgermeister Es Cade. Bitte ihn um Hilfe.",
-  "step 26.1619711733": "Die Anführer von Team Cipher haben sich im Realgam-Kolosseum verschanzt. Besiege sie und beende das ein für alle Mal!",
-  "step 27.0120097571": "Gerade als du ihn gestellt hast, lässt Evice einen Hubschrauber kommen. Sieh zu, wie er aus dem Realgam-Kolosseum entkommt."
-},
-"A New World": {
-  "displayName.1385093043": "Eine neue Welt",
-  "description.0547231379": "Beende Team Galactics Plan, die Welt zu zerstören und eine neue zu erschaffen.",
-  "step 1.1455481266": "Team Galactic stiehlt Energie. Schließe das Valley Windworks ab.",
-  "step 2.0710084311": "Team Galactic entführt nun Pokémon. Schließe das Team-Galactic-Gebäude in Eterna City ab.",
-  "step 3.0799547421": "Alles ist ruhig. Team Galactic scheint nichts zu unternehmen. Vielleicht haben sie ihre Lektion gelernt. Reise weiter und schließe die Arena von Pastoria City ab.",
-  "step 4.0997291339": "Der Boss von Team Galactic wurde in Celestic Town gesichtet!",
-  "step 5.1804742296": "Cyrus ist verschwunden. Bleibt nur, weiterzumachen. Das Abenteuer ruft! Schließe die Arena von Canalave ab.",
-  "step 6.2116246336": "Am Lake Valor gab es einen Zwischenfall. Du musst den Wächter des Sees schützen! Schließe den Lake Valor ab.",
-  "step 7.0359918888": "Der Wächter des Lake Valor wurde gefangen genommen. Versuche es am nächsten See. Schließe den Lake Verity ab.",
-  "step 8.0776106435": "Auch der Wächter des Lake Verity wurde entführt. Nur noch ein See bleibt. Schließe den Lake Acuity ab.",
-  "step 9.0611926062": "Du konntest keinen der Wächter retten. Sie wurden nach Veilstone City gebracht. Also war das dieses seltsame Gebäude... Schließe das Team-Galactic-HQ in Veilstone City ab.",
-  "step 10.1797323183": "Die Wächter wurden befreit, doch Cyrus hat mit ihnen die Rede Kette geschmiedet. Er bringt sie zur Spitze des Mount Coronet. Folge ihm! Schließe die Speersäule ab.",
-  "step 11.0322580208": "Cyrus wollte mit der Reden Kette [[pokemon::Dialga]] und [[pokemon::Palkia]] kontrollieren, erzürnte jedoch Giratina und wurde in dessen Welt gezogen. Auf dem Gipfel des Mount Coronet ist ein Portal erschienen. Nutze es, folge Cyrus und beende die Bedrohung ein für alle Mal. Schließe die Distortion World ab."
-},
-"Recover the Precious Egg!": {
-  "displayName.0050804307": "Rette das wertvolle Ei!",
-  "description.0068849519": "Im Labor von Sandgem wartet ein seltenes Ei! Ein einzelnes Ei auszubrüten sollte doch kein Problem sein… oder?",
-  "step 1.0176758969": "Sprich mit Professor Hastings in Sandgem Town.",
-  "step 2.0110794554": "Suche im Eterna Forest nach Hinweisen.",
-  "step 3.0916848157": "Fange oder brüte 50 Wasser-Pokémon aus und prüfe, ob diese Felsen wirklich nur Felsen sind.",
-  "step 4.1463006703": "Zeit, diese mysteriösen Felsen ordentlich einzuwOaken! Kehre in den Eterna Forest zurück und bereite dich auf einen Kampf vor.",
-  "step 5.0267628198": "Sprich mit dem Go-Rock-Kommandanten im Eterna Forest.",
-  "step 6.0718022622": "Verfolge die fliehende Go-Rock-Truppe durch den Eterna Forest!",
-  "step 7.1250501179": "Verfolge die Go-Rock-Truppe weiter durch den Eterna Forest, aber… sind sie nicht gerade erst an diesem Baum vorbeigekommen?",
-  "step 8.1959178965": "Die Go-Rock-Truppe läuft definitiv im Kreis, merkt es aber nicht. Verhöre eines ihrer Mitglieder zu ihrer Navigationsmethode im Eterna Forest!",
-  "step 9.0690654316": "Sie benutzen [[pokemon::Parasect]] zur Orientierung. Besiege ein [[pokemon::Parasect]], dann sitzen sie fest!",
-  "step 10.1083815642": "Jetzt, da du den Weg aufgewühlt hast, setze die Verfolgung im Eterna Forest fort!",
-  "step 11.0825157950": "Du hast den Go-Rock-Kommandanten vor dem Alten Schloss gestellt! Mach Schluss damit.",
-  "step 12.0662875099": "Bring das Ei zu Professor Hastings nach Sandgem Town zurück.",
-  "step 13.0911561341": "Professor Hastings ist nach Canalave gereist, um weiter an [[pokemon::Manaphy]] zu forschen. Sieh nach ihm, sobald du kannst!",
-  "step 14.1277327240": "Ein kleines Mädchen, oder besser gesagt ihr [[pokemon::Happiny]], hat das Ei gestohlen! Suche östlich von Canalave nach Zeugen.",
-  "step 15.1341120870": "Das [[pokemon::Happiny]] ist nördlich aus Jubilife geflohen. Frage in der nächsten Stadt nach Zeugen.",
-  "step 16.1905809482": "Das [[pokemon::Happiny]] zog durch den Eterna Forest nach Norden. Erkundige dich in Eterna City.",
-  "step 17.0919432983": "Suche jemanden, der das eierräuberische [[pokemon::Happiny]] gesehen hat! Zuletzt wurde es auf Route 211 in Richtung Osten gesichtet.",
-  "step 18.0777942451": "Folge weiter der Spur des [[pokemon::Happiny]]-Eierdiebes! Es bewegte sich nach Süden in Richtung Hearthome City.",
-  "step 19.1572544283": "Vielleicht kannst du das [[pokemon::Happiny]] endlich in Hearthome City stellen. Frage nach Zeugen.",
-  "step 20.0106184730": "Das [[pokemon::Happiny]] ist erneut durch den Kraterberg geflohen – diesmal durch den südlichen Westausgang. Frage auf der anderen Seite nach Zeugen.",
-  "step 21.2120429404": "Das [[pokemon::Happiny]] floh aus Oreburgh nach Westen durch das Oreburgher Tor. Suche dort nach weiteren Hinweisen.",
-  "step 22.0487619569": "Suche nach Spuren des [[pokemon::Happiny]] südlich von Jubilife.",
-  "step 23.1816337338": "Ein ehemaliges Go-Rock-Mitglied in Sandgem Town ist zum Pokémon-Dieb geworden und will das Ei zuerst stehlen. Nach allem, was du durchgemacht hast, wird ihn ein böses Erwachen treffen.",
-  "step 24.0335977947": "Nach dem Verlassen von Sandgem floh das [[pokemon::Happiny]] südöstlich übers Wasser. Es gibt nur noch einen Ort, an dem es sein kann…",
-  "step 25.0669480789": "Du lässt dich jetzt nicht mehr von Felsen aufhalten. Fange oder brüte 50 Kampf-Pokémon aus und zerschmettere sie.",
-  "step 26.1611279765": "Zurück zum Park der Freunde. Diesem kleinen rosa Redzlöffel zeigst du jetzt, dass man keine wichtigen Eier stiehlt!",
-  "step 27.1775887423": "Nach deinem Kampf mit den Ei-Dieben ist das Ei geschlüpft! Bring [[pokemon::Manaphy]] zu Hastings nach Canalave und schließe diese Mission endgültig ab."
-},
+    "displayName.0298551922": "Crypto in der Wüste",
+    "description.1725155577": "Erkunde Orre und decke den Ursprung der Crypto-Pokémon auf.",
+    "step 1.0126291075": "Reise nach Orre und erkunde den Outskirt Stand.",
+    "step 2.0084287810": "Besiege Willie.",
+    "step 3.2121981968": "Besiege Folly, den zwielichtigen Kerl, in Phenac City.",
+    "step 4.0375270254": "Untersuche den Inhalt des mysteriösen Sacks.",
+    "step 5.0710294776": "Besiege 10 Trainer in Phenac City, die Crypto-Pokémon einsetzen.",
+    "step 6.0933491292": "Sprich mit dem Bürgermeister von Phenac City über die Verbrecher, gegen die du gekämpft hast.",
+    "step 7.1609121735": "Triff Rui erneut in Phenac City.",
+    "step 8.0399653736": "Besiege Trainer in Pyrite Town, um die Verbrecher aufzuspüren.",
+    "step 9.1155390916": "Sprich mit dem verzweifelten Bodybuilder Duking in Pyrite Town.",
+    "step 10.0223024200": "Besiege Trainer im Pyrite-Kolosseum, um die Verbrecher aufzuspüren.",
+    "step 11.0817751560": "Bisher keine Spur von Crypto-Pokémon. Besiege Trainer im Pyrite-Gebäude, um die Verbrecher aufzuspüren.",
+    "step 12.0981276457": "Verhöre Kopfgeldjäger Doken im Pyrite-Gebäude, um herauszufinden, wer [[pokemon::Plusle]] entführt hat – und wohin.",
+    "step 13.2054257567": "Finde Miror B. und rette Dukings [[pokemon::Plusle]] in der Pyrite Cave!",
+    "step 14.0508572733": "Befreie Dukings [[pokemon::Plusle]].",
+    "step 15.0705808953": "Besprich deinen nächsten Schritt mit Rui im Pyrite-Kolosseum.",
+    "step 16.2121096715": "Besiege die Team-Cipher-Rüpel, die Agate Village plündern.",
+    "step 17.0571654681": "Rui sorgt sich um ihren Großvater. Suche nach ihm, indem du die Relic-Höhle abschließt.",
+    "step 18.1790385598": "Erfahre von Großvater Eagun mehr über die Relic-Höhle.",
+    "step 19.0649613821": "Gerüchte sprechen von weiterer Team-Cipher-Aktivität am Mt. Battle. Geh der Sache nach!",
+    "step 20.1840363755": "Besprich deinen nächsten Schritt mit Rui am Mt. Battle.",
+    "step 21.0780480829": "Verfolge die TV-Übertragung aus \"The Under\" in Pyrite Town. Schließe The Under ab.",
+    "step 22.0159545105": "Durchsuche Venus’ Studio in The Under nach Hinweisen.",
+    "step 23.0242775263": "Folge dem geheimen Tunnel zum Cipher-Labor und schalte die Gegner aus.",
+    "step 24.0431859120": "Team Cipher hat den Realgam Tower übernommen! Kämpfe und vertreibe sie!",
+    "step 25.0023323161": "Vom Dach des Realgam Tower siehst du Bürgermeister Es Cade. Bitte ihn um Hilfe.",
+    "step 26.1619711733": "Die Anführer von Team Cipher haben sich im Realgam-Kolosseum verschanzt. Besiege sie und beende das ein für alle Mal!",
+    "step 27.0120097571": "Gerade als du ihn gestellt hast, lässt Evice einen Hubschrauber kommen. Sieh zu, wie er aus dem Realgam-Kolosseum entkommt."
+  },
+  "A New World": {
+    "displayName.1385093043": "Eine neue Welt",
+    "description.0547231379": "Beende Team Galactics Plan, die Welt zu zerstören und eine neue zu erschaffen.",
+    "step 1.1455481266": "Team Galactic stiehlt Energie. Schließe das Valley Windworks ab.",
+    "step 2.0710084311": "Team Galactic entführt nun Pokémon. Schließe das Team-Galactic-Gebäude in Eterna City ab.",
+    "step 3.0799547421": "Alles ist ruhig. Team Galactic scheint nichts zu unternehmen. Vielleicht haben sie ihre Lektion gelernt. Reise weiter und schließe die Arena von Pastoria City ab.",
+    "step 4.0997291339": "Der Boss von Team Galactic wurde in Celestic Town gesichtet!",
+    "step 5.1804742296": "Cyrus ist verschwunden. Bleibt nur, weiterzumachen. Das Abenteuer ruft! Schließe die Arena von Canalave ab.",
+    "step 6.2116246336": "Am Lake Valor gab es einen Zwischenfall. Du musst den Wächter des Sees schützen! Schließe den Lake Valor ab.",
+    "step 7.0359918888": "Der Wächter des Lake Valor wurde gefangen genommen. Versuche es am nächsten See. Schließe den Lake Verity ab.",
+    "step 8.0776106435": "Auch der Wächter des Lake Verity wurde entführt. Nur noch ein See bleibt. Schließe den Lake Acuity ab.",
+    "step 9.0611926062": "Du konntest keinen der Wächter retten. Sie wurden nach Veilstone City gebracht. Also war das dieses seltsame Gebäude... Schließe das Team-Galactic-HQ in Veilstone City ab.",
+    "step 10.1797323183": "Die Wächter wurden befreit, doch Cyrus hat mit ihnen die Rede Kette geschmiedet. Er bringt sie zur Spitze des Mount Coronet. Folge ihm! Schließe die Speersäule ab.",
+    "step 11.0322580208": "Cyrus wollte mit der Reden Kette [[pokemon::Dialga]] und [[pokemon::Palkia]] kontrollieren, erzürnte jedoch Giratina und wurde in dessen Welt gezogen. Auf dem Gipfel des Mount Coronet ist ein Portal erschienen. Nutze es, folge Cyrus und beende die Bedrohung ein für alle Mal. Schließe die Distortion World ab."
+  },
+  "Recover the Precious Egg!": {
+    "displayName.0050804307": "Rette das wertvolle Ei!",
+    "description.0068849519": "Im Labor von Sandgem wartet ein seltenes Ei! Ein einzelnes Ei auszubrüten sollte doch kein Problem sein… oder?",
+    "step 1.0176758969": "Sprich mit Professor Hastings in Sandgem Town.",
+    "step 2.0110794554": "Suche im Eterna Forest nach Hinweisen.",
+    "step 3.0916848157": "Fange oder brüte 50 Wasser-Pokémon aus und prüfe, ob diese Felsen wirklich nur Felsen sind.",
+    "step 4.1463006703": "Zeit, diese mysteriösen Felsen ordentlich einzuwOaken! Kehre in den Eterna Forest zurück und bereite dich auf einen Kampf vor.",
+    "step 5.0267628198": "Sprich mit dem Go-Rock-Kommandanten im Eterna Forest.",
+    "step 6.0718022622": "Verfolge die fliehende Go-Rock-Truppe durch den Eterna Forest!",
+    "step 7.1250501179": "Verfolge die Go-Rock-Truppe weiter durch den Eterna Forest, aber… sind sie nicht gerade erst an diesem Baum vorbeigekommen?",
+    "step 8.1959178965": "Die Go-Rock-Truppe läuft definitiv im Kreis, merkt es aber nicht. Verhöre eines ihrer Mitglieder zu ihrer Navigationsmethode im Eterna Forest!",
+    "step 9.0690654316": "Sie benutzen [[pokemon::Parasect]] zur Orientierung. Besiege ein [[pokemon::Parasect]], dann sitzen sie fest!",
+    "step 10.1083815642": "Jetzt, da du den Weg aufgewühlt hast, setze die Verfolgung im Eterna Forest fort!",
+    "step 11.0825157950": "Du hast den Go-Rock-Kommandanten vor dem Alten Schloss gestellt! Mach Schluss damit.",
+    "step 12.0662875099": "Bring das Ei zu Professor Hastings nach Sandgem Town zurück.",
+    "step 13.0911561341": "Professor Hastings ist nach Canalave gereist, um weiter an [[pokemon::Manaphy]] zu forschen. Sieh nach ihm, sobald du kannst!",
+    "step 14.1277327240": "Ein kleines Mädchen, oder besser gesagt ihr [[pokemon::Happiny]], hat das Ei gestohlen! Suche östlich von Canalave nach Zeugen.",
+    "step 15.1341120870": "Das [[pokemon::Happiny]] ist nördlich aus Jubilife geflohen. Frage in der nächsten Stadt nach Zeugen.",
+    "step 16.1905809482": "Das [[pokemon::Happiny]] zog durch den Eterna Forest nach Norden. Erkundige dich in Eterna City.",
+    "step 17.0919432983": "Suche jemanden, der das eierräuberische [[pokemon::Happiny]] gesehen hat! Zuletzt wurde es auf Route 211 in Richtung Osten gesichtet.",
+    "step 18.0777942451": "Folge weiter der Spur des [[pokemon::Happiny]]-Eierdiebes! Es bewegte sich nach Süden in Richtung Hearthome City.",
+    "step 19.1572544283": "Vielleicht kannst du das [[pokemon::Happiny]] endlich in Hearthome City stellen. Frage nach Zeugen.",
+    "step 20.0106184730": "Das [[pokemon::Happiny]] ist erneut durch den Kraterberg geflohen – diesmal durch den südlichen Westausgang. Frage auf der anderen Seite nach Zeugen.",
+    "step 21.2120429404": "Das [[pokemon::Happiny]] floh aus Oreburgh nach Westen durch das Oreburgher Tor. Suche dort nach weiteren Hinweisen.",
+    "step 22.0487619569": "Suche nach Spuren des [[pokemon::Happiny]] südlich von Jubilife.",
+    "step 23.1816337338": "Ein ehemaliges Go-Rock-Mitglied in Sandgem Town ist zum Pokémon-Dieb geworden und will das Ei zuerst stehlen. Nach allem, was du durchgemacht hast, wird ihn ein böses Erwachen treffen.",
+    "step 24.0335977947": "Nach dem Verlassen von Sandgem floh das [[pokemon::Happiny]] südöstlich übers Wasser. Es gibt nur noch einen Ort, an dem es sein kann…",
+    "step 25.0669480789": "Du lässt dich jetzt nicht mehr von Felsen aufhalten. Fange oder brüte 50 Kampf-Pokémon aus und zerschmettere sie.",
+    "step 26.1611279765": "Zurück zum Park der Freunde. Diesem kleinen rosa Redzlöffel zeigst du jetzt, dass man keine wichtigen Eier stiehlt!",
+    "step 27.1775887423": "Nach deinem Kampf mit den Ei-Dieben ist das Ei geschlüpft! Bring [[pokemon::Manaphy]] zu Hastings nach Canalave und schließe diese Mission endgültig ab."
+  },
   "Zero's Ambition": {
-  "displayName.0942477357": "Zeros Ambition",
-  "description.1831191088": "Hilf Zero, einen Zugang zur Distortion World zu finden.",
-  "step 1.0398078898": "Sprich mit Zero im Kampfareal.",
-  "step 2.1082519883": "Lies das kürzlich entdeckte Buch in Canalave.",
-  "step 3.0044081679": "Berichte Zero, was in dem Buch stand.",
-  "step 4.2085149051": "Bitte [[pokemon::Mesprit]] am Lake Verity um Informationen über die Distortion World.",
-  "step 5.1615352731": "Beschaffe 10 Purple Shards.",
-  "step 6.0809952328": "Bitte [[pokemon::Azelf]] am Lake Valor um Informationen über die Distortion World.",
-  "step 7.0960798490": "Beschaffe 10 Ochre Shards.",
-  "step 8.0382130070": "Bitte [[pokemon::Uxie]] am Lake Acuity um Informationen über die Distortion World.",
-  "step 9.0979955406": "Beschaffe 10 Crimson Shards.",
-  "step 10.0882346915": "Schließe die Sendoff Spring ab, um das Seen-Trio zu treffen.",
-  "step 11.1324386104": "Sprich mit dem Seen-Trio an der Sendoff Spring.",
-  "step 12.0502958681": "Lade den Schlüssel zur Distortion World auf.",
-  "step 13.0081706452": "Sprich mit Zero an der Sendoff Spring.",
-  "step 14.0609165815": "Besiege Zero, um den Schlüssel zu schützen.",
-  "step 15.0489983333": "Fange den Herrscher der Distortion World.",
-  "step 16.0081706452": "Sprich erneut mit Zero an der Sendoff Spring."
-},
-"Hollow Truth and Ideals": {
-  "displayName.0420226771": "Leere Wahrheit und Ideale",
-  "description.2138702417": "Verhindere, dass Team Plasma die gefährlichen DNS-Keile einsetzt.",
-  "step 1.1956916657": "Ein Team-Plasma-Rüpel in Virbank City will dein Pokémon stehlen. Besiege ihn.",
-  "step 2.0655775754": "Mehrere Team-Plasma-Rüpel wurden in den Castelia Sewers gesichtet. Schließe die Castelia Sewers ab.",
-"step 3.1469690190": "Untersuche die völlig gewöhnliche Fregatte.",
-  "step 4.2069744124": "In Castelia City scheint nichts Verdächtiges vor sich zu gehen. Setze deine Reise fort und schließe die Arena von Nimbasa City ab.",
-  "step 5.0132168331": "Hugh vermutet, dass Team Plasma in Nimbasa City Pokémon stiehlt. Besiege die Rüpel.",
-  "step 6.1839018942": "Sie stehlen definitiv Pokémon. Untersuche die absolut unverdächtige Fregatte.",
-  "step 7.1674893239": "Besiege die Team-Plasma-Rüpel auf der absolut unverdächtigen Fregatte.",
-  "step 8.0229415008": "Sprich mit Zinzolin.",
-  "step 9.0940019944": "Die Fregatte ist verschwunden. Bleibt nur, weiterzugehen. Schließe Route 13 ab.",
-  "step 10.1218186736": "In Lacunosa Town hast du Zinzolin und einen Team-Plasma-Rüpel aufgespürt. Besiege den Rüpel.",
-  "step 11.1370190428": "Besiege Zinzolin.",
-  "step 12.0198092113": "Besiege den Arenaleiter von Opelucid City, um die DNA-Spleißer vor Team Plasma zu erhalten!",
-  "step 13.1188846969": "Team Plasma hat die DNS-Keile gestohlen und greift die Stadt mit einer Armee aus Rüpeln und Schatten-Pokémon an! Wehre den Angriff ab!",
-  "step 14.1370190428": "Besiege Zinzolin.",
-  "step 15.1170069076": "Besiege den Plasma-Schatten.",
-  "step 16.0516187675": "Team Plasma ist mit den DNS-Keile geflohen. Finde und räume die Plasma-Fregatte.",
-  "step 17.0087962819": "Anführer Ghetsis will die DNS-Keile bei [[pokemon::Kyurem]] im Giant Chasm einsetzen. Schließe das Gebiet ab und beende seine Pläne.",
-  "step 18.1404598542": "Sprich mit Colress auf der Plasma-Fregatte.",
-  "step 19.1894487672": "Besiege Colress.",
-  "step 20.1912400803": "Besiege die Plasma-Schatten.",
-  "step 21.1673282336": "Sprich mit der Shadow Triad.",
-  "step 22.1430144735": "Ghetsis hat im Giant Chasm etwas mit dem legendären Drachen-Pokémon angestellt!",
-  "step 23.0161459056": "Besiege Ghetsis ein für alle Mal!"
-},
-"Destiny Deoxys": {
-  "displayName.0479409362": "Das Schicksal von [[pokemon::Deoxys]]",
-  "description.0800220169": "Lüfte das Geheimnis des abgestürzten Meteoriten.",
-  "step 1.0128526453": "Im Giant Chasm sorgt eine neue Entdeckung für Aufsehen. Finde heraus, was dort geschehen ist.",
-  "step 2.0867411937": "Du hast einen pulsierenden Greenen Edelstein gefunden. Untersuche ihn genauer.",
-  "step 3.0827426691": "[[pokemon::Rayquaza]] und [[pokemon::Deoxys]] wüten in der Gegend. Versuche, sie zu beruhigen.",
-  "step 4.1979653557": "Nachdem sich die Lage beruhigt hat, sprich mit den örtlichen Wissenschaftlern über den Greenen Edelstein.",
-  "step 5.0407353830": "Sieh dich im Battle Frontier um, während der Wissenschaftler den Edelstein analysiert.",
-  "step 6.1479527457": "Während deines Aufenthalts dort wurde das Gebiet von einer Armee aus [[pokemon::Deoxys]] angegriffen. Kämpfe dich hindurch!",
-  "step 7.1141065792": "Der Wissenschaftler aus dem Giant Chasm sucht dich im Battle Frontier.",
-  "step 8.0646389080": "Der Generator funktioniert nicht. Suche nach Ersatzteilen, um ihn zu reparieren.",
-  "step 9.1477242352": "[[pokemon::Rayquaza]] greift erneut an. Beruhige es ein letztes Mal.",
-  "step 10.0105236495": "[[pokemon::Rayquaza]] erkennt, dass die [[pokemon::Deoxys]] keine Bedrohung darstellen. Vereine das violette und das Greene Edelstein-[[pokemon::Deoxys]]."
-},
+    "displayName.0942477357": "Zeros Ambition",
+    "description.1831191088": "Hilf Zero, einen Zugang zur Distortion World zu finden.",
+    "step 1.0398078898": "Sprich mit Zero im Kampfareal.",
+    "step 2.1082519883": "Lies das kürzlich entdeckte Buch in Canalave.",
+    "step 3.0044081679": "Berichte Zero, was in dem Buch stand.",
+    "step 4.2085149051": "Bitte [[pokemon::Mesprit]] am Lake Verity um Informationen über die Distortion World.",
+    "step 5.1615352731": "Beschaffe 10 Purple Shards.",
+    "step 6.0809952328": "Bitte [[pokemon::Azelf]] am Lake Valor um Informationen über die Distortion World.",
+    "step 7.0960798490": "Beschaffe 10 Ochre Shards.",
+    "step 8.0382130070": "Bitte [[pokemon::Uxie]] am Lake Acuity um Informationen über die Distortion World.",
+    "step 9.0979955406": "Beschaffe 10 Crimson Shards.",
+    "step 10.0882346915": "Schließe die Sendoff Spring ab, um das Seen-Trio zu treffen.",
+    "step 11.1324386104": "Sprich mit dem Seen-Trio an der Sendoff Spring.",
+    "step 12.0502958681": "Lade den Schlüssel zur Distortion World auf.",
+    "step 13.0081706452": "Sprich mit Zero an der Sendoff Spring.",
+    "step 14.0609165815": "Besiege Zero, um den Schlüssel zu schützen.",
+    "step 15.0489983333": "Fange den Herrscher der Distortion World.",
+    "step 16.0081706452": "Sprich erneut mit Zero an der Sendoff Spring."
+  },
+  "Hollow Truth and Ideals": {
+    "displayName.0420226771": "Leere Wahrheit und Ideale",
+    "description.2138702417": "Verhindere, dass Team Plasma die gefährlichen DNS-Keile einsetzt.",
+    "step 1.1956916657": "Ein Team-Plasma-Rüpel in Virbank City will dein Pokémon stehlen. Besiege ihn.",
+    "step 2.0655775754": "Mehrere Team-Plasma-Rüpel wurden in den Castelia Sewers gesichtet. Schließe die Castelia Sewers ab.",
+    "step 3.1469690190": "Untersuche die völlig gewöhnliche Fregatte.",
+    "step 4.2069744124": "In Castelia City scheint nichts Verdächtiges vor sich zu gehen. Setze deine Reise fort und schließe die Arena von Nimbasa City ab.",
+    "step 5.0132168331": "Hugh vermutet, dass Team Plasma in Nimbasa City Pokémon stiehlt. Besiege die Rüpel.",
+    "step 6.1839018942": "Sie stehlen definitiv Pokémon. Untersuche die absolut unverdächtige Fregatte.",
+    "step 7.1674893239": "Besiege die Team-Plasma-Rüpel auf der absolut unverdächtigen Fregatte.",
+    "step 8.0229415008": "Sprich mit Zinzolin.",
+    "step 9.0940019944": "Die Fregatte ist verschwunden. Bleibt nur, weiterzugehen. Schließe Route 13 ab.",
+    "step 10.1218186736": "In Lacunosa Town hast du Zinzolin und einen Team-Plasma-Rüpel aufgespürt. Besiege den Rüpel.",
+    "step 11.1370190428": "Besiege Zinzolin.",
+    "step 12.0198092113": "Besiege den Arenaleiter von Opelucid City, um die DNA-Spleißer vor Team Plasma zu erhalten!",
+    "step 13.1188846969": "Team Plasma hat die DNS-Keile gestohlen und greift die Stadt mit einer Armee aus Rüpeln und Schatten-Pokémon an! Wehre den Angriff ab!",
+    "step 14.1370190428": "Besiege Zinzolin.",
+    "step 15.1170069076": "Besiege den Plasma-Schatten.",
+    "step 16.0516187675": "Team Plasma ist mit den DNS-Keile geflohen. Finde und räume die Plasma-Fregatte.",
+    "step 17.0087962819": "Anführer Ghetsis will die DNS-Keile bei [[pokemon::Kyurem]] im Giant Chasm einsetzen. Schließe das Gebiet ab und beende seine Pläne.",
+    "step 18.1404598542": "Sprich mit Colress auf der Plasma-Fregatte.",
+    "step 19.1894487672": "Besiege Colress.",
+    "step 20.1912400803": "Besiege die Plasma-Schatten.",
+    "step 21.1673282336": "Sprich mit der Shadow Triad.",
+    "step 22.1430144735": "Ghetsis hat im Giant Chasm etwas mit dem legendären Drachen-Pokémon angestellt!",
+    "step 23.0161459056": "Besiege Ghetsis ein für alle Mal!"
+  },
+  "Destiny Deoxys": {
+    "displayName.0479409362": "Das Schicksal von [[pokemon::Deoxys]]",
+    "description.0800220169": "Lüfte das Geheimnis des abgestürzten Meteoriten.",
+    "step 1.0128526453": "Im Giant Chasm sorgt eine neue Entdeckung für Aufsehen. Finde heraus, was dort geschehen ist.",
+    "step 2.0867411937": "Du hast einen pulsierenden Greenen Edelstein gefunden. Untersuche ihn genauer.",
+    "step 3.0827426691": "[[pokemon::Rayquaza]] und [[pokemon::Deoxys]] wüten in der Gegend. Versuche, sie zu beruhigen.",
+    "step 4.1979653557": "Nachdem sich die Lage beruhigt hat, sprich mit den örtlichen Wissenschaftlern über den Greenen Edelstein.",
+    "step 5.0407353830": "Sieh dich im Battle Frontier um, während der Wissenschaftler den Edelstein analysiert.",
+    "step 6.1479527457": "Während deines Aufenthalts dort wurde das Gebiet von einer Armee aus [[pokemon::Deoxys]] angegriffen. Kämpfe dich hindurch!",
+    "step 7.1141065792": "Der Wissenschaftler aus dem Giant Chasm sucht dich im Battle Frontier.",
+    "step 8.0646389080": "Der Generator funktioniert nicht. Suche nach Ersatzteilen, um ihn zu reparieren.",
+    "step 9.1477242352": "[[pokemon::Rayquaza]] greift erneut an. Beruhige es ein letztes Mal.",
+    "step 10.0105236495": "[[pokemon::Rayquaza]] erkennt, dass die [[pokemon::Deoxys]] keine Bedrohung darstellen. Vereine das violette und das Greene Edelstein-[[pokemon::Deoxys]]."
+  },
   "Swords of Justice": {
     "displayName.0581236512": "Klingen der Gerechtigkeit",
     "description.1417716951": "Die Klingen der Gerechtigkeit spüren, dass etwas Schlimmes bevorsteht. Kannst du ihnen helfen?",
@@ -413,8 +413,8 @@
     "step 21.1574905850": "Besiege [[pokemon::Kyurem]] und verhindere weiteren Schaden!",
     "step 22.0930329406": "Du hast [[pokemon::Kyurem]] endgültig besiegt und es für immer im Giant Chasm versiegelt. Sprich mit den Klingen der Gerechtigkeit im Giant Chasm.",
     "step 23.0833915869": "Die Klingen der Gerechtigkeit kehren in ihre Heimat zurück, um auf deine Ankunft zu warten. Fange deine neuen Freunde und füge sie deinem Team hinzu!"
-},
-"The Legend Awakened": {
+  },
+  "The Legend Awakened": {
     "displayName.1205043508": "Die erwachte Legende",
     "description.0434359665": "Erfahre mehr über das mächtige Pokémon, das unter dem P2-Labor entdeckt wurde.",
     "step 1.1066891308": "Untersuche den Keller des P2-Labors.",
@@ -426,8 +426,8 @@
     "step 7.1110317943": "Beobachte den Kampf zwischen dem Reden [[pokemon::Genesect]] und einem anderen mächtigen Pokémon in Castelia City.",
     "step 8.0907814968": "Das Rede [[pokemon::Genesect]] ist ins P2-Labor abgestürzt und unterirdisch entkommen. Beginne mit der Suche.",
     "step 9.1647428345": "Fange [[pokemon::Genesect]] im P2-Labor."
-},
-"Gale of Darkness": {
+  },
+  "Gale of Darkness": {
     "displayName.0843727255": "Sturm der Dunkelheit",
     "description.0054519804": "Team Cipher ist nach Orre zurückgekehrt. Stoppe ihren neuen bösen Plan!",
     "step 1.1941054904": "Frage in Gateon Port nach Hinweisen zu neuer Team-Cipher-Aktivität.",
@@ -459,8 +459,8 @@
     "step 27.0299049916": "Sprich mit Professor Krane im Pokémon-HQ-Labor.",
     "step 28.0082435954": "Kämpfe gegen Team Cipher auf der Citadark Isle.",
     "step 29.1154114798": "Besiege Großmeister Greevil und [[pokemon::XD001]] im Citadark Isle Dome."
-},
-"The Delta Episode": {
+  },
+  "The Delta Episode": {
     "displayName.0517095484": "Die Delta‑Episode",
     "description.2002266033": "Eine Katastrophe bahnt sich an! Arbeite mit den Bewohnern von Hoenn zusammen, um sie aufzuhalten.",
     "step 1.0734465349": "Sprich mit Dr. Cozmo in Fallarbor Town.",
@@ -497,7 +497,7 @@
     "step 32.0055051663": "Sprich erneut mit Zinnia am Sky Pillar.",
     "step 33.0617234877": "Fliege mit [[pokemon::Mega Rayquaza]] in den Weltraum, um den Meteor zu zerstören.",
     "step 34.0085252200": "Sprich mit Dr. Cozmo im Mossdeep Space Center."
-},
+  },
   "Primal Reversion": {
     "displayName.2051230922": "PRedomorphose",
     "description.1438084024": "Team Aqua und Team Magma versuchen, die Urkraft von [[pokemon::Groudon]] und [[pokemon::Kyogre]] freizusetzen.",
@@ -518,8 +518,8 @@
     "step 15.0447030015": "Finde heraus, was die Team-Anführer am Mt. Pyre vorhaben.",
     "step 16.1666367100": "Besiege die PRedomorphosen. Beobachte das Wetter im Wetterinstitut, um ihre Angriffe vorherzusagen.",
     "step 17.1933977083": "Sprich erneut mit Herrn Stone in Slateport City."
-},
-"Detective Pikachu": {
+  },
+  "Detective Pikachu": {
     "displayName.1623214902": "[[pokemon::Detective Pikachu]]",
     "description.0467520037": "Der Partner von [[pokemon::Detective Pikachu]] ist verschwunden, und er braucht deine Hilfe!",
     "step 1.0682056966": "Durchsuche Goldenrod City nach Hinweisen.",
@@ -540,8 +540,8 @@
     "step 16.0704715007": "Besiege [[pokemon::Mewtwo]], um es von Howards Kontrolle zu befreien!",
     "step 17.0001758613": "Sprich in der Nähe der Cerulean Cave mit [[pokemon::Mewtwo]] über den Partner von [[pokemon::Detective Pikachu]].",
     "step 18.1025907570": "Sprich mit [[pokemon::Detective Raichu]]."
-},
-"The Great Vivillon Hunt!": {
+  },
+  "The Great Vivillon Hunt!": {
     "displayName.0874542443": "Die große Vivillon-Jagd!",
     "description.0438459518": "Entdecke die Schönheit von Vivillon.",
     "step 1.0464350243": "Fange oder züchte 100 Wasser-Pokémon.",
@@ -580,7 +580,7 @@
     "step 34.0634541871": "Finde und fange das seltene Vivillon!\nHinweis: Es ist an einem sehr kalten Ort zu finden.",
     "step 35.1288150736": "Fange oder züchte 200 Normal-Pokémon.",
     "step 36.2138606102": "Finde und fange das seltene Vivillon!\nHinweis: Nur die stärksten Herausforderer können es erreichen."
-},
+  },
   "A Beautiful World": {
     "displayName.1678936540": "Eine schöne Welt",
     "description.0933573659": "Beende Team Flares Plan, die Welt zu zerstören und eine neue an ihrer Stelle zu erschaffen.",
@@ -620,8 +620,8 @@
     "step 34.1047531517": "Stoppe Team Flare Boss Lysandre im geheimen Quartier ein für alle Mal!",
     "step 35.0184540744": "Geschafft! Du hast Kalos gerettet! Jetzt bleibt nur noch, deine Reise zur Pokémon-Liga von Kalos fortzusetzen!",
     "step 36.0526524186": "Was für ein großartiger Trainer! Du bist Champion von Kalos geworden! Zu deinen Ehren findet in Lumiose City eine Parade statt. Aber warte, AZ ist da und fordert dich zu einem Kampf heraus. Zeig ihm, was einen wahren Pokémon-Trainer ausmacht!"
-},
-"Princess Diancie": {
+  },
+  "Princess Diancie": {
     "displayName.1933371478": "Prinzessin [[pokemon::Diancie]]",
     "description.2072227846": "Prinzessin [[pokemon::Diancie]] wurde in Kalos gesichtet! Sie sucht nach etwas.",
     "step 1.1090659266": "Fange oder züchte 100 Feen-Pokémon, um [[pokemon::Diancie]]s Feen-Aura zu folgen.",
@@ -634,7 +634,7 @@
     "step 8.0361689613": "Sprich mit Prinzessin [[pokemon::Diancie]] in Shalour City.",
     "step 9.1764390662": "Fange [[pokemon::Diancie]] in der Reflection Cave.",
     "step 10.1743532480": "Ein wütendes [[pokemon::Yveltal]] bedroht das Diamond Domain! Hilf [[pokemon::Diancie]], es zu besiegen!"
-},
+  },
   "Clash of Ages": {
     "displayName.1432828854": "Kampf der Zeiten",
     "description.1993148492": "[[pokemon::Hoopa]] hat etwas Verschmitztes vor...",
@@ -653,7 +653,7 @@
     "step 13.1976407901": "Besiege das ungebundene [[pokemon::Hoopa]] und seine beschworenen Verteidiger in der Nähe von Laverre City.",
     "step 14.1503778236": "Besiege das ungebundene [[pokemon::Hoopa]] in der Nähe von Kiloude City – diesmal wirklich."
   },
-"An Unrivaled Power": {
+  "An Unrivaled Power": {
     "displayName.1531328062": "Eine unvergleichliche Kraft",
     "description.1252318376": "Es heißt, dass [[pokemon::Mewtwo]] sich Mega-Entwickeln kann. Suche nach Hinweisen, wie du die Mega-Steine finden kannst, um diese unvergleichliche Kraft zu beherrschen.",
     "step 1.0050938324": "Red könnte etwas wissen. Kämpfe am Indigo-Plateau in Kanto gegen ihn und frage, was er weiß.",
@@ -676,7 +676,7 @@
     "step 18.1455326949": "Besiege Anomalie-[[pokemon::Mewtwo]] im Pokémon Village.",
     "step 19.0169631639": "Sprich im Pokémon Village mit Anomalie-[[pokemon::Mewtwo]]."
   },
-"Welcome to Paradise, Cousin!": {
+  "Welcome to Paradise, Cousin!": {
     "displayName.2120912064": "Willkommen im Paradies, Cousin!",
     "description.1484916147": "Zeit, deinen Alola-Urlaub zu starten! Sieh dir die Sehenswürdigkeiten auf Melemele Island an.",
     "step 1.0718122927": "Beschütze die Pokémon des mysteriösen Mädchens! Kämpfe gegen das [[pokemon::Spearow]] in der Nähe der Ruins of Conflict.",
@@ -693,7 +693,7 @@
     "step 12.1664407728": "Besiege Hala in Iki Town, um die Inselprüfung abzuschließen!",
     "step 13.1272179289": "Auf dem Ten Carat Hill gibt es noch einen Z-Kristall. Finde die Prüfungsstätte und beanspruche ihn!"
   },
-"Symbiotic Relations": {
+  "Symbiotic Relations": {
     "displayName.0480413340": "Symbiotische Beziehungen",
     "description.0448738796": "Hilf Lillie und Nebby auf Akala Island und triff einige freundliche Gesichter.",
     "step 1.0143161711": "Plane deinen nächsten Schritt mit Lillie in Heahea City.",
@@ -707,7 +707,7 @@
     "step 9.0220111190": "Triff Kahuna Olivia und Lillie bei den Ruins of Life und schließe die Inselprüfung von Akala Island ab!",
     "step 10.0049188447": "Ein seltsames Wesen ist im Aether Paradise erschienen. Vertreibe es und säubere das Ultra-Wurmloch."
   },
-"Child of the Stars": {
+  "Child of the Stars": {
     "displayName.1587651949": "Kind der Sterne",
     "description.1719552071": "Erfahre mehr über Nebbys Herkunft, indem du auf Ula'Ula Island mit Lillie sprichst.",
     "step 1.0863428589": "Lies in Malie City mit Lillie etwas über die Legenden von Alola.",
@@ -726,7 +726,7 @@
     "step 14.0610490453": "Sprich mit Lillie und Gladio im Aether Paradise, wenn du bereit bist, zur nächsten Insel zu reisen.",
     "step 15.2000126435": "Es gibt weitere Z-Kristalle auf Ula'Ula Island. Finde die Prüfungsstätte in der Haina Desert, nachdem du die Route geschafft hast.",
     "step 16.0856823343": "Hol dir das Steelium Z. Besiege Molayne im Hokulani Observatory."
-  }
+  },
   "Emissary of Light": {
     "displayName.0802855578": "Bote des Lichts",
     "description.0893377200": "Suche auf Poni Island nach dem legendären Pokémon von Alola.",
@@ -740,7 +740,7 @@
     "step 8.1139193204": "Hilf Lillie, ihre Mutter zu erreichen! Besiege Lusamine am Altar of the Sunne and Moone.",
     "step 9.0779531897": "Endlich sind alle in Sicherheit. Sprich mit Lillie."
   },
-"Eater of Light": {
+  "Eater of Light": {
     "displayName.0633466184": "Verschlinger des Lichts",
     "description.0840417703": "Ein gefährliches Pokémon aus einer anderen Welt bedroht die Alola-Region.",
     "step 1.0719681103": "Halte den Verschlinger des Lichts davon ab, alles Licht in Alola zu absorbieren. Besiege [[pokemon::Ultra Necrozma]] am Altar of the Sunne and Moone.",
@@ -751,12 +751,12 @@
     "step 6.1491841197": "Ein Schritt näher am Sieg: Säubere Mount Lanakila!",
     "step 7.1819140985": "Du warst so sehr von [[pokemon::Necrozma]] abgelenkt, dass du den Z-Kristall vergessen hast! Finde die Prüfungsstätte im Mount Lanakila Dungeon."
   },
-"Island Challenge": {
+  "Island Challenge": {
     "displayName.0625289240": "Inselprüfung",
     "description.1439609460": "Begib dich auf die Island Challenge und begegne den Tapus!",
     "step 1.0871942053": "Starte deine Island Challenge in Professor Kukuis Labor."
   },
-"Typing some Memories": {
+  "Typing some Memories": {
     "displayName.1132184674": "Ein paar Erinnerungen sammeln",
     "description.1767365070": "Hilf Gladion, die Erinnerungen seines [[pokemon::Silvally]] wiederherzustellen.",
     "step 1.0838692519": "Sprich mit Gladion in der Aether Foundation.",
@@ -794,7 +794,7 @@
     "step 33.0554617243": "Besiege Ryuki, um die Erinnerung zurückzuerlangen.",
     "step 34.1878067047": "Sprich mit Gladion in der Aether Foundation und sag ihm, dass du alle Erinnerungen von [[pokemon::Silvally]] zurückgeholt hast!"
   },
-"Ultra Beast Hunt": {
+  "Ultra Beast Hunt": {
     "displayName.1162013960": "Jagd nach Ultrabestien",
     "description.0787182478": "Spüre die mysteriösen Ultrabestien auf.",
     "step 1.0390655067": "Sprich mit Looker im Roadside Motel.",
@@ -846,8 +846,8 @@
     "step 19.1420588718": "[[pokemon::Eternatus]] hat seine Eternamax-Form angenommen! Fange es, um dem schwärzesten Tag ein Ende zu setzen!",
     "step 20.2056009756": "Nach all den Unterbrechungen ist es endlich Zeit für das Finalmatch! Sprich mit Leon im Stadion von Wyndon.",
     "step 21.0937318958": "Besiege Leon und werde Champ von Galar!"
-},
-"Sword and Shield": {
+  },
+  "Sword and Shield": {
     "displayName.1270013931": "Schwert und Schild",
     "description.0991073022": "Halte die Waffen davon ab, Chaos zu verursachen.",
     "step 1.0244248541": "Sprich mit Hop im Slumbering Weald.",
@@ -870,8 +870,8 @@
     "step 18.0556590724": "[[pokemon::Zacian]] und [[pokemon::Zamazenta]] randalieren im Kraftwerk. Besiege sie!",
     "step 19.1917558293": "Sprich mit Nezz im Kraftwerk.",
     "step 20.1138953294": "Jetzt, da sie sich beruhigt haben, scheinen [[pokemon::Zacian]] und [[pokemon::Zamazenta]] bereit zu sein, sich von dir fangen zu lassen!"
-},
-"The Dojo's Armor": {
+  },
+  "The Dojo's Armor": {
     "displayName.1299100618": "Die Rüstung des Dojos",
     "description.2099033903": "Erhalte die geheime Rüstung des Meister-Dojos.",
     "step 1.1947950187": "Sprich mit Mustard im Meister-Dojo.",
@@ -894,7 +894,7 @@
     "step 18.1947950187": "Sprich mit Mustard im Meister-Dojo.",
     "step 19.1619024923": "Level [[pokemon::Kubfu]] in beiden Towers of Two Fists, um [[pokemon::Urshifu]] zu erhalten!",
     "step 20.1833504158": "Sprich mit Mustard in einem der Towers of Two Fists."
-},
+  },
   "Secrets of the Jungle": {
     "displayName.1333668760": "Geheimnisse des Dschungels",
     "description.0182551908": "Lüfte die Geheimnisse des Dschungels.",
@@ -913,8 +913,8 @@
     "step 13.1222749604": "Sprich mit Ash Ketchum im Glimwood Tangle.",
     "step 14.0591625403": "Spiele mit [[pokemon::Flowering Celebi]].",
     "step 15.1054226407": "Sprich mit Koko im Glimwood Tangle."
-},
-"The Crown of Galar": {
+  },
+  "The Crown of Galar": {
     "displayName.0935364594": "Die Krone von Galar",
     "description.1924918578": "Hilf dem uralten König von Galar, [[pokemon::Calyrex]], zu seiner früheren Stärke zurückzufinden.",
     "step 1.0676334251": "Sprich mit Peony, um mehr über den uralten König von Galar zu erfahren.",
@@ -928,7 +928,7 @@
     "step 9.1817664995": "Nun, da du beide Reittiere gefangen hast, sprich mit [[pokemon::Calyrex]] am Crown Shrine.",
     "step 10.2057818286": "Nachdem du [[pokemon::Glastrier]] und [[pokemon::Spectrier]] gefunden und gefangen hast, fordert dich [[pokemon::Calyrex]] am Crown Shrine heraus. Fange es!",
     "step 11.1030227888": "Jetzt, da du [[pokemon::Calyrex]] gefangen hast, erstatte Peony Bericht!"
-},
+  },
   "The Birds of the Dyna Tree": {
     "displayName.0357860973": "Die Vögel des Dynabaums",
     "description.1051257617": "Finde die legendären Vögel des Dynabaums.",
@@ -940,8 +940,8 @@
     "step 6.0675367099": "Du hast [[pokemon::Galarian Articuno]], [[pokemon::Galarian Zapdos]] und [[pokemon::Galarian Moltres]] jeweils mehrfach besiegt. Frage Peony, was als Nächstes zu tun ist.",
     "step 7.1796407332": "[[pokemon::Galarian Articuno]], [[pokemon::Galarian Zapdos]] und [[pokemon::Galarian Moltres]] streifen nun jeweils durch die Crown Tundra, Southern Galar und die Isle of Armor. Fange sie, wenn sich die Gelegenheit bietet!",
     "step 8.1903653834": "Nachdem du [[pokemon::Galarian Articuno]], [[pokemon::Galarian Zapdos]] und [[pokemon::Galarian Moltres]] gefangen hast, erstatte Peony Bericht!"
-},
-"The Ancient Golems": {
+  },
+  "The Ancient Golems": {
     "displayName.1533055970": "Die uralten Golems",
     "description.1726222331": "Entdecke die uralten Golems in den Ruinen der Crown Tundra.",
     "step 1.0952822236": "Sprich mit Peony, um mehr über einige uralte Ruinen zu erfahren.",
@@ -955,7 +955,7 @@
     "step 9.1087452798": "Du hast [[pokemon::Regigigas]] gefangen. Erstatte Peony Bericht.",
     "step 10.1185349794": "Jetzt, da sie endlich geöffnet sind, fange [[pokemon::Regieleki]] und [[pokemon::Regidrago]] in den Split-Decision Ruins!",
     "step 11.0030680238": "Du hast nun endlich [[pokemon::Regieleki]] und [[pokemon::Regidrago]] gefangen. Erstatte Peony Bericht!"
-},
+  },
   "The Lair of Giants": {
     "displayName.1266483868": "Die Höhle der Giganten",
     "description.1321075449": "Erkunde die Max Lair und entdecke die Gigadynamax-Pokémon.",
@@ -997,8 +997,8 @@
     "step 36.1464041609": "[[pokemon::Eternamax Eternatus]] ist erneut in der Energy Plant erschienen! Besiege es noch einmal.",
     "step 37.1567189734": "Du hast [[pokemon::Eternamax Eternatus]] erneut besiegt. Sprich mit Leon in der Energy Plant.",
     "step 38.1671932600": "Geh zurück zur Max Lair, um Peonia zu berichten, was passiert ist."
-},
-"Incarnate Forces of Hisui": {
+  },
+  "Incarnate Forces of Hisui": {
     "displayName.0621192632": "Die wiedergeborene Natur Hisuis",
     "description.2003703383": "Cogita möchte, dass du die Kräfte der Natur fängst.",
     "step 1.1137563470": "Sprich mit Cogita in Galaxy Hall.",
@@ -1007,44 +1007,44 @@
     "step 4.2057997088": "Verfolge [[pokemon::Enamorus]] in die Crimson Mirelands.",
     "step 5.1123705137": "Fange [[pokemon::Enamorus]], das in Hisui umherstreift.",
     "step 6.0390334158": "Sprich mit Cogita im Ancient Retreat."
-},
-"Arceus: The Deified Pokémon": {
+  },
+  "Arceus: The Deified Pokémon": {
     "displayName.0229241933": "Arceus: Das göttliche Pokémon",
     "description.2102014186": "Entdecke die Wahrheit über die Pokémon-Gottheit [[pokemon::Arceus]]."
-},
-"Path of Legends": {
+  },
+  "Path of Legends": {
     "displayName.0611644584": "Pfad der Legenden",
     "description.0774108013": "Hilf Arven bei der Suche nach der Herba Mystica.",
     "step 1.0429587396": "Arven möchte dich und sich selbst testen. Besiege ihn am Poco Path Lighthouse."
-},
-"Victory Road": {
+  },
+  "Victory Road": {
     "displayName.1200551762": "Siegesstraße",
     "description.1747939131": "Fordere die Arenen von Paldea heraus, um deine neue Rivalin Nemona zu treffen.",
     "step 1.1885090628": "Endlich ist es Zeit, Nemona auf Augenhöhe zu begegnen! Besiege Champion Nemona in Mesagoza."
-},
-"Starfall Street": {
+  },
+  "Starfall Street": {
     "displayName.1154062666": "Straße zum Sternenfall",
     "description.0526577594": "Hilf Cassiopeia, Team Star aufzulösen.",
     "step 1.1885403553": "Penny hat sich als Cassiopeia entpuppt. Besiege sie an der Naranjuva Academy."
-},
-"The Way Home": {
+  },
+  "The Way Home": {
     "displayName.0366793375": "Der Heimweg",
     "description.0512294426": "Hilf [[pokemon::Koraidon]] und [[pokemon::Miraidon]], ihre Heimat in der geheimnisvollen Area Zero zu finden."
-},
-"Egg Hunt": {
+  },
+  "Egg Hunt": {
     "displayName.0100956402": "Eiersuche",
     "description.0084632481": "Ein Korb voller seltsamer Eier wurde gesichtet. Versuche, ihn zu finden!",
     "step 1.2124827863": "Seltsame Eier wurden in Kanto gesehen. Geh und suche sie! Vielleicht weiß Erika mehr?",
     "step 2.2040040156": "Scheint doch nur ein Easter Egg gewesen zu sein... Aber keine Zeit, darüber nachzudenken. Ein weiterer Bericht kam gerade rein: Sichtungen seltsamer Eier in einem Wald in Johto!",
     "step 3.0964391318": "Das sah aus wie ein [[pokemon::Togepi]]! Na ja, vielleicht doch nicht. Jedenfalls gibt es eine große Eiersuche im Wald südlich von Rustboro in Hoenn, vielleicht solltest du dort nachsehen?",
     "step 4.1241323459": "Die Eier sind weggelaufen! Sprich mit dem Eierjäger in Petalburg Woods."
-},
-"How blu mouse?": {
+  },
+  "How blu mouse?": {
     "displayName.0156967551": "Eine blaue Maus?",
     "description.0831657051": "Anscheinend könnte irgendwo ein seltsames blaues, mausartiges Pokémon unterwegs sein?",
     "step 1.0955061687": "Fange Pikablu."
-},
-"Dr. Splash's Research Project": {
+  },
+  "Dr. Splash's Research Project": {
     "displayName.0403605825": "Dr. Splashs Forschungsprojekt",
     "description.1557756802": "Hilf Dr. Splash, das volle Potenzial deines [[pokemon::Magikarp]] freizuschalten.",
     "step 1.0243386587": "Sprich mit Dr. Splash in Hoppy Town.",
@@ -1056,8 +1056,8 @@
     "step 7.0942481589": "Bring die gefangenen Pokémon zurück zu Dr. Splash in Hoppy Town.",
     "step 8.1128637253": "Besiege 5.000 Pokémon.",
     "step 9.1250667340": "Beende dein Forschungsprojekt, indem du mit Dr. Splash in Hoppy Town sprichst."
-},
-"Let's Go, Meltan!": {
+  },
+  "Let's Go, Meltan!": {
     "displayName.1999674911": "Los geht’s, [[pokemon::Meltan]]!",
     "description.1036728096": "Ich brauche deine Hilfe, um mehr über das neu entdeckte Pokémon zu erfahren, das mich und andere Forscher in Aufruhr versetzt hat.",
     "step 1.0689613735": "Schritt 1 von Los geht’s, [[pokemon::Meltan]]!",
@@ -1071,8 +1071,8 @@
     "step 9.0185805137": "Schritt 9 von Los geht’s, [[pokemon::Meltan]]!",
     "step 10.2034360765": "Schritt 10 von Los geht’s, [[pokemon::Meltan]]!",
     "step 11.1999674911": "Los geht’s, [[pokemon::Meltan]]!"
-},
-"Defeat Rainbow Rocket": {
+  },
+  "Defeat Rainbow Rocket": {
     "displayName.1578465067": "Besiege Rainbow Rocket",
     "description.0170283597": "Team Rainbow Rocket hat die [[pokemon::Meltan]]-Forschung gestohlen! Besiege sie, um sie zurückzubekommen!",
     "step 1.0300593040": "Besiege die Rüpel, die die Übernahme der Aether Foundation bewachen.",
@@ -1082,4 +1082,5 @@
     "step 5.1511446203": "Besiege Team Flare-Anführer Lysandre.",
     "step 6.0589479312": "Besiege Team Plasma-Anführer Ghetsis.",
     "step 7.1952827142": "Besiege Team Rainbow-Anführer Giovanni."
+  }
 }
