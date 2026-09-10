@@ -37,7 +37,7 @@
   "captured": "You have captured {{ pokemon, pokemon }}.",
   "capturedShiny": "You have captured a shiny {{ pokemon, pokemon }}!",
   "capturedShinyDupe": "[[capturedShiny]] (duplicate)",
-  "enemyDrop": "An enemy {{ pokemon, pokemon }} dropped one {{ item }}.",
+  "enemyDrop": "An enemy {{ pokemon, pokemon }} dropped {{ amount }} {{ item }}.",
   "capturedShadow": "You have captured a shadow {{ pokemon, pokemon }}!",
   "roamer": "[{{ location }}] You encountered a roaming {{ pokemon, pokemon }}!",
   "roamerShiny": "[{{ location }}] You encountered a shiny roaming {{ pokemon, pokemon }}!",

@@ -37,7 +37,7 @@
   "captured": "Du hast {{ pokemon, pokemon }} gefangen.",
   "capturedShiny": "Du hast ein schillerndes {{ pokemon, pokemon }} gefangen!",
   "capturedShinyDupe": "[[capturedShiny]] (Duplikat)",
-  "enemyDrop": "{{ pokemon, pokemon }} (Gegner) hat ein {{ item }} fallengelassen.",
+  "enemyDrop": "{{ pokemon, pokemon }} (Gegner) hat {{ amount}} {{ item }} fallengelassen.",
   "capturedShadow": "Du hast ein Crypto-{{ pokemon, pokemon }} gefangen!",
   "roamer": "[{{ location }}] Ein wanderndes {{ pokemon, pokemon }} erscheint!",
   "roamerShiny": "[{{ location }}] Ein wanderndes schillerndes {{ pokemon, pokemon }} erscheint!",
