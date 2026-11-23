@@ -10,6 +10,8 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
 
 ## Contributors
 
+Brazilian Portuguese translation and review: [@mvsantss](https://github.com/mvsantss).
+
 <!-- readme: contributors -start -->
 <table>
 <tr>
